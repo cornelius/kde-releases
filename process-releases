@@ -1,0 +1,125 @@
+#!/usr/bin/ruby
+
+only_major_releases = false
+
+major_releases = Hash.new
+minor_releases = Hash.new
+
+File.open("releases.txt").each_line do |line|
+  line =~ /^(.*) - (.*)$/
+  date_string = $1
+  release_string = $2
+  
+  date_string =~ /(.*) (.*) (.*)/
+  day = $1
+  month_string = $2
+  year = $3
+
+  day.gsub! /th/,""
+  day.gsub! /nd/,""
+  day.gsub! /rd/,""
+  day.gsub! /st/,""
+  
+  month = 0
+  case month_string
+  when "January"
+    month = 1
+  when "February"
+    month = 2
+  when "March"
+    month = 3
+  when "April"
+    month = 4
+  when "May"
+    month = 5
+  when "June"
+    month = 6
+  when "July"
+    month = 7
+  when "August"
+    month = 8
+  when "September"
+    month = 9
+  when "October"
+    month = 10
+  when "November"
+    month = 11
+  when "December"
+    month = 12
+  else
+    STDERR.puts "Unknown month name: #{month_string}"
+    exit 1
+  end
+
+  date = "#{year}.#{month}.#{day}"
+
+  release = ""
+  if release_string =~ /(\d\.\d+\.\d+.?) /
+    release = $1
+    minor_releases[release] = date
+  elsif release_string =~ /(\d\.\d+)/
+    release = $1
+    major_releases[release] = date
+  else
+    STDERR.puts "Could not find release in: #{release_string}"
+    exit 1
+  end
+end
+
+major_releases.each do |major,major_date|  
+  next_release = ""
+  
+  if major == "1.1"
+    next_release = "2.0"
+  elsif major == "2.2"
+    next_release = "3.0"
+  elsif major == "3.5"
+    next_release = "4.0"
+  else
+    release = major.split(".")
+    next_release = "#{release[0]}.#{release[1].to_i + 1}"
+  end
+
+  end_date = major_releases[next_release]
+  if !end_date
+    end_date = major_date
+  end
+
+  minor_releases.each do |minor,minor_date|
+    if minor =~ /^#{major}/
+      if minor_date > end_date
+        end_date = minor_date
+      end
+    end
+  end
+  
+  previous_release = ""
+  if major == "1.0"
+    previous_release = ""
+  elsif major == "2.0"
+    previous_release = ""
+  elsif major == "3.0"
+    previous_release = ""
+  elsif major == "4.0"
+    previous_release = ""
+  else
+    release = major.split(".")
+    previous_release = "#{release[0]}.#{release[1].to_i - 1}"
+  end
+    
+  print "\"N\",\"#{major}\",\"#44f\",\"#{previous_release}\",\"#{major_date}\",\"#{end_date}\",,,"
+
+  minor_releases.each do |minor,minor_date|
+    sub_releases = Array.new
+    if minor =~ /^#{major}/
+      sub_releases.push minor
+    end
+    sub_releases.sort!
+    sub_releases.each do |sub_release|
+      sub_release =~ /\d\.\d\.(\d.?)/
+      label = "."
+      print "\"#{label}\",\"#{minor_releases[sub_release]}\",,"
+    end
+  end
+  puts
+end

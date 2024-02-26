@@ -1,0 +1,666 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<!-- Created with gnuclad HEAD -->
+
+<svg
+  xmlns='http://www.w3.org/2000/svg'
+  xmlns:svg='http://www.w3.org/2000/svg'
+  xmlns:xlink='http://www.w3.org/1999/xlink'
+  xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape'
+  xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd'
+  xmlns:dc='http://purl.org/dc/elements/1.1/'
+  xmlns:cc='http://creativecommons.org/ns#'
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  version='1.1'
+  width='1520'
+  height='1180'
+>
+
+<title></title>
+
+<defs>
+
+  <linearGradient id='__yearline' x1='0' y1='0' x2='1' y2='0'>
+    <stop stop-color='#037' offset='0' stop-opacity='1' />
+    <stop stop-color='#37d' offset='1' stop-opacity='1' />
+  </linearGradient>
+
+  <linearGradient id='__infobox_fill' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#51b1f1' offset='0' stop-opacity='1' />
+    <stop stop-color='#3181f1' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <linearGradient id='__infobox_stroke' x1='0' y1='0' x2='0' y2='1'>
+    <stop stop-color='#3181f1' offset='0' stop-opacity='1' />
+    <stop stop-color='#51b1f1' offset='1' stop-opacity='1' />
+  </linearGradient>
+  <filter id='__infobox_shadow' color-interpolation-filters='sRGB'>
+    <feGaussianBlur stdDeviation='5' />
+  </filter>
+
+
+  <circle id='__connectors_start' cx='0' cy='0' r='4' stroke='none' />
+<rect id='__fadeout' height='1' width='7' y='-0.5' x='0'/>  <linearGradient id='__fadeout_1.0' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_1.0' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_1.0)' />
+  </marker>
+  <linearGradient id='__fadeout_1.1' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_1.1' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_1.1)' />
+  </marker>
+  <linearGradient id='__fadeout_2.0' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_2.0' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_2.0)' />
+  </marker>
+  <linearGradient id='__fadeout_2.1' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_2.1' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_2.1)' />
+  </marker>
+  <linearGradient id='__fadeout_2.2' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_2.2' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_2.2)' />
+  </marker>
+  <linearGradient id='__fadeout_3.0' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_3.0' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_3.0)' />
+  </marker>
+  <linearGradient id='__fadeout_3.1' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_3.1' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_3.1)' />
+  </marker>
+  <linearGradient id='__fadeout_3.2' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_3.2' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_3.2)' />
+  </marker>
+  <linearGradient id='__fadeout_3.3' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_3.3' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_3.3)' />
+  </marker>
+  <linearGradient id='__fadeout_3.4' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_3.4' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_3.4)' />
+  </marker>
+  <linearGradient id='__fadeout_3.5' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_3.5' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_3.5)' />
+  </marker>
+  <linearGradient id='__fadeout_4.0' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.0' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.0)' />
+  </marker>
+  <linearGradient id='__fadeout_4.1' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.1' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.1)' />
+  </marker>
+  <linearGradient id='__fadeout_4.2' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.2' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.2)' />
+  </marker>
+  <linearGradient id='__fadeout_4.3' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.3' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.3)' />
+  </marker>
+  <linearGradient id='__fadeout_4.4' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.4' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.4)' />
+  </marker>
+  <linearGradient id='__fadeout_4.5' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.5' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.5)' />
+  </marker>
+  <linearGradient id='__fadeout_4.6' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.6' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.6)' />
+  </marker>
+  <linearGradient id='__fadeout_4.7' x1='0' y1='0' x2='7' y2='0' gradientUnits='userSpaceOnUse'>
+    <stop stop-color='#44f' offset='0' stop-opacity='1' />
+    <stop stop-color='#44f' offset='1' stop-opacity='0' />
+  </linearGradient>
+  <marker id='__stop_4.7' markerWidth='7' markerHeight='1' style='overflow:visible;'>
+    <use xlink:href='#__fadeout' style='fill:url(#__fadeout_4.7)' />
+  </marker>
+
+<!-- BEGIN additional SVG images - definitions -->
+
+<!-- END additional SVG images - definitions -->
+
+</defs>
+
+<g inkscape:label='Background' inkscape:groupmode='layer' id='layer_background' >
+  <rect x='0' y='0' width='1520' height='1180' rx='25' ry='25' fill='#fafafa' />
+</g>
+
+<g inkscape:label='Year Rulers' inkscape:groupmode='layer' id='layer_yearrulers' stroke-width='0' stroke='#eee'>
+  <line x1='10' y1='0' x2='10' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='18' y1='0' x2='18' y2='1180' />
+    <line x1='26' y1='0' x2='26' y2='1180' />
+    <line x1='35' y1='0' x2='35' y2='1180' />
+    <line x1='43' y1='0' x2='43' y2='1180' />
+    <line x1='51' y1='0' x2='51' y2='1180' />
+    <line x1='60' y1='0' x2='60' y2='1180' />
+    <line x1='68' y1='0' x2='68' y2='1180' />
+    <line x1='76' y1='0' x2='76' y2='1180' />
+    <line x1='85' y1='0' x2='85' y2='1180' />
+    <line x1='93' y1='0' x2='93' y2='1180' />
+    <line x1='101' y1='0' x2='101' y2='1180' />
+  <line x1='110' y1='0' x2='110' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='118' y1='0' x2='118' y2='1180' />
+    <line x1='126' y1='0' x2='126' y2='1180' />
+    <line x1='135' y1='0' x2='135' y2='1180' />
+    <line x1='143' y1='0' x2='143' y2='1180' />
+    <line x1='151' y1='0' x2='151' y2='1180' />
+    <line x1='160' y1='0' x2='160' y2='1180' />
+    <line x1='168' y1='0' x2='168' y2='1180' />
+    <line x1='176' y1='0' x2='176' y2='1180' />
+    <line x1='185' y1='0' x2='185' y2='1180' />
+    <line x1='193' y1='0' x2='193' y2='1180' />
+    <line x1='201' y1='0' x2='201' y2='1180' />
+  <line x1='210' y1='0' x2='210' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='218' y1='0' x2='218' y2='1180' />
+    <line x1='226' y1='0' x2='226' y2='1180' />
+    <line x1='235' y1='0' x2='235' y2='1180' />
+    <line x1='243' y1='0' x2='243' y2='1180' />
+    <line x1='251' y1='0' x2='251' y2='1180' />
+    <line x1='260' y1='0' x2='260' y2='1180' />
+    <line x1='268' y1='0' x2='268' y2='1180' />
+    <line x1='276' y1='0' x2='276' y2='1180' />
+    <line x1='285' y1='0' x2='285' y2='1180' />
+    <line x1='293' y1='0' x2='293' y2='1180' />
+    <line x1='301' y1='0' x2='301' y2='1180' />
+  <line x1='310' y1='0' x2='310' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='318' y1='0' x2='318' y2='1180' />
+    <line x1='326' y1='0' x2='326' y2='1180' />
+    <line x1='335' y1='0' x2='335' y2='1180' />
+    <line x1='343' y1='0' x2='343' y2='1180' />
+    <line x1='351' y1='0' x2='351' y2='1180' />
+    <line x1='360' y1='0' x2='360' y2='1180' />
+    <line x1='368' y1='0' x2='368' y2='1180' />
+    <line x1='376' y1='0' x2='376' y2='1180' />
+    <line x1='385' y1='0' x2='385' y2='1180' />
+    <line x1='393' y1='0' x2='393' y2='1180' />
+    <line x1='401' y1='0' x2='401' y2='1180' />
+  <line x1='410' y1='0' x2='410' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='418' y1='0' x2='418' y2='1180' />
+    <line x1='426' y1='0' x2='426' y2='1180' />
+    <line x1='435' y1='0' x2='435' y2='1180' />
+    <line x1='443' y1='0' x2='443' y2='1180' />
+    <line x1='451' y1='0' x2='451' y2='1180' />
+    <line x1='460' y1='0' x2='460' y2='1180' />
+    <line x1='468' y1='0' x2='468' y2='1180' />
+    <line x1='476' y1='0' x2='476' y2='1180' />
+    <line x1='485' y1='0' x2='485' y2='1180' />
+    <line x1='493' y1='0' x2='493' y2='1180' />
+    <line x1='501' y1='0' x2='501' y2='1180' />
+  <line x1='510' y1='0' x2='510' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='518' y1='0' x2='518' y2='1180' />
+    <line x1='526' y1='0' x2='526' y2='1180' />
+    <line x1='535' y1='0' x2='535' y2='1180' />
+    <line x1='543' y1='0' x2='543' y2='1180' />
+    <line x1='551' y1='0' x2='551' y2='1180' />
+    <line x1='560' y1='0' x2='560' y2='1180' />
+    <line x1='568' y1='0' x2='568' y2='1180' />
+    <line x1='576' y1='0' x2='576' y2='1180' />
+    <line x1='585' y1='0' x2='585' y2='1180' />
+    <line x1='593' y1='0' x2='593' y2='1180' />
+    <line x1='601' y1='0' x2='601' y2='1180' />
+  <line x1='610' y1='0' x2='610' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='618' y1='0' x2='618' y2='1180' />
+    <line x1='626' y1='0' x2='626' y2='1180' />
+    <line x1='635' y1='0' x2='635' y2='1180' />
+    <line x1='643' y1='0' x2='643' y2='1180' />
+    <line x1='651' y1='0' x2='651' y2='1180' />
+    <line x1='660' y1='0' x2='660' y2='1180' />
+    <line x1='668' y1='0' x2='668' y2='1180' />
+    <line x1='676' y1='0' x2='676' y2='1180' />
+    <line x1='685' y1='0' x2='685' y2='1180' />
+    <line x1='693' y1='0' x2='693' y2='1180' />
+    <line x1='701' y1='0' x2='701' y2='1180' />
+  <line x1='710' y1='0' x2='710' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='718' y1='0' x2='718' y2='1180' />
+    <line x1='726' y1='0' x2='726' y2='1180' />
+    <line x1='735' y1='0' x2='735' y2='1180' />
+    <line x1='743' y1='0' x2='743' y2='1180' />
+    <line x1='751' y1='0' x2='751' y2='1180' />
+    <line x1='760' y1='0' x2='760' y2='1180' />
+    <line x1='768' y1='0' x2='768' y2='1180' />
+    <line x1='776' y1='0' x2='776' y2='1180' />
+    <line x1='785' y1='0' x2='785' y2='1180' />
+    <line x1='793' y1='0' x2='793' y2='1180' />
+    <line x1='801' y1='0' x2='801' y2='1180' />
+  <line x1='810' y1='0' x2='810' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='818' y1='0' x2='818' y2='1180' />
+    <line x1='826' y1='0' x2='826' y2='1180' />
+    <line x1='835' y1='0' x2='835' y2='1180' />
+    <line x1='843' y1='0' x2='843' y2='1180' />
+    <line x1='851' y1='0' x2='851' y2='1180' />
+    <line x1='860' y1='0' x2='860' y2='1180' />
+    <line x1='868' y1='0' x2='868' y2='1180' />
+    <line x1='876' y1='0' x2='876' y2='1180' />
+    <line x1='885' y1='0' x2='885' y2='1180' />
+    <line x1='893' y1='0' x2='893' y2='1180' />
+    <line x1='901' y1='0' x2='901' y2='1180' />
+  <line x1='910' y1='0' x2='910' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='918' y1='0' x2='918' y2='1180' />
+    <line x1='926' y1='0' x2='926' y2='1180' />
+    <line x1='935' y1='0' x2='935' y2='1180' />
+    <line x1='943' y1='0' x2='943' y2='1180' />
+    <line x1='951' y1='0' x2='951' y2='1180' />
+    <line x1='960' y1='0' x2='960' y2='1180' />
+    <line x1='968' y1='0' x2='968' y2='1180' />
+    <line x1='976' y1='0' x2='976' y2='1180' />
+    <line x1='985' y1='0' x2='985' y2='1180' />
+    <line x1='993' y1='0' x2='993' y2='1180' />
+    <line x1='1001' y1='0' x2='1001' y2='1180' />
+  <line x1='1010' y1='0' x2='1010' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='1018' y1='0' x2='1018' y2='1180' />
+    <line x1='1026' y1='0' x2='1026' y2='1180' />
+    <line x1='1035' y1='0' x2='1035' y2='1180' />
+    <line x1='1043' y1='0' x2='1043' y2='1180' />
+    <line x1='1051' y1='0' x2='1051' y2='1180' />
+    <line x1='1060' y1='0' x2='1060' y2='1180' />
+    <line x1='1068' y1='0' x2='1068' y2='1180' />
+    <line x1='1076' y1='0' x2='1076' y2='1180' />
+    <line x1='1085' y1='0' x2='1085' y2='1180' />
+    <line x1='1093' y1='0' x2='1093' y2='1180' />
+    <line x1='1101' y1='0' x2='1101' y2='1180' />
+  <line x1='1110' y1='0' x2='1110' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='1118' y1='0' x2='1118' y2='1180' />
+    <line x1='1126' y1='0' x2='1126' y2='1180' />
+    <line x1='1135' y1='0' x2='1135' y2='1180' />
+    <line x1='1143' y1='0' x2='1143' y2='1180' />
+    <line x1='1151' y1='0' x2='1151' y2='1180' />
+    <line x1='1160' y1='0' x2='1160' y2='1180' />
+    <line x1='1168' y1='0' x2='1168' y2='1180' />
+    <line x1='1176' y1='0' x2='1176' y2='1180' />
+    <line x1='1185' y1='0' x2='1185' y2='1180' />
+    <line x1='1193' y1='0' x2='1193' y2='1180' />
+    <line x1='1201' y1='0' x2='1201' y2='1180' />
+  <line x1='1210' y1='0' x2='1210' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='1218' y1='0' x2='1218' y2='1180' />
+    <line x1='1226' y1='0' x2='1226' y2='1180' />
+    <line x1='1235' y1='0' x2='1235' y2='1180' />
+    <line x1='1243' y1='0' x2='1243' y2='1180' />
+    <line x1='1251' y1='0' x2='1251' y2='1180' />
+    <line x1='1260' y1='0' x2='1260' y2='1180' />
+    <line x1='1268' y1='0' x2='1268' y2='1180' />
+    <line x1='1276' y1='0' x2='1276' y2='1180' />
+    <line x1='1285' y1='0' x2='1285' y2='1180' />
+    <line x1='1293' y1='0' x2='1293' y2='1180' />
+    <line x1='1301' y1='0' x2='1301' y2='1180' />
+  <line x1='1310' y1='0' x2='1310' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='1318' y1='0' x2='1318' y2='1180' />
+    <line x1='1326' y1='0' x2='1326' y2='1180' />
+    <line x1='1335' y1='0' x2='1335' y2='1180' />
+    <line x1='1343' y1='0' x2='1343' y2='1180' />
+    <line x1='1351' y1='0' x2='1351' y2='1180' />
+    <line x1='1360' y1='0' x2='1360' y2='1180' />
+    <line x1='1368' y1='0' x2='1368' y2='1180' />
+    <line x1='1376' y1='0' x2='1376' y2='1180' />
+    <line x1='1385' y1='0' x2='1385' y2='1180' />
+    <line x1='1393' y1='0' x2='1393' y2='1180' />
+    <line x1='1401' y1='0' x2='1401' y2='1180' />
+  <line x1='1410' y1='0' x2='1410' y2='1180' stroke-width='3' stroke='#ddd' />
+    <line x1='1418' y1='0' x2='1418' y2='1180' />
+    <line x1='1426' y1='0' x2='1426' y2='1180' />
+    <line x1='1435' y1='0' x2='1435' y2='1180' />
+    <line x1='1443' y1='0' x2='1443' y2='1180' />
+    <line x1='1451' y1='0' x2='1451' y2='1180' />
+    <line x1='1460' y1='0' x2='1460' y2='1180' />
+    <line x1='1468' y1='0' x2='1468' y2='1180' />
+    <line x1='1476' y1='0' x2='1476' y2='1180' />
+    <line x1='1485' y1='0' x2='1485' y2='1180' />
+    <line x1='1493' y1='0' x2='1493' y2='1180' />
+    <line x1='1501' y1='0' x2='1501' y2='1180' />
+  <line x1='1510' y1='0' x2='1510' y2='1180' stroke-width='3' stroke='#ddd' />
+</g>
+
+<g inkscape:label='Domains' inkscape:groupmode='layer' id='layer_domains' >
+</g>
+
+<g inkscape:label='Connectors' inkscape:groupmode='layer' id='layer_connectors'
+style='opacity:0.6;' >
+</g>
+
+<g inkscape:label='Lines' inkscape:groupmode='layer' id='layer_lines'
+ style='fill:none;stroke-width:4;' >
+  <path id='__line_1.0' d='M 63 115 L 126 115' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_1.0)' />
+  <path id='__line_1.1' d='M 126 165 L 291 165' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_1.1)' />
+  <path id='__line_2.0' d='M 291 215 L 324 215' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_2.0)' />
+  <path id='__line_2.1' d='M 324 265 L 371 265' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_2.1)' />
+  <path id='__line_2.2' d='M 371 315 L 435 315' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_2.2)' />
+  <path id='__line_3.0' d='M 435 365 L 517 365' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_3.0)' />
+  <path id='__line_3.1' d='M 517 415 L 618 415' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_3.1)' />
+  <path id='__line_3.2' d='M 618 465 L 673 465' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_3.2)' />
+  <path id='__line_3.3' d='M 673 515 L 730 515' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_3.3)' />
+  <path id='__line_3.4' d='M 730 565 L 767 565' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_3.4)' />
+  <path id='__line_3.5' d='M 800 615 L 1074 615' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_3.5)' />
+  <path id='__line_4.0' d='M 1012 665 L 1067 665' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.0)' />
+  <path id='__line_4.1' d='M 1067 715 L 1117 715' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.1)' />
+  <path id='__line_4.2' d='M 1117 765 L 1168 765' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.2)' />
+  <path id='__line_4.3' d='M 1168 815 L 1220 815' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.3)' />
+  <path id='__line_4.4' d='M 1220 865 L 1270 865' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.4)' />
+  <path id='__line_4.5' d='M 1270 915 L 1311 915' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.5)' />
+  <path id='__line_4.6' d='M 1316 965 L 1361 965' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.6)' />
+  <path id='__line_4.7' d='M 1367 1015 L 1416 1015' stroke='#44f' style='stroke-width:4;' marker-end='url(#__stop_4.7)' />
+  <path id='__line_4.8' d='M 1416 1065 L 1418 1065' stroke='#44f' style='stroke-width:4;' />
+</g>
+
+<g inkscape:label='Dots' inkscape:groupmode='layer' id='layer_dots'
+ style='stroke:none;' >
+  <circle id='__dot_1.0' cx='63' cy='115' r='6' fill='#44f' stroke='none' />
+  <circle id='__dot_1.1' cx='126' cy='165' r='6' fill='#44f' stroke='none' />
+    <circle cx='143' cy='165' r='4' fill='#44f' stroke='none' />
+    <circle cx='177' cy='165' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_2.0' cx='291' cy='215' r='6' fill='#44f' stroke='none' />
+    <circle cx='302' cy='215' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_2.1' cx='324' cy='265' r='6' fill='#44f' stroke='none' />
+    <circle cx='333' cy='265' r='4' fill='#44f' stroke='none' />
+    <circle cx='343' cy='265' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_2.2' cx='371' cy='315' r='6' fill='#44f' stroke='none' />
+    <circle cx='381' cy='315' r='4' fill='#44f' stroke='none' />
+    <circle cx='398' cy='315' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_3.0' cx='435' cy='365' r='6' fill='#44f' stroke='none' />
+    <circle cx='448' cy='365' r='4' fill='#44f' stroke='none' />
+    <circle cx='506' cy='365' r='4' fill='#44f' stroke='none' />
+    <circle cx='487' cy='365' r='4' fill='#44f' stroke='none' />
+    <circle cx='460' cy='365' r='4' fill='#44f' stroke='none' />
+    <circle cx='497' cy='365' r='4' fill='#44f' stroke='none' />
+    <circle cx='473' cy='365' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_3.1' cx='517' cy='415' r='6' fill='#44f' stroke='none' />
+    <circle cx='567' cy='415' r='4' fill='#44f' stroke='none' />
+    <circle cx='531' cy='415' r='4' fill='#44f' stroke='none' />
+    <circle cx='580' cy='415' r='4' fill='#44f' stroke='none' />
+    <circle cx='548' cy='415' r='4' fill='#44f' stroke='none' />
+    <circle cx='613' cy='415' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_3.2' cx='618' cy='465' r='6' fill='#44f' stroke='none' />
+    <circle cx='640' cy='465' r='4' fill='#44f' stroke='none' />
+    <circle cx='653' cy='465' r='4' fill='#44f' stroke='none' />
+    <circle cx='628' cy='465' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_3.3' cx='673' cy='515' r='6' fill='#44f' stroke='none' />
+    <circle cx='702' cy='515' r='4' fill='#44f' stroke='none' />
+    <circle cx='688' cy='515' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_3.4' cx='730' cy='565' r='6' fill='#44f' stroke='none' />
+    <circle cx='767' cy='565' r='4' fill='#44f' stroke='none' />
+    <circle cx='788' cy='565' r='4' fill='#44f' stroke='none' />
+    <circle cx='751' cy='565' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_3.5' cx='800' cy='615' r='6' fill='#44f' stroke='none' />
+    <circle cx='1023' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='948' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='1074' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='887' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='851' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='818' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='989' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='916' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='868' cy='615' r='4' fill='#44f' stroke='none' />
+    <circle cx='833' cy='615' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.0' cx='1012' cy='665' r='6' fill='#44f' stroke='none' />
+    <circle cx='1044' cy='665' r='4' fill='#44f' stroke='none' />
+    <circle cx='1027' cy='665' r='4' fill='#44f' stroke='none' />
+    <circle cx='1051' cy='665' r='4' fill='#44f' stroke='none' />
+    <circle cx='1035' cy='665' r='4' fill='#44f' stroke='none' />
+    <circle cx='1019' cy='665' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.1' cx='1067' cy='715' r='6' fill='#44f' stroke='none' />
+    <circle cx='1076' cy='715' r='4' fill='#44f' stroke='none' />
+    <circle cx='1113' cy='715' r='4' fill='#44f' stroke='none' />
+    <circle cx='1085' cy='715' r='4' fill='#44f' stroke='none' />
+    <circle cx='1094' cy='715' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.2' cx='1117' cy='765' r='6' fill='#44f' stroke='none' />
+    <circle cx='1144' cy='765' r='4' fill='#44f' stroke='none' />
+    <circle cx='1126' cy='765' r='4' fill='#44f' stroke='none' />
+    <circle cx='1151' cy='765' r='4' fill='#44f' stroke='none' />
+    <circle cx='1135' cy='765' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.3' cx='1168' cy='815' r='6' fill='#44f' stroke='none' />
+    <circle cx='1216' cy='815' r='4' fill='#44f' stroke='none' />
+    <circle cx='1193' cy='815' r='4' fill='#44f' stroke='none' />
+    <circle cx='1176' cy='815' r='4' fill='#44f' stroke='none' />
+    <circle cx='1201' cy='815' r='4' fill='#44f' stroke='none' />
+    <circle cx='1186' cy='815' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.4' cx='1220' cy='865' r='6' fill='#44f' stroke='none' />
+    <circle cx='1251' cy='865' r='4' fill='#44f' stroke='none' />
+    <circle cx='1234' cy='865' r='4' fill='#44f' stroke='none' />
+    <circle cx='1259' cy='865' r='4' fill='#44f' stroke='none' />
+    <circle cx='1244' cy='865' r='4' fill='#44f' stroke='none' />
+    <circle cx='1226' cy='865' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.5' cx='1270' cy='915' r='6' fill='#44f' stroke='none' />
+    <circle cx='1311' cy='915' r='4' fill='#44f' stroke='none' />
+    <circle cx='1293' cy='915' r='4' fill='#44f' stroke='none' />
+    <circle cx='1276' cy='915' r='4' fill='#44f' stroke='none' />
+    <circle cx='1293' cy='915' r='4' fill='#44f' stroke='none' />
+    <circle cx='1286' cy='915' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.6' cx='1316' cy='965' r='6' fill='#44f' stroke='none' />
+    <circle cx='1326' cy='965' r='4' fill='#44f' stroke='none' />
+    <circle cx='1336' cy='965' r='4' fill='#44f' stroke='none' />
+    <circle cx='1344' cy='965' r='4' fill='#44f' stroke='none' />
+    <circle cx='1353' cy='965' r='4' fill='#44f' stroke='none' />
+    <circle cx='1361' cy='965' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.7' cx='1367' cy='1015' r='6' fill='#44f' stroke='none' />
+    <circle cx='1377' cy='1015' r='4' fill='#44f' stroke='none' />
+  <circle id='__dot_4.8' cx='1416' cy='1065' r='6' fill='#44f' stroke='none' />
+</g>
+
+<g inkscape:label='Icons' inkscape:groupmode='layer' id='layer_icons'>
+</g>
+
+<g inkscape:label='Labels' inkscape:groupmode='layer' id='layer_labels' 
+ style='font-size:25px;stroke:none;fill:#010;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <rect x='66' y='85' width='36' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='69' y='106'  >1.0</text>
+  <rect x='129' y='135' width='34' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='132' y='156'  >1.1</text>
+    <text x='143' y='174' style='text-anchor:middle;'>.</text>
+    <text x='177' y='174' style='text-anchor:middle;'>.</text>
+  <rect x='294' y='185' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='297' y='206'  >2.0</text>
+    <text x='302' y='224' style='text-anchor:middle;'>.</text>
+  <rect x='327' y='235' width='36' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='330' y='256'  >2.1</text>
+    <text x='333' y='274' style='text-anchor:middle;'>.</text>
+    <text x='343' y='274' style='text-anchor:middle;'>.</text>
+  <rect x='374' y='285' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='377' y='306'  >2.2</text>
+    <text x='381' y='324' style='text-anchor:middle;'>.</text>
+    <text x='398' y='324' style='text-anchor:middle;'>.</text>
+  <rect x='438' y='335' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='441' y='356'  >3.0</text>
+    <text x='448' y='374' style='text-anchor:middle;'>.</text>
+    <text x='506' y='374' style='text-anchor:middle;'>.</text>
+    <text x='487' y='374' style='text-anchor:middle;'>.</text>
+    <text x='460' y='374' style='text-anchor:middle;'>.</text>
+    <text x='497' y='374' style='text-anchor:middle;'>.</text>
+    <text x='473' y='374' style='text-anchor:middle;'>.</text>
+  <rect x='520' y='385' width='36' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='523' y='406'  >3.1</text>
+    <text x='567' y='424' style='text-anchor:middle;'>.</text>
+    <text x='531' y='424' style='text-anchor:middle;'>.</text>
+    <text x='580' y='424' style='text-anchor:middle;'>.</text>
+    <text x='548' y='424' style='text-anchor:middle;'>.</text>
+    <text x='613' y='424' style='text-anchor:middle;'>.</text>
+  <rect x='621' y='435' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='624' y='456'  >3.2</text>
+    <text x='640' y='474' style='text-anchor:middle;'>.</text>
+    <text x='653' y='474' style='text-anchor:middle;'>.</text>
+    <text x='628' y='474' style='text-anchor:middle;'>.</text>
+  <rect x='676' y='485' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='679' y='506'  >3.3</text>
+    <text x='702' y='524' style='text-anchor:middle;'>.</text>
+    <text x='688' y='524' style='text-anchor:middle;'>.</text>
+  <rect x='733' y='535' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='736' y='556'  >3.4</text>
+    <text x='767' y='574' style='text-anchor:middle;'>.</text>
+    <text x='788' y='574' style='text-anchor:middle;'>.</text>
+    <text x='751' y='574' style='text-anchor:middle;'>.</text>
+  <rect x='803' y='585' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='806' y='606'  >3.5</text>
+    <text x='1023' y='624' style='text-anchor:middle;'>.</text>
+    <text x='948' y='624' style='text-anchor:middle;'>.</text>
+    <text x='1074' y='624' style='text-anchor:middle;'>.</text>
+    <text x='887' y='624' style='text-anchor:middle;'>.</text>
+    <text x='851' y='624' style='text-anchor:middle;'>.</text>
+    <text x='818' y='624' style='text-anchor:middle;'>.</text>
+    <text x='989' y='624' style='text-anchor:middle;'>.</text>
+    <text x='916' y='624' style='text-anchor:middle;'>.</text>
+    <text x='868' y='624' style='text-anchor:middle;'>.</text>
+    <text x='833' y='624' style='text-anchor:middle;'>.</text>
+  <rect x='1015' y='635' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1018' y='656'  >4.0</text>
+    <text x='1044' y='674' style='text-anchor:middle;'>.</text>
+    <text x='1027' y='674' style='text-anchor:middle;'>.</text>
+    <text x='1051' y='674' style='text-anchor:middle;'>.</text>
+    <text x='1035' y='674' style='text-anchor:middle;'>.</text>
+    <text x='1019' y='674' style='text-anchor:middle;'>.</text>
+  <rect x='1070' y='685' width='36' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1073' y='706'  >4.1</text>
+    <text x='1076' y='724' style='text-anchor:middle;'>.</text>
+    <text x='1113' y='724' style='text-anchor:middle;'>.</text>
+    <text x='1085' y='724' style='text-anchor:middle;'>.</text>
+    <text x='1094' y='724' style='text-anchor:middle;'>.</text>
+  <rect x='1120' y='735' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1123' y='756'  >4.2</text>
+    <text x='1144' y='774' style='text-anchor:middle;'>.</text>
+    <text x='1126' y='774' style='text-anchor:middle;'>.</text>
+    <text x='1151' y='774' style='text-anchor:middle;'>.</text>
+    <text x='1135' y='774' style='text-anchor:middle;'>.</text>
+  <rect x='1171' y='785' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1174' y='806'  >4.3</text>
+    <text x='1216' y='824' style='text-anchor:middle;'>.</text>
+    <text x='1193' y='824' style='text-anchor:middle;'>.</text>
+    <text x='1176' y='824' style='text-anchor:middle;'>.</text>
+    <text x='1201' y='824' style='text-anchor:middle;'>.</text>
+    <text x='1186' y='824' style='text-anchor:middle;'>.</text>
+  <rect x='1223' y='835' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1226' y='856'  >4.4</text>
+    <text x='1251' y='874' style='text-anchor:middle;'>.</text>
+    <text x='1234' y='874' style='text-anchor:middle;'>.</text>
+    <text x='1259' y='874' style='text-anchor:middle;'>.</text>
+    <text x='1244' y='874' style='text-anchor:middle;'>.</text>
+    <text x='1226' y='874' style='text-anchor:middle;'>.</text>
+  <rect x='1273' y='885' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1276' y='906'  >4.5</text>
+    <text x='1311' y='924' style='text-anchor:middle;'>.</text>
+    <text x='1293' y='924' style='text-anchor:middle;'>.</text>
+    <text x='1276' y='924' style='text-anchor:middle;'>.</text>
+    <text x='1293' y='924' style='text-anchor:middle;'>.</text>
+    <text x='1286' y='924' style='text-anchor:middle;'>.</text>
+  <rect x='1319' y='935' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1322' y='956'  >4.6</text>
+    <text x='1326' y='974' style='text-anchor:middle;'>.</text>
+    <text x='1336' y='974' style='text-anchor:middle;'>.</text>
+    <text x='1344' y='974' style='text-anchor:middle;'>.</text>
+    <text x='1353' y='974' style='text-anchor:middle;'>.</text>
+    <text x='1361' y='974' style='text-anchor:middle;'>.</text>
+  <rect x='1370' y='985' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1373' y='1006'  >4.7</text>
+    <text x='1377' y='1024' style='text-anchor:middle;'>.</text>
+  <rect x='1419' y='1035' width='38' height='25' fill='#fafafa' opacity='0.5'  rx='5' ry='5' />
+  <text x='1422' y='1056'  >4.8</text>
+</g>
+
+<g inkscape:label='Yearlines' inkscape:groupmode='layer' id='layer_yearlines' 
+ style='stroke:none;fill:url(#__yearline);' >
+  <rect x='0' y='0' rx='5' ry='5' width='1520' height='40' />
+  <rect x='0' y='1140' rx='5' ry='5' width='1520' height='40' />
+  <g style='font-size:28px;stroke:none;fill:#fff;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;text-anchor:middle;' >
+    <text x='60' y='30'><tspan>1998</tspan></text>
+    <text x='60' y='1170'><tspan>1998</tspan></text>
+    <text x='160' y='30'><tspan>1999</tspan></text>
+    <text x='160' y='1170'><tspan>1999</tspan></text>
+    <text x='260' y='30'><tspan>2000</tspan></text>
+    <text x='260' y='1170'><tspan>2000</tspan></text>
+    <text x='360' y='30'><tspan>2001</tspan></text>
+    <text x='360' y='1170'><tspan>2001</tspan></text>
+    <text x='460' y='30'><tspan>2002</tspan></text>
+    <text x='460' y='1170'><tspan>2002</tspan></text>
+    <text x='560' y='30'><tspan>2003</tspan></text>
+    <text x='560' y='1170'><tspan>2003</tspan></text>
+    <text x='660' y='30'><tspan>2004</tspan></text>
+    <text x='660' y='1170'><tspan>2004</tspan></text>
+    <text x='760' y='30'><tspan>2005</tspan></text>
+    <text x='760' y='1170'><tspan>2005</tspan></text>
+    <text x='860' y='30'><tspan>2006</tspan></text>
+    <text x='860' y='1170'><tspan>2006</tspan></text>
+    <text x='960' y='30'><tspan>2007</tspan></text>
+    <text x='960' y='1170'><tspan>2007</tspan></text>
+    <text x='1060' y='30'><tspan>2008</tspan></text>
+    <text x='1060' y='1170'><tspan>2008</tspan></text>
+    <text x='1160' y='30'><tspan>2009</tspan></text>
+    <text x='1160' y='1170'><tspan>2009</tspan></text>
+    <text x='1260' y='30'><tspan>2010</tspan></text>
+    <text x='1260' y='1170'><tspan>2010</tspan></text>
+    <text x='1360' y='30'><tspan>2011</tspan></text>
+    <text x='1360' y='1170'><tspan>2011</tspan></text>
+    <text x='1460' y='30'><tspan>2012</tspan></text>
+    <text x='1460' y='1170'><tspan>2012</tspan></text>
+  </g>
+</g>
+
+<g inkscape:label='Infobox' inkscape:groupmode='layer' id='layer_infobox'
+ style='stroke:none;fill:#000;font-family:Liberation Sans, Arial, Helvetica;-inkscape-font-specification:Liberation Sans, Arial, Helvetica;' >
+  <rect x='0' y='0' width='0' height='0' rx='10' ry='10' fill='#000' filter='url(#__infobox_shadow)' opacity='0.6' />
+  <rect x='0' y='0' width='0' height='0' rx='10' ry='10' fill='url(#__infobox_fill)' stroke='url(#__infobox_stroke)' stroke-width='2' />
+  <text x='6' y='21'><tspan style='font-size:18px;font-weight:bold;'></tspan></text>
+</g>
+
+<!-- BEGIN additional images -->
+
+<g inkscape:label='Included PNG Images' inkscape:groupmode='layer' id='layer_included_png'>
+</g>
+
+<g inkscape:label='Included SVG Images' inkscape:groupmode='layer' id='layer_included_svg'>
+</g>
+
+<!-- END additional images -->
+
+</svg>

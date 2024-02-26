@@ -1,0 +1,88 @@
+27th July 2011 - 4.7
+7th July 2011 - KDE Ships July Updates 4.6.5
+10th June 2011 - 4.6.4
+6th May 2011 - KDE Ships May Updates 4.6.3
+6th April 2011 - KDE Ships April Updates 4.6.2
+4th March 2011 - KDE Ships March Updates 4.6.1
+26th January 2011 - KDE SC 4.6 Released 
+7th January 2011 - KDE SC 4.5.5 Released 
+2nd November 2010 - December Updates Stabilize KDE 4.5.4 
+3rd November 2010 - KDE Ships November Updates 4.5.3
+5th October 2010 - KDE Ships October Updates 4.5.2 
+31st August 2010 - KDE SC 4.5.1 Released 
+10th August 2010 - KDE SC 4.5 Released 
+30th June 2010 - KDE SC 4.4.5 Released 
+1st June 2010 - KDE SC 4.4.4 Released 
+5th May 2010 - KDE SC 4.4.3 Released 
+30th March 2010 - KDE SC 4.4.2 Released 
+2nd March 2010 - KDE SC 4.4.1 Released 
+9th February 2010 - KDE SC 4.4 Released 
+26th January 2010 - KDE SC 4.3.5 Released 
+1st December 2009 - KDE SC 4.3.4 Released 
+3rd November 2009 - KDE 4.3.3 Released 
+6th October 2009 - KDE 4.3.2 Released 
+1st September 2009 - KDE 4.3.1 Released 
+4th August 2009 - KDE 4.3 Released 
+3rd June 2009 - KDE 4.2.4 Released 
+6th May 2009 - KDE 4.2.3 Released 
+2nd April 2009 - KDE 4.2.2 Released 
+4th March 2009 - KDE 4.2.1 Released 
+27th January 2009 - KDE 4.2 Released 
+13th January 2009 - KDE 4.1.4 Released 
+5th November 2008 - KDE 4.1.3 Released 
+3rd October 2008 - KDE 4.1.2 Released 
+3rd September 2008 - KDE 4.1.1 Released 
+26th August 2008 - KDE 3.5.10 Released 
+29th July 2008 - KDE 4.1 Released 
+4th June 2008 - KDE 4.0.5 Released 
+7th May 2008 - KDE 4.0.4 Released 
+2nd April 2008 - KDE 4.0.3 Released 
+5th March 2008 - KDE 4.0.2 Released 
+19th February 2008 - KDE 3.5.9 Released 
+5th February 2008 - KDE 4.0.1 Released 
+11th January 2008 - KDE 4.0 Released 
+16th October 2007 - KDE 3.5.8 Released 
+22nd May 2007 - KDE 3.5.7 Released 
+25th January 2007 - KDE 3.5.6 Released 
+11th October 2006 - KDE 3.5.5 Released 
+2nd August 2006 - KDE 3.5.4 Released 
+31 May 2006 - KDE 3.5.3 Released 
+28 March 2006 - KDE 3.5.2 Released 
+31 January 2006 - KDE 3.5.1 Released 
+29 November 2005 - KDE 3.5 Released 
+13 October 2005 - KDE 3.4.3 Released 
+28 July 2005 - KDE 3.4.2 Released 
+31 May 2005 - KDE 3.4.1 Released 
+16 March 2005 - KDE 3.4 Released 
+8 December 2004 - KDE 3.3.2 Released 
+12 October 2004 - KDE 3.3.1 Released 
+19 August 2004 - KDE 3.3 Released 
+09 June 2004 - KDE 3.2.3 Released 
+19 April 2004 - KDE 3.2.2 Released 
+09 March 2004 - KDE 3.2.1 Released 
+03 February 2004 - KDE 3.2 Released 
+14 January 2004 - KDE 3.1.5 Released 
+16 September 2003 - KDE 3.1.4 Released 
+29 July 2003 - KDE 3.1.3 Released 
+19 May 2003 - KDE 3.1.2 Released 
+20 March 2003 - KDE 3.1.1 Released 
+28 January 2003 - KDE 3.1 Released 
+21 December 2002 - KDE 3.0.5a Released 
+18 November 2002 - KDE 3.0.5 Released 
+9 October 2002 - KDE 3.0.4 Released 
+19 August 2002 - KDE 3.0.3 Released 
+2 July 2002 - KDE 3.0.2 Released 
+22 May 2002 - KDE 3.0.1 Released 
+3 April 2002 - KDE 3.0 Released 
+21 November 2001 - KDE 2.2.2 Released 
+19 September 2001 - KDE 2.2.1 Released 
+15 August 2001 - KDE 2.2 Released 
+30 April 2001 - KDE libraries 2.1.2 Released 
+27 March 2001 - KDE 2.1.1 Released 
+26 February 2001 - KDE 2.1 Released 
+05 December 2000 - KDE 2.0.1 released 
+23 October 2000 - KDE 2.0 released 
+6 September 1999 - KDE 1.1.2  
+4 May 1999 - KDE 1.1.1 
+4 March 1999 - KDE 1.1 
+12 July 1998 - KDE 1.0 Announcement

@@ -1,0 +1,118 @@
+Copyright (C) 2010-2012 Donjan Rodic <donjan@dyx.ch>
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.  This file is offered as-is,
+without any warranty.
+
+________________________________________________________________________
+
+Change documentation license from GFDL to Debian compatible ??
+
+backward compatibility breaks: ARGB, description column, rebasing
+
+gnuclad-cladogram: grouping by connectors ("real parenting")
+gnuclad-cladogram: optimise both-subtree at creation time?
+  -> no, keep all optimisations in one block
+gnuclad-cladogram: add switching optimisation (see mepis-antix-swift in gldt)
+
+gnuclad-cladogram: implement rebasing (reflow as new fork of other node)
+parser/csv: add description column, add rebasing (R|newparent, N|newname)
+
+gnuclad-cladogram: add sortkey by name reverse and by date reverse? (treemode 2? -> check)
+
+gnuclad: implement ARGB in Color constructors
+generator/svg: implement matching transparency settings
+
+gnuclad: reimplement parser/generator inclusion in modules.hpp (or Makefile.am)
+	 preprocessor array (headerfile, cli trigger, file extension)
+
+gnuclad: reimplement config options using ArgumentParser
+
+conf: add option to ignore connectors
+conf: use std::map and Option objects for conf options
+conf: multi line syntax in conf file with \
+
+generator/svg: !fix: refractor/move many coordinate calculations to functions
+generator/svg: fix: yearline is(is it?) slighty off (down) with orientation=1
+generator/svg: fix: connector thickness 1 should be thinner
+generator/svg: use CSS for styles (and check if it works in viewers like eog)
+generator/svg: domains along deriv lines (domainType 1)
+generator/svg: different fadeouts (fadeType)
+generator/svg: bigParent based only on direct children count (not size)
+generator/svg: curved connectors ???
+generator/svg: derivType like 2 but fill rect between line and parent
+generator/svg: add CSS3 text shadow option alternative to label background
+               (http://www.w3.org/Style/Examples/007/text-shadow)
+
+parser/dir: domain spacing
+parser/dir: symlink connectors
+parser/dir: time based version (stat)
+    (created = deriv, last modified = nameChange)
+
+parser/csv: merge at end date "nodename" instead of date
+parser/csv: merge in the middle with "MM when from to"  ??
+parser/csv: rebase with "R when to"
+		OR... nodename, if already taken -> rebase
+
+
+generator/png: check for installed programs
+               inkscape, libbatik(/usr/bin/rasterizer) resp Fedora equivalent, ...
+generator/png: split checks by platform, use std::thread or pthreads
+
+parser/html
+generator/html
+
+translate manual
+
+---
+
+translatable strings (gettext)
+
+parser/gramps
+parser/gedcom
+
+parser/sqlite
+parser/gv (graphviz)
+                                                                    v0.3
+________________________________________________________________________
+
+
+take a look at libpng, then maybe implement colormap
+signature generator: 500x500 SVG (PNG if possible),
+                     average distribution, grayscale
+                                                                    v0.4
+________________________________________________________________________
+
+
+extensive testing, auditing and code cleanup
+                                                                    v0.5
+________________________________________________________________________
+
+                                                                    vXXX
+________________________________________________________________________
+
+REIMPLEMENT CONFIG OPTIONS
+  as done by Volker H. Simonis
+  as soon as the new standard ships (C++0x)
+  as generic Overload By Return Value chameleons
+  store in: vector<Option *> options
+  declare by subscript: options["width"] = int(4);
+                        options["start"] = Date(2002);
+  access by subscript:  cout << options["width"] << " "
+                             << Date2str(options["start"]);
+  enumeration shortcut: enum opts { width, start };
+                        options[width] = int(5);
+
+
+
+add ability to override options in CSV? (with X flag)
+  -> easy to implement, but painful to maintain
+
+label backgrounds... maybe use font renderer? (freetype)
+
+change command line interface? (getopts)
+
+base GUI on csveditor (java)?
+                                                                    vYYY
+________________________________________________________________________
