@@ -7,7 +7,34 @@ import re
 
 page = 1
 
-def identify_release(title):
+def identify_release_by_url(url):
+    m = re.search("kde.org/announcements/(.*)", url)
+    if m:
+        path = m.group(1).split("/")
+        category = path[0]
+        norelease_matches = ["conf-kde", "gsoc", "forum", "wikimedia", "announcement", "akademy", "fsfe", "cebit", "doc-loc", "response", "lwe", "k2", "sfcvs", "corel", "dld", "suse", "caldera"]
+        if any(x in category for x in norelease_matches):
+            return "norelease", None
+        if "kirigami" in category:
+            return "kirigami", None
+        if "koffice" in category:
+            return "koffice", None
+        version1 = path[1]
+        version2 = path[2]
+        if "rc" in version2 or category == "megarelease":
+            return "pre", None
+        if category == "1-2-3" or category == "4":
+            return "kde", version1
+        if category == "gear":
+            return "gear", version1
+        if category == "frameworks":
+            return "frameworks", version2
+        version3 = path[2]
+        if category == "plasma":
+            return "plasma", version3
+    return None, None
+
+def identify_release_by_title(title):
     pre_matches = ["Release Candidate", "Beta", "beta", "Alpha", " RC"]
     if any(x in title for x in pre_matches):
         return "pre", None
@@ -24,7 +51,7 @@ def identify_release(title):
     if m:
         return "frameworks", m.group(1)
 
-    m = re.search("Plasma (.*)", title)
+    m = re.search("Plasma ([\d\.]+)", title)
     if m:
         return "plasma", m.group(1)
 
@@ -85,7 +112,8 @@ with csv_path.open("w") as csv:
                         date = datetime.strptime(date_str, " %d %B %Y").date()
                     if element.name == "h3":
                         title = element.text.replace("\n"," ")
-                        stream, version = identify_release(title)
+                        stream, version = identify_release_by_title(title)
                     if element["class"][0] == "post-entry":
                         link = element.find("a")["href"]
+#                        stream, version = identify_release_by_url(link)
                 csv.write(f'{stream},{version},{date},"{title}",{link}\n')
