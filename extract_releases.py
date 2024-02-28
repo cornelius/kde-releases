@@ -42,6 +42,9 @@ def identify_release(url, title):
         if category == "1-2-3" or category == "4":
             if "beta" in version1 or "alpha" in version1:
                 return "pre", None
+            versions = version1.split(".")
+            if versions[0] == "1" and int(versions[1]) >= 89:
+                return "pre", None
             return "kde", version1
         if category == "gear":
             return "gear", version1
