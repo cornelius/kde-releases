@@ -1,750 +1,749 @@
-Day,Date,Title,Link
-Thursday, 15 February 2024,"KDE Gear 23.08.5",https://kde.org/announcements/gear/23.08.5/
-Saturday, 10 February 2024,"KDE Ships Frameworks 5.115.0",https://kde.org/announcements/frameworks/5/5.115.0/
-Wednesday, 31 January 2024,"KDE's Megarelease 6 - Release Candidate 2",https://kde.org/announcements/megarelease/6/rc2/
-Saturday, 13 January 2024,"KDE Ships Frameworks 5.114.0",https://kde.org/announcements/frameworks/5/5.114.0/
-Wednesday, 10 January 2024,"KDE's Megarelease 6 - Release Candidate 1",https://kde.org/announcements/megarelease/6/rc1/
-Wednesday, 20 December 2023,"KDE's 6th Megarelease - Beta 2",https://kde.org/announcements/megarelease/6/beta2/
-Monday, 18 December 2023,"conf.kde.in 2024 in Pune, Maharashtra",https://kde.org/announcements/conf-kde-in-2024/
-Thursday, 14 December 2023,"KDE Ships Frameworks 5.113.0",https://kde.org/announcements/frameworks/5/5.113.0/
-Thursday, 7 December 2023,"KDE Gear 23.08.4",https://kde.org/announcements/gear/23.08.4/
-Tuesday, 5 December 2023,"KDE Plasma 5.27.10, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.27.10/
-Wednesday, 29 November 2023,"KDE's 6th Megarelease - Beta 1",https://kde.org/announcements/megarelease/6/beta1/
-Tuesday, 14 November 2023,"KDE and Google Summer of Code 2023",https://kde.org/announcements/2023-gsoc-end/
-Sunday, 12 November 2023,"KDE Ships Frameworks 5.112.0",https://kde.org/announcements/frameworks/5/5.112.0/
-Thursday, 9 November 2023,"KDE Gear 23.08.3",https://kde.org/announcements/gear/23.08.3/
-Wednesday, 8 November 2023,"KDE's 6th Megarelease - Alpha",https://kde.org/announcements/megarelease/6/alpha/
-Tuesday, 24 October 2023,"KDE Plasma 5.27.9, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.27.9/
-Wednesday, 18 October 2023,"KDE Ships Frameworks 5.111.0",https://kde.org/announcements/frameworks/5/5.111.0/
-Thursday, 12 October 2023,"KDE Gear 23.08.2",https://kde.org/announcements/gear/23.08.2/
-Thursday, 14 September 2023,"KDE Gear 23.08.1",https://kde.org/announcements/gear/23.08.1/
-Tuesday, 12 September 2023,"KDE Plasma 5.27.8, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.27.8/
-Saturday, 9 September 2023,"KDE Ships Frameworks 5.110.0",https://kde.org/announcements/frameworks/5/5.110.0/
-Thursday, 24 August 2023,"KDE Gear ☀️ 23.08",https://kde.org/announcements/gear/23.08.0/
-Thursday, 17 August 2023,"KDE Ships Frameworks 5.109.0",https://kde.org/announcements/frameworks/5/5.109.0/
-Tuesday, 1 August 2023,"KDE Plasma 5.27.7, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.27.7/
-Saturday, 8 July 2023,"KDE Ships Frameworks 5.108.0",https://kde.org/announcements/frameworks/5/5.108.0/
-Thursday, 6 July 2023,"KDE Gear 23.04.3",https://kde.org/announcements/gear/23.04.3/
-Tuesday, 20 June 2023,"KDE Plasma 5.27.6, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.27.6/
-Saturday, 10 June 2023,"KDE Ships Frameworks 5.107.0",https://kde.org/announcements/frameworks/5/5.107.0/
-Thursday, 8 June 2023,"KDE Gear 23.04.2",https://kde.org/announcements/gear/23.04.2/
-Saturday, 13 May 2023,"KDE Ships Frameworks 5.106.0",https://kde.org/announcements/frameworks/5/5.106.0/
-Thursday, 11 May 2023,"KDE Gear 23.04.1",https://kde.org/announcements/gear/23.04.1/
-Tuesday, 9 May 2023,"KDE Plasma 5.27.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.27.5/
-Thursday, 20 April 2023,"KDE Gear 23.04",https://kde.org/announcements/gear/23.04.0/
-Saturday, 8 April 2023,"KDE Ships Frameworks 5.105.0",https://kde.org/announcements/frameworks/5/5.105.0/
-Tuesday, 4 April 2023,"KDE Plasma 5.27.4, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.27.4/
-Tuesday, 14 March 2023,"KDE Plasma 5.27.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.27.3/
-Saturday, 11 March 2023,"KDE Ships Frameworks 5.104.0",https://kde.org/announcements/frameworks/5/5.104.0/
-Thursday, 2 March 2023,"KDE Gear 22.12.3",https://kde.org/announcements/gear/22.12.3/
-Tuesday, 28 February 2023,"KDE Plasma 5.27.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.27.2/
-Tuesday, 21 February 2023,"KDE Plasma 5.27.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.27.1/
-Tuesday, 14 February 2023,"Plasma 5.27",https://kde.org/announcements/plasma/5/5.27.0/
-Sunday, 12 February 2023,"KDE Ships Frameworks 5.103.0",https://kde.org/announcements/frameworks/5/5.103.0/
-Thursday, 2 February 2023,"KDE Gear 22.12.2",https://kde.org/announcements/gear/22.12.2/
-Thursday, 19 January 2023,"Plasma 5.27 Beta",https://kde.org/announcements/plasma/5/5.26.90/
-Saturday, 14 January 2023,"KDE Ships Frameworks 5.102.0",https://kde.org/announcements/frameworks/5/5.102.0/
-Thursday, 5 January 2023,"KDE Gear 22.12.1",https://kde.org/announcements/gear/22.12.1/
-Tuesday, 3 January 2023,"KDE Plasma 5.26.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.26.5/
-Saturday, 10 December 2022,"KDE Ships Frameworks 5.101.0",https://kde.org/announcements/frameworks/5/5.101.0/
-Thursday, 8 December 2022,"KDE Gear
-22.12 is Here!",https://kde.org/announcements/gear/22.12.0/
-Tuesday, 29 November 2022,"KDE Plasma 5.26.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.26.4/
-Monday, 14 November 2022,"KDE Ships Frameworks 5.100.0",https://kde.org/announcements/frameworks/5/5.100.0/
-Tuesday, 8 November 2022,"KDE Plasma 5.26.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.26.3/
-Thursday, 3 November 2022,"KDE Gear 22.08.3",https://kde.org/announcements/gear/22.08.3/
-Tuesday, 25 October 2022,"KDE Plasma 5.26.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.26.2/
-Tuesday, 18 October 2022,"KDE Plasma 5.26.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.26.1/
-Friday, 14 October 2022,"KDE Plasma 5.24.7, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.24.7/
-Thursday, 13 October 2022,"KDE Gear 22.08.2",https://kde.org/announcements/gear/22.08.2/
-Tuesday, 11 October 2022,"Plasma 5.26",https://kde.org/announcements/plasma/5/5.26.0/
-Sunday, 9 October 2022,"KDE Ships Frameworks 5.99.0",https://kde.org/announcements/frameworks/5/5.99.0/
-Wednesday, 14 September 2022,"Plasma 5.26 Beta",https://kde.org/announcements/plasma/5/5.25.90/
-Monday, 12 September 2022,"KDE Ships Frameworks 5.98.0",https://kde.org/announcements/frameworks/5/5.98.0/
-Thursday, 8 September 2022,"KDE Gear 22.08.1",https://kde.org/announcements/gear/22.08.1/
-Tuesday, 6 September 2022,"KDE Plasma 5.25.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.25.5/
-Thursday, 18 August 2022,"KDE Gear 22.08",https://kde.org/announcements/gear/22.08.0/
-Sunday, 14 August 2022,"KDE Ships Frameworks 5.97.0",https://kde.org/announcements/frameworks/5/5.97.0/
-Tuesday, 2 August 2022,"KDE Plasma 5.25.4, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.25.4/
-Tuesday, 12 July 2022,"KDE Plasma 5.25.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.25.3/
-Monday, 11 July 2022,"KDE Plasma 5.24.6, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.24.6/
-Saturday, 9 July 2022,"KDE Ships Frameworks 5.96.0",https://kde.org/announcements/frameworks/5/5.96.0/
-Thursday, 7 July 2022,"KDE Gear 22.04.3",https://kde.org/announcements/gear/22.04.3/
-Tuesday, 28 June 2022,"KDE Plasma 5.25.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.25.2/
-Tuesday, 21 June 2022,"KDE Plasma 5.25.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.25.1/
-Tuesday, 14 June 2022,"Plasma 5.25",https://kde.org/announcements/plasma/5/5.25.0/
-Sunday, 12 June 2022,"KDE Ships Frameworks 5.95.0",https://kde.org/announcements/frameworks/5/5.95.0/
-Thursday, 9 June 2022,"KDE Gear 22.04.2",https://kde.org/announcements/gear/22.04.2/
-Thursday, 19 May 2022,"Plasma 5.25 Beta",https://kde.org/announcements/plasma/5/5.24.90/
-Saturday, 14 May 2022,"KDE Ships Frameworks 5.94.0",https://kde.org/announcements/frameworks/5/5.94.0/
-Thursday, 12 May 2022,"KDE Gear 22.04.1",https://kde.org/announcements/gear/22.04.1/
-Tuesday, 3 May 2022,"KDE Plasma 5.24.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.24.5/
-Thursday, 21 April 2022,"KDE Gear 22.04",https://kde.org/announcements/gear/22.04.0/
-Saturday, 9 April 2022,"KDE Ships Frameworks 5.93.0",https://kde.org/announcements/frameworks/5/5.93.0/
-Tuesday, 29 March 2022,"KDE Plasma 5.24.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.24.4/
-Wednesday, 16 March 2022,"First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular",https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/
-Saturday, 12 March 2022,"KDE Ships Frameworks 5.92.0",https://kde.org/announcements/frameworks/5/5.92.0/
-Tuesday, 8 March 2022,"KDE Plasma 5.24.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.24.3/
-Thursday, 3 March 2022,"KDE Gear 21.12.3",https://kde.org/announcements/gear/21.12.3/
-Tuesday, 22 February 2022,"KDE Plasma 5.24.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.24.2/
-Tuesday, 15 February 2022,"KDE Plasma 5.24.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.24.1/
-Sunday, 13 February 2022,"KDE Ships Frameworks 5.91.0",https://kde.org/announcements/frameworks/5/5.91.0/
-Tuesday, 8 February 2022,"Plasma 5.24",https://kde.org/announcements/plasma/5/5.24.0/
-Thursday, 3 February 2022,"KDE Gear 21.12.2",https://kde.org/announcements/gear/21.12.2/
-Thursday, 13 January 2022,"Plasma 5.24 Beta",https://kde.org/announcements/plasma/5/5.23.90/
-Saturday, 8 January 2022,"KDE Ships Frameworks 5.90.0",https://kde.org/announcements/frameworks/5/5.90.0/
-Thursday, 6 January 2022,"KDE Gear 21.12.1",https://kde.org/announcements/gear/21.12.1/
-Tuesday, 4 January 2022,"KDE Plasma 5.23.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.23.5/
-Saturday, 11 December 2021,"KDE Ships Frameworks 5.89.0",https://kde.org/announcements/frameworks/5/5.89.0/
-Thursday, 9 December 2021,"KDE Gear 21.12",https://kde.org/announcements/gear/21.12.0/
-Tuesday, 30 November 2021,"KDE Plasma 5.23.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.23.4/
-Saturday, 13 November 2021,"KDE Ships Frameworks 5.88.0",https://kde.org/announcements/frameworks/5/5.88.0/
-Tuesday, 9 November 2021,"KDE Plasma 5.23.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.23.3/
-Thursday, 4 November 2021,"KDE Gear 21.08.3",https://kde.org/announcements/gear/21.08.3/
-Tuesday, 26 October 2021,"KDE Plasma 5.23.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.23.2/
-Tuesday, 19 October 2021,"KDE Plasma 5.18.8, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.18.8/
-Tuesday, 19 October 2021,"KDE Plasma 5.23.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.23.1/
-Thursday, 14 October 2021,"Plasma - 25th Anniversary Edition",https://kde.org/announcements/plasma/5/5.23.0/
-Saturday, 9 October 2021,"KDE Ships Frameworks 5.87.0",https://kde.org/announcements/frameworks/5/5.87.0/
-Thursday, 7 October 2021,"KDE Gear 21.08.2",https://kde.org/announcements/gear/21.08.2/
-Thursday, 16 September 2021,"Plasma 25th Anniversary Edition Beta",https://kde.org/announcements/plasma/5/5.22.90/
-Saturday, 11 September 2021,"KDE Ships Frameworks 5.86.0",https://kde.org/announcements/frameworks/5/5.86.0/
-Thursday, 2 September 2021,"KDE Gear 21.08.1",https://kde.org/announcements/gear/21.08.1/
-Tuesday, 31 August 2021,"KDE Plasma 5.22.5, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.22.5/
-Friday, 13 August 2021,"KDE Ships Frameworks 5.85.0",https://kde.org/announcements/frameworks/5/5.85.0/
-Thursday, 12 August 2021,"KDE Gear 21.08",https://kde.org/announcements/gear/21.08.0/
-Tuesday, 27 July 2021,"KDE Plasma 5.22.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.22.4/
-Saturday, 10 July 2021,"KDE Ships Frameworks 5.84.0",https://kde.org/announcements/frameworks/5/5.84.0/
-Thursday, 8 July 2021,"KDE Gear 21.04.3",https://kde.org/announcements/gear/21.04.3/
-Tuesday, 6 July 2021,"KDE Plasma 5.22.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.22.3/
-Tuesday, 22 June 2021,"KDE Plasma 5.22.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.22.2/
-Tuesday, 15 June 2021,"KDE Plasma 5.22.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.22.1/
-Saturday, 12 June 2021,"KDE Ships Frameworks 5.83.0",https://kde.org/announcements/frameworks/5/5.83.0/
-Thursday, 10 June 2021,"KDE Gear 21.04.2",https://kde.org/announcements/gear/21.04.2/
-Tuesday, 8 June 2021,"Plasma 5.22",https://kde.org/announcements/plasma/5/5.22.0/
-Thursday, 13 May 2021,"KDE Gear 21.04.1",https://kde.org/announcements/gear/21.04.1/
-Thursday, 13 May 2021,"Plasma 5.22 Beta: The Quest for Stability and Usability",https://kde.org/announcements/plasma/5/5.21.90/
-Saturday, 8 May 2021,"KDE Ships Frameworks 5.82.0",https://kde.org/announcements/frameworks/5/5.82.0/
-Tuesday, 4 May 2021,"KDE Plasma 5.21.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.21.5/
-Thursday, 22 April 2021,"KDE Gear 21.04",https://kde.org/announcements/gear/21.04/
-Saturday, 10 April 2021,"KDE Ships Frameworks 5.81.0",https://kde.org/announcements/frameworks/5/5.81.0/
-Tuesday, 6 April 2021,"KDE Plasma 5.21.4, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.21.4/
-Tuesday, 30 March 2021,"KDE Plasma 5.18.7, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.18.7/
-Tuesday, 16 March 2021,"KDE Plasma 5.21.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.21.3/
-Saturday, 13 March 2021,"KDE Ships Frameworks 5.80.0",https://kde.org/announcements/frameworks/5/5.80.0/
-Thursday, 4 March 2021,"20.12.3 Releases",https://kde.org/announcements/releases/20.12.3/
-Tuesday, 2 March 2021,"KDE Plasma 5.21.2, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.21.2/
-Tuesday, 23 February 2021,"KDE Plasma 5.21.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.21.1/
-Tuesday, 16 February 2021,"Plasma 5.21",https://kde.org/announcements/plasma/5/5.21.0/
-Saturday, 13 February 2021,"KDE Ships Frameworks 5.79.0",https://kde.org/announcements/frameworks/5/5.79.0/
-Thursday, 4 February 2021,"KDE's February 2021 Apps Update",https://kde.org/announcements/releases/2021-02-apps-update/
-Thursday, 21 January 2021,"Plasma 5.21 Beta",https://kde.org/announcements/plasma/5/5.20.90/
-Saturday, 9 January 2021,"KDE Ships Frameworks 5.78.0",https://kde.org/announcements/frameworks/5/5.78.0/
-Thursday, 7 January 2021,"KDE's January 2021 Apps Update",https://kde.org/announcements/releases/2021-01-apps-update/
-Tuesday, 5 January 2021,"KDE Plasma 5.20.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.20.5/
-Saturday, 12 December 2020,"KDE Ships Frameworks 5.77.0",https://kde.org/announcements/frameworks/5/5.77.0/
-Thursday, 10 December 2020,"KDE's December 2020 Apps Update",https://kde.org/announcements/releases/2020-12-apps-update/
-Tuesday, 1 December 2020,"KDE Plasma 5.20.4, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.20.4/
-Sunday, 15 November 2020,"Introducing the PinePhone - KDE Community edition",https://kde.org/announcements/plasma-mobile/pinephone-plasma-mobile-edition/
-Tuesday, 10 November 2020,"KDE Plasma 5.20.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.20.3/
-Saturday, 7 November 2020,"KDE Ships Frameworks 5.76.0",https://kde.org/announcements/frameworks/5/5.76.0/
-Thursday, 5 November 2020,"KDE's November 2020 Apps Update",https://kde.org/announcements/releases/2020-11-apps-update/
-Tuesday, 27 October 2020,"KDE Plasma 5.20.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.20.2/
-Tuesday, 20 October 2020,"KDE Plasma 5.20.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.20.1/
-Tuesday, 13 October 2020,"Plasma 5.20: One absolutely massive release",https://kde.org/announcements/plasma/5/5.20.0/
-Saturday, 10 October 2020,"Release of KDE Frameworks 5.75.0",https://kde.org/announcements/frameworks/5/5.75.0/
-Friday, 9 October 2020,"KDE's October 2020 Apps Update",https://kde.org/announcements/releases/2020-10-apps-update/
-Tuesday, 29 September 2020,"KDE Plasma 5.18.6, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.18.6/
-Wednesday, 16 September 2020,"Plasma 5.20 Beta: one absolutely massive release",https://kde.org/announcements/plasma/5/5.19.90/
-Sunday, 6 September 2020,"Release of KDE Frameworks 5.74.0",https://kde.org/announcements/frameworks/5/5.74.0/
-Thursday, 3 September 2020,"KDE's September 2020 Apps Update",https://kde.org/announcements/releases/2020-09-apps-update/
-Tuesday, 1 September 2020,"KDE Plasma 5.19.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.19.5/
-Thursday, 13 August 2020,"KDE's August 2020 Apps Update",https://kde.org/announcements/releases/2020-08-apps-update/
-Saturday, 1 August 2020,"Release of KDE Frameworks 5.73.0",https://kde.org/announcements/frameworks/5/5.73.0/
-Tuesday, 28 July 2020,"KDE Plasma 5.19.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.19.4/
-Thursday, 9 July 2020,"KDE's July 2020 Apps Update",https://kde.org/announcements/releases/2020-07-apps-update/
-Tuesday, 7 July 2020,"KDE Plasma 5.19.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.19.3/
-Saturday, 4 July 2020,"Release of KDE Frameworks 5.72.0",https://kde.org/announcements/frameworks/5/5.72.0/
-Tuesday, 23 June 2020,"KDE Plasma 5.19.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.19.2/
-Tuesday, 16 June 2020,"KDE Plasma 5.19.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.19.1/
-Thursday, 11 June 2020,"KDE's June 2020 Apps Update",https://kde.org/announcements/releases/2020-06-apps-update/
-Tuesday, 9 June 2020,"Plasma 5.19: A more Polished Plasma",https://kde.org/announcements/plasma/5/5.19.0/
-Saturday, 6 June 2020,"Release of KDE Frameworks 5.71.0",https://kde.org/announcements/frameworks/5/5.71.0/
-Friday, 15 May 2020,"KDE's May 2020 Apps Update",https://kde.org/announcements/releases/2020-05-apps-update/
-Thursday, 14 May 2020,"Plasma 5.19 Beta: Consistency, Control and Usability",https://kde.org/announcements/plasma/5/5.18.90/
-Tuesday, 5 May 2020,"KDE Plasma 5.18.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.18.5/
-Saturday, 2 May 2020,"Release of KDE Frameworks 5.70.0",https://kde.org/announcements/frameworks/5/5.70.0/
-Thursday, 23 April 2020,"KDE's April 2020 Apps Update",https://kde.org/announcements/releases/2020-04-apps-update/
-Sunday, 5 April 2020,"Release of KDE Frameworks 5.69.0",https://kde.org/announcements/frameworks/5/5.69.0/
-Tuesday, 31 March 2020,"KDE Plasma 5.18.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.18.4/
-Tuesday, 10 March 2020,"KDE Plasma 5.18.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.18.3/
-Saturday, 7 March 2020,"Release of KDE Frameworks 5.68.0",https://kde.org/announcements/frameworks/5/5.68.0/
-Thursday, 5 March 2020,"KDE's March 2020 Apps Update",https://kde.org/announcements/releases/2020-03-apps-update/
-Tuesday, 25 February 2020,"KDE Plasma 5.18.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.18.2/
-Tuesday, 18 February 2020,"KDE Plasma 5.18.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.18.1/
-Tuesday, 11 February 2020,"KDE Plasma 5.18: More Convenient and with Long Term Stability",https://kde.org/announcements/plasma/5/5.18.0/
-Thursday, 6 February 2020,"KDE's February 2020 Apps Update",https://kde.org/announcements/releases/2020-02-apps-update/
-Sunday, 2 February 2020,"Release of KDE Frameworks 5.67.0",https://kde.org/announcements/frameworks/5/5.67.0/
-Thursday, 16 January 2020,"Plasma 5.18 LTS Beta: More Convenient and with Long Term Stability",https://kde.org/announcements/plasma/5/5.17.90/
-Saturday, 11 January 2020,"Release of KDE Frameworks 5.66.0",https://kde.org/announcements/frameworks/5/5.66.0/
-Thursday, 9 January 2020,"KDE's January 2020 Apps Update",https://kde.org/announcements/releases/2020-01-apps-update/
-Thursday, 9 January 2020,"19.12.1 Releases",https://kde.org/announcements/releases/19.12.1/
-Tuesday, 7 January 2020,"KDE Plasma 5.17.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.17.5/
-Saturday, 14 December 2019,"Release of KDE Frameworks 5.65.0",https://kde.org/announcements/frameworks/5/5.65.0/
-Thursday, 12 December 2019,"KDE's December 2019 Apps Update",https://kde.org/announcements/releases/2019-12-apps-update/
-Thursday, 12 December 2019,"19.12 Releases",https://kde.org/announcements/releases/19.12/
-Tuesday, 3 December 2019,"KDE Plasma 5.17.4, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.17.4/
-Friday, 29 November 2019,"19.12 RC Releases",https://kde.org/announcements/releases/19.12-rc/
-Tuesday, 12 November 2019,"KDE Plasma 5.17.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.17.3/
-Sunday, 10 November 2019,"Release of KDE Frameworks 5.64.0",https://kde.org/announcements/frameworks/5/5.64.0/
-Thursday, 7 November 2019,"KDE Ships Applications 19.08.3",https://kde.org/announcements/applications/19.08.3/
-Tuesday, 29 October 2019,"KDE Plasma 5.17.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.17.2/
-Tuesday, 22 October 2019,"KDE Plasma 5.17.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.17.1/
-Tuesday, 15 October 2019,"KDE Plasma 5.17: Thunderbolt, X11 Night Color and Redesigned Settings",https://kde.org/announcements/plasma/5/5.17.0/
-Monday, 14 October 2019,"Release of KDE Frameworks 5.63.0",https://kde.org/announcements/frameworks/5/5.63.0/
-Thursday, 10 October 2019,"KDE Ships Applications 19.08.2",https://kde.org/announcements/applications/19.08.2/
-Thursday, 19 September 2019,"KDE Plasma 5.17 Beta: Thunderbolt, X11 Night Color and Redesigned Settings",https://kde.org/announcements/plasma/5/5.16.90/
-Saturday, 14 September 2019,"Release of KDE Frameworks 5.62.0",https://kde.org/announcements/frameworks/5/5.62.0/
-Tuesday, 10 September 2019,"KDE Plasma 5.12.9, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.12.9/
-Thursday, 5 September 2019,"KDE Ships Applications 19.08.1",https://kde.org/announcements/applications/19.08.1/
-Tuesday, 3 September 2019,"KDE Plasma 5.16.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.16.5/
-Thursday, 15 August 2019,"KDE Ships KDE Applications 19.08.0",https://kde.org/announcements/applications/19.08.0/
-Saturday, 10 August 2019,"Release of KDE Frameworks 5.61.0",https://kde.org/announcements/frameworks/5/5.61.0/
-Friday, 2 August 2019,"KDE Ships Release Candidate of KDE Applications 19.08",https://kde.org/announcements/applications/19.08-rc/
-Tuesday, 30 July 2019,"KDE Plasma 5.16.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.16.4/
-Friday, 19 July 2019,"KDE Ships Beta of KDE Applications 19.08",https://kde.org/announcements/applications/19.08-beta/
-Saturday, 13 July 2019,"Release of KDE Frameworks 5.60.0",https://kde.org/announcements/frameworks/5/5.60.0/
-Thursday, 11 July 2019,"KDE Ships KDE Applications 19.04.3",https://kde.org/announcements/applications/19.04.3/
-Tuesday, 9 July 2019,"KDE Plasma 5.16.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.16.3/
-Tuesday, 25 June 2019,"KDE Plasma 5.16.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.16.2/
-Tuesday, 18 June 2019,"KDE Plasma 5.16.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.16.1/
-Tuesday, 11 June 2019,"KDE Plasma 5.16: Now Smoother and More Fun",https://kde.org/announcements/plasma/5/5.16.0/
-Saturday, 8 June 2019,"Release of KDE Frameworks 5.59.0",https://kde.org/announcements/frameworks/5/5.59.0/
-Thursday, 6 June 2019,"KDE Ships KDE Applications 19.04.2",https://kde.org/announcements/applications/19.04.2/
-Thursday, 16 May 2019,"KDE Plasma 5.16 Beta: Your Three Week Notification of a More Tidy and Composed Desktop",https://kde.org/announcements/plasma/5/5.15.90/
-Monday, 13 May 2019,"Release of KDE Frameworks 5.58.0",https://kde.org/announcements/frameworks/5/5.58.0/
-Thursday, 9 May 2019,"KDE Ships KDE Applications 19.04.1",https://kde.org/announcements/applications/19.04.1/
-Tuesday, 7 May 2019,"KDE Plasma 5.15.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.15.5/
-Thursday, 18 April 2019,"KDE Ships KDE Applications 19.04.0",https://kde.org/announcements/applications/19.04.0/
-Saturday, 13 April 2019,"Release of KDE Frameworks 5.57.0",https://kde.org/announcements/frameworks/5/5.57.0/
-Friday, 5 April 2019,"KDE Ships Release Candidate of KDE Applications 19.04",https://kde.org/announcements/applications/19.04-rc/
-Tuesday, 2 April 2019,"KDE Plasma 5.15.4, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.15.4/
-Friday, 22 March 2019,"KDE Ships Beta of KDE Applications 19.04",https://kde.org/announcements/applications/19.04-beta/
-Tuesday, 12 March 2019,"KDE Plasma 5.15.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.15.3/
-Saturday, 9 March 2019,"Release of KDE Frameworks 5.56.0",https://kde.org/announcements/frameworks/5/5.56.0/
-Thursday, 7 March 2019,"KDE Ships KDE Applications 18.12.3",https://kde.org/announcements/applications/18.12.3/
-Tuesday, 5 March 2019,"KDE Plasma 5.12.8, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.12.8/
-Tuesday, 26 February 2019,"KDE Plasma 5.15.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.15.2/
-Tuesday, 19 February 2019,"KDE Plasma 5.15.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.15.1/
-Tuesday, 12 February 2019,"KDE Plasma 5.15: Lightweight, Usable and Productive.",https://kde.org/announcements/plasma/5/5.15.0/
-Saturday, 9 February 2019,"Release of KDE Frameworks 5.55.0",https://kde.org/announcements/frameworks/5/5.55.0/
-Thursday, 7 February 2019,"KDE Ships KDE Applications 18.12.2",https://kde.org/announcements/applications/18.12.2/
-Thursday, 17 January 2019,"KDE Plasma 5.15 Beta: Lightweight, Usable and Productive.",https://kde.org/announcements/plasma/5/5.14.90/
-Saturday, 12 January 2019,"Release of KDE Frameworks 5.54.0",https://kde.org/announcements/frameworks/5/5.54.0/
-Thursday, 10 January 2019,"KDE Ships KDE Applications 18.12.1",https://kde.org/announcements/applications/18.12.1/
-Tuesday, 8 January 2019,"KDE Plasma 5.14.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.14.5/
-Thursday, 13 December 2018,"KDE Ships KDE Applications 18.12.0",https://kde.org/announcements/applications/18.12.0/
-Sunday, 9 December 2018,"Release of KDE Frameworks 5.53.0",https://kde.org/announcements/frameworks/5/5.53.0/
-Friday, 30 November 2018,"KDE Ships Release Candidate of KDE Applications 18.12",https://kde.org/announcements/applications/18.12-rc/
-Tuesday, 27 November 2018,"KDE Plasma 5.14.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.14.4/
-Friday, 16 November 2018,"KDE Ships Beta of KDE Applications 18.12",https://kde.org/announcements/applications/18.12-beta/
-Saturday, 10 November 2018,"Release of KDE Frameworks 5.52.0",https://kde.org/announcements/frameworks/5/5.52.0/
-Thursday, 8 November 2018,"KDE Ships KDE Applications 18.08.3",https://kde.org/announcements/applications/18.08.3/
-Tuesday, 6 November 2018,"KDE Plasma 5.14.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.14.3/
-Tuesday, 23 October 2018,"KDE Plasma 5.14.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.14.2/
-Tuesday, 16 October 2018,"KDE Plasma 5.14.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.14.1/
-Monday, 15 October 2018,"Release of KDE Frameworks 5.51.0",https://kde.org/announcements/frameworks/5/5.51.0/
-Thursday, 11 October 2018,"KDE Ships KDE Applications 18.08.2",https://kde.org/announcements/applications/18.08.2/
-Tuesday, 9 October 2018,"KDE Plasma 5.14: Reliable, Light and Innovative.",https://kde.org/announcements/plasma/5/5.14.0/
-Tuesday, 25 September 2018,"KDE Plasma 5.12.7, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.12.7/
-Thursday, 13 September 2018,"KDE Plasma 5.14 Beta: Reliable, Light and Innovative.",https://kde.org/announcements/plasma/5/5.13.90/
-Saturday, 8 September 2018,"Release of KDE Frameworks 5.50.0",https://kde.org/announcements/frameworks/5/5.50.0/
-Thursday, 6 September 2018,"KDE Ships KDE Applications 18.08.1",https://kde.org/announcements/applications/18.08.1/
-Tuesday, 4 September 2018,"KDE Plasma 5.13.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.13.5/
-Thursday, 16 August 2018,"KDE Ships KDE Applications 18.08.0",https://kde.org/announcements/applications/18.08.0/
-Saturday, 11 August 2018,"Release of KDE Frameworks 5.49.0",https://kde.org/announcements/frameworks/5/5.49.0/
-Friday, 3 August 2018,"KDE Ships Release Candidate of KDE Applications 18.08",https://kde.org/announcements/applications/18.08-rc/
-Tuesday, 31 July 2018,"KDE Plasma 5.13.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.13.4/
-Friday, 20 July 2018,"KDE Ships Beta of KDE Applications 18.08",https://kde.org/announcements/applications/18.08-beta/
-Saturday, 14 July 2018,"Release of KDE Frameworks 5.48.0",https://kde.org/announcements/frameworks/5/5.48.0/
-Thursday, 12 July 2018,"KDE Ships KDE Applications 18.04.3",https://kde.org/announcements/applications/18.04.3/
-Tuesday, 10 July 2018,"KDE Plasma 5.13.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.13.3/
-Wednesday, 27 June 2018,"KDE Plasma 5.12.6, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.12.6/
-Tuesday, 26 June 2018,"KDE Plasma 5.13.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.13.2/
-Tuesday, 19 June 2018,"KDE Plasma 5.13.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.13.1/
-Tuesday, 12 June 2018,"KDE Plasma 5.13: Fast, Lightweight and Full Featured.",https://kde.org/announcements/plasma/5/5.13.0/
-Saturday, 9 June 2018,"Release of KDE Frameworks 5.47.0",https://kde.org/announcements/frameworks/5/5.47.0/
-Thursday, 7 June 2018,"KDE Ships KDE Applications 18.04.2",https://kde.org/announcements/applications/18.04.2/
-Thursday, 17 May 2018,"KDE Plasma 5.13 Beta: Fast, Lightweight and Full Featured.",https://kde.org/announcements/plasma/5/5.12.90/
-Saturday, 12 May 2018,"Release of KDE Frameworks 5.46.0",https://kde.org/announcements/frameworks/5/5.46.0/
-Thursday, 10 May 2018,"KDE Ships KDE Applications 18.04.1",https://kde.org/announcements/applications/18.04.1/
-Tuesday, 1 May 2018,"KDE Plasma 5.12.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.12.5/
-Thursday, 19 April 2018,"KDE Ships KDE Applications 18.04.0",https://kde.org/announcements/applications/18.04.0/
-Saturday, 14 April 2018,"Release of KDE Frameworks 5.45.0",https://kde.org/announcements/frameworks/5/5.45.0/
-Friday, 6 April 2018,"KDE Ships Release Candidate of KDE Applications 18.04",https://kde.org/announcements/applications/18.04-rc/
-Tuesday, 27 March 2018,"KDE Plasma 5.12.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.12.4/
-Friday, 23 March 2018,"KDE Ships Beta of KDE Applications 18.04",https://kde.org/announcements/applications/18.04-beta/
-Saturday, 10 March 2018,"Release of KDE Frameworks 5.44.0",https://kde.org/announcements/frameworks/5/5.44.0/
-Thursday, 8 March 2018,"KDE Ships KDE Applications 17.12.3",https://kde.org/announcements/applications/17.12.3/
-Tuesday, 6 March 2018,"KDE Plasma 5.12.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.12.3/
-Tuesday, 20 February 2018,"KDE Plasma 5.12.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.12.2/
-Tuesday, 13 February 2018,"KDE Plasma 5.12.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.12.1/
-Monday, 12 February 2018,"Release of KDE Frameworks 5.43.0",https://kde.org/announcements/frameworks/5/5.43.0/
-Thursday, 8 February 2018,"KDE Ships KDE Applications 17.12.2",https://kde.org/announcements/applications/17.12.2/
-Wednesday, 7 February 2018,"KDE Plasma 5.8.9, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.8.9/
-Tuesday, 6 February 2018,"KDE Plasma 5.12.0 LTS, Speed. Stability. Simplicity.",https://kde.org/announcements/plasma/5/5.12.0/
-Monday, 15 January 2018,"Plasma 5.12 LTS Beta Makes Your Desktop Smoother and Speedier",https://kde.org/announcements/plasma/5/5.11.95/
-Saturday, 13 January 2018,"Release of KDE Frameworks 5.42.0",https://kde.org/announcements/frameworks/5/5.42.0/
-Thursday, 11 January 2018,"KDE Ships KDE Applications 17.12.1",https://kde.org/announcements/applications/17.12.1/
-Tuesday, 2 January 2018,"KDE Plasma 5.11.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.11.5/
-Thursday, 14 December 2017,"KDE Ships KDE Applications 17.12.0",https://kde.org/announcements/applications/17.12.0/
-Sunday, 10 December 2017,"Release of KDE Frameworks 5.41.0",https://kde.org/announcements/frameworks/5/5.41.0/
-Friday, 1 December 2017,"KDE Ships Release Candidate of KDE Applications 17.12",https://kde.org/announcements/applications/17.12-rc/
-Tuesday, 28 November 2017,"KDE Plasma 5.11.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.11.4/
-Friday, 17 November 2017,"KDE Ships Beta of KDE Applications 17.12",https://kde.org/announcements/applications/17.12-beta/
-Saturday, 11 November 2017,"Release of KDE Frameworks 5.40.0",https://kde.org/announcements/frameworks/5/5.40.0/
-Thursday, 9 November 2017,"KDE Ships KDE Applications 17.08.3",https://kde.org/announcements/applications/17.08.3/
-Tuesday, 7 November 2017,"KDE Plasma 5.11.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.11.3/
-Wednesday, 25 October 2017,"KDE Plasma 5.8.8, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.8.8/
-Tuesday, 24 October 2017,"KDE Plasma 5.11.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.11.2/
-Tuesday, 17 October 2017,"KDE Plasma 5.11.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.11.1/
-Saturday, 14 October 2017,"Release of KDE Frameworks 5.39.0",https://kde.org/announcements/frameworks/5/5.39.0/
-Thursday, 12 October 2017,"KDE Ships KDE Applications 17.08.2",https://kde.org/announcements/applications/17.08.2/
-Tuesday, 10 October 2017,"Plasma 5.11 Makes the Desktop More Powerful, Elegant and Secure",https://kde.org/announcements/plasma/5/5.11.0/
-Thursday, 14 September 2017,"Plasma 5.11 Beta Makes the Desktop More Powerful, Elegant and Secure",https://kde.org/announcements/plasma/5/5.10.95/
-Thursday, 14 September 2017,"Purism and KDE to Work Together on World's First Truly Free Smartphone",https://kde.org/announcements/plasma-mobile/kde-purism-librem5/
-Saturday, 9 September 2017,"Release of KDE Frameworks 5.38.0",https://kde.org/announcements/frameworks/5/5.38.0/
-Thursday, 7 September 2017,"KDE Ships KDE Applications 17.08.1",https://kde.org/announcements/applications/17.08.1/
-Tuesday, 22 August 2017,"KDE Plasma 5.10.5, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.10.5/
-Thursday, 17 August 2017,"KDE Ships KDE Applications 17.08.0",https://kde.org/announcements/applications/17.08.0/
-Sunday, 13 August 2017,"Release of KDE Frameworks 5.37.0",https://kde.org/announcements/frameworks/5/5.37.0/
-Friday, 4 August 2017,"KDE Ships Release Candidate of KDE Applications 17.08",https://kde.org/announcements/applications/17.08-rc/
-Friday, 21 July 2017,"KDE Ships Beta of KDE Applications 17.08",https://kde.org/announcements/applications/17.08-beta/
-Tuesday, 18 July 2017,"KDE Plasma 5.10.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.10.4/
-Thursday, 13 July 2017,"KDE Ships KDE Applications 17.04.3",https://kde.org/announcements/applications/17.04.3/
-Saturday, 8 July 2017,"Release of KDE Frameworks 5.36.0",https://kde.org/announcements/frameworks/5/5.36.0/
-Tuesday, 27 June 2017,"KDE Plasma 5.10.3, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.10.3/
-Tuesday, 13 June 2017,"KDE Plasma 5.10.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.10.2/
-Saturday, 10 June 2017,"Release of KDE Frameworks 5.35.0",https://kde.org/announcements/frameworks/5/5.35.0/
-Thursday, 8 June 2017,"KDE Ships KDE Applications 17.04.2",https://kde.org/announcements/applications/17.04.2/
-Tuesday, 6 June 2017,"KDE Plasma 5.10.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.10.1/
-Tuesday, 30 May 2017,"KDE Plasma 5.10, Simple by Default, Powerful when Needed",https://kde.org/announcements/plasma/5/5.10.0/
-Tuesday, 23 May 2017,"KDE Plasma 5.8.7, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.8.7/
-Monday, 15 May 2017,"KDE Plasma 5.10 Beta, Simple by Default, Powerful when Needed",https://kde.org/announcements/plasma/5/5.9.95/
-Saturday, 13 May 2017,"Release of KDE Frameworks 5.34.0",https://kde.org/announcements/frameworks/5/5.34.0/
-Thursday, 11 May 2017,"KDE Ships KDE Applications 17.04.1",https://kde.org/announcements/applications/17.04.1/
-Tuesday, 25 April 2017,"KDE Plasma 5.9.5, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.9.5/
-Thursday, 20 April 2017,"KDE Ships KDE Applications 17.04.0",https://kde.org/announcements/applications/17.04.0/
-Saturday, 8 April 2017,"Release of KDE Frameworks 5.33.0",https://kde.org/announcements/frameworks/5/5.33.0/
-Friday, 7 April 2017,"KDE Ships Release Candidate of KDE Applications 17.04",https://kde.org/announcements/applications/17.04-rc/
-Friday, 24 March 2017,"KDE Ships Beta of KDE Applications 17.04",https://kde.org/announcements/applications/17.04-beta/
-Tuesday, 21 March 2017,"KDE Plasma 5.9.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.9.4/
-Saturday, 11 March 2017,"Release of KDE Frameworks 5.32.0",https://kde.org/announcements/frameworks/5/5.32.0/
-Thursday, 9 March 2017,"KDE Ships KDE Applications 16.12.3",https://kde.org/announcements/applications/16.12.3/
-Tuesday, 28 February 2017,"KDE Plasma 5.9.3, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.9.3/
-Tuesday, 21 February 2017,"KDE Plasma 5.8.6, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.8.6/
-Tuesday, 14 February 2017,"KDE Plasma 5.9.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.9.2/
-Saturday, 11 February 2017,"Release of KDE Frameworks 5.31.0",https://kde.org/announcements/frameworks/5/5.31.0/
-Thursday, 9 February 2017,"KDE Ships KDE Applications 16.12.2",https://kde.org/announcements/applications/16.12.2/
-Tuesday, 7 February 2017,"KDE Plasma 5.9.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.9.1/
-Tuesday, 31 January 2017,"Plasma 5.9 Kicks off 2017 in Style.",https://kde.org/announcements/plasma/5/5.9.0/
-Saturday, 14 January 2017,"Release of KDE Frameworks 5.30.0",https://kde.org/announcements/frameworks/5/5.30.0/
-Thursday, 12 January 2017,"KDE Ships KDE Applications 16.12.1",https://kde.org/announcements/applications/16.12.1/
-Thursday, 12 January 2017,"Plasma 5.9 Beta Kicks off 2017 in Style.",https://kde.org/announcements/plasma/5/5.8.95/
-Tuesday, 27 December 2016,"KDE Plasma 5.8.5, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.8.5/
-Thursday, 15 December 2016,"KDE Ships KDE Applications 16.12.0",https://kde.org/announcements/applications/16.12.0/
-Monday, 12 December 2016,"Release of KDE Frameworks 5.29.0",https://kde.org/announcements/frameworks/5/5.29.0/
-Friday, 2 December 2016,"KDE Ships Release Candidate of KDE Applications 16.12",https://kde.org/announcements/applications/16.12-rc/
-Tuesday, 22 November 2016,"KDE Plasma 5.8.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.8.4/
-Friday, 18 November 2016,"KDE Ships Beta of KDE Applications 16.12",https://kde.org/announcements/applications/16.12-beta/
-Tuesday, 15 November 2016,"Release of KDE Frameworks 5.28.0",https://kde.org/announcements/frameworks/5/5.28.0/
-Thursday, 10 November 2016,"KDE Ships KDE Applications 16.08.3",https://kde.org/announcements/applications/16.08.3/
-Tuesday, 1 November 2016,"KDE Plasma 5.8.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.8.3/
-Tuesday, 18 October 2016,"KDE Plasma 5.8.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.8.2/
-Thursday, 13 October 2016,"KDE Ships KDE Applications 16.08.2",https://kde.org/announcements/applications/16.08.2/
-Tuesday, 11 October 2016,"KDE Plasma 5.8.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.8.1/
-Saturday, 8 October 2016,"Release of KDE Frameworks 5.27.0",https://kde.org/announcements/frameworks/5/5.27.0/
-Tuesday, 4 October 2016,"KDE at 20: Plasma 5.8 LTS. Here for the Long Term.",https://kde.org/announcements/plasma/5/5.8.0/
-Monday, 26 September 2016,"Kirigami 1.1",https://kde.org/announcements/kirigami-1.1/
-Thursday, 15 September 2016,"KDE at 20: Plasma 5.8 LTS Beta. Here for the Long Term.",https://kde.org/announcements/plasma/5/5.7.95/
-Tuesday, 13 September 2016,"KDE Plasma 5.7.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.7.5/
-Saturday, 10 September 2016,"Release of KDE Frameworks 5.26.0",https://kde.org/announcements/frameworks/5/5.26.0/
-Thursday, 8 September 2016,"KDE Ships KDE Applications 16.08.1",https://kde.org/announcements/applications/16.08.1/
-Tuesday, 23 August 2016,"KDE Plasma 5.7.4, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.7.4/
-Thursday, 18 August 2016,"KDE Ships KDE Applications 16.08.0",https://kde.org/announcements/applications/16.08.0/
-Saturday, 13 August 2016,"Release of KDE Frameworks 5.25.0",https://kde.org/announcements/frameworks/5/5.25.0/
-Friday, 5 August 2016,"KDE Ships Release Candidate of KDE Applications 16.08",https://kde.org/announcements/applications/16.08-rc/
-Tuesday, 2 August 2016,"KDE Plasma 5.7.3, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.7.3/
-Friday, 22 July 2016,"KDE Ships Beta of KDE Applications 16.08",https://kde.org/announcements/applications/16.08-beta/
-Tuesday, 19 July 2016,"KDE Plasma 5.7.2, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.7.2/
-Tuesday, 12 July 2016,"KDE Plasma 5.7.1, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.7.1/
-Tuesday, 12 July 2016,"KDE Ships KDE Applications 16.04.3",https://kde.org/announcements/applications/16.04.3/
-Saturday, 9 July 2016,"Release of KDE Frameworks 5.24.0",https://kde.org/announcements/frameworks/5/5.24.0/
-Tuesday, 5 July 2016,"KDE Plasma 5.7 Release",https://kde.org/announcements/plasma/5/5.7.0/
-Thursday, 16 June 2016,"KDE Plasma 5.7 Beta Release",https://kde.org/announcements/plasma/5/5.6.95/
-Tuesday, 14 June 2016,"KDE Plasma 5.6.5, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.6.5/
-Tuesday, 14 June 2016,"KDE Ships KDE Applications 16.04.2",https://kde.org/announcements/applications/16.04.2/
-Monday, 13 June 2016,"Release of KDE Frameworks 5.23.0",https://kde.org/announcements/frameworks/5/5.23.0/
-Sunday, 15 May 2016,"Release of KDE Frameworks 5.22.0",https://kde.org/announcements/frameworks/5/5.22.0/
-Tuesday, 10 May 2016,"KDE Plasma 5.6.4, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.6.4/
-Tuesday, 10 May 2016,"KDE Ships KDE Applications 16.04.1",https://kde.org/announcements/applications/16.04.1/
-Wednesday, 20 April 2016,"KDE Ships KDE Applications 16.04.0",https://kde.org/announcements/applications/16.04.0/
-Tuesday, 19 April 2016,"KDE Plasma 5.6.3, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.6.3/
-Saturday, 9 April 2016,"Release of KDE Frameworks 5.21.0",https://kde.org/announcements/frameworks/5/5.21.0/
-Tuesday, 5 April 2016,"KDE Plasma 5.6.2, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.6.2/
-Tuesday, 5 April 2016,"KDE Ships Release Candidate of KDE Applications 16.04",https://kde.org/announcements/applications/16.04-rc/
-Tuesday, 29 March 2016,"KDE Plasma 5.6.1, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.6.1/
-Thursday, 24 March 2016,"KDE Ships Beta of KDE Applications 16.04",https://kde.org/announcements/applications/16.04-beta/
-Tuesday, 22 March 2016,"KDE Plasma 5.6 Release",https://kde.org/announcements/plasma/5/5.6.0/
-Wednesday, 16 March 2016,"KDE Ships KDE Applications 15.12.3",https://kde.org/announcements/applications/15.12.3/
-Sunday, 13 March 2016,"Release of KDE Frameworks 5.20.0",https://kde.org/announcements/frameworks/5/5.20.0/
-Wednesday, 2 March 2016,"KDE Plasma 5.6 Beta Release",https://kde.org/announcements/plasma/5/5.5.95/
-Tuesday, 1 March 2016,"KDE Plasma 5.5.5, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.5.5/
-Tuesday, 16 February 2016,"KDE Ships KDE Applications 15.12.2",https://kde.org/announcements/applications/15.12.2/
-Saturday, 13 February 2016,"Release of KDE Frameworks 5.19.0",https://kde.org/announcements/frameworks/5/5.19.0/
-Tuesday, 26 January 2016,"KDE Plasma 5.5.4, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.5.4/
-Tuesday, 12 January 2016,"KDE Ships KDE Applications 15.12.1",https://kde.org/announcements/applications/15.12.1/
-Saturday, 9 January 2016,"Release of KDE Frameworks 5.18.0",https://kde.org/announcements/frameworks/5/5.18.0/
-Wednesday, 6 January 2016,"KDE Plasma 5.5.3, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.5.3/
-Tuesday, 22 December 2015,"KDE Plasma 5.5.2, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.5.2/
-Wednesday, 16 December 2015,"KDE Ships KDE Applications 15.12.0",https://kde.org/announcements/applications/15.12.0/
-Tuesday, 15 December 2015,"KDE Plasma 5.5.1, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.5.1/
-Saturday, 12 December 2015,"Release of KDE Frameworks 5.17.0",https://kde.org/announcements/frameworks/5/5.17.0/
-Tuesday, 8 December 2015,"KDE Plasma 5.5 Release",https://kde.org/announcements/plasma/5/5.5.0/
-Thursday, 3 December 2015,"KDE Ships Release Candidate of KDE Applications 15.12",https://kde.org/announcements/applications/15.12-rc/
-Friday, 20 November 2015,"KDE Ships Beta of KDE Applications 15.12",https://kde.org/announcements/applications/15.12-beta/
-Thursday, 19 November 2015,"KDE Plasma 5.5 Beta Release",https://kde.org/announcements/plasma/5/5.4.95/
-Friday, 13 November 2015,"Release of KDE Frameworks 5.16.0",https://kde.org/announcements/frameworks/5/5.16.0/
-Tuesday, 10 November 2015,"KDE Plasma 5.4.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.4.3/
-Tuesday, 10 November 2015,"KDE Ships KDE Applications 15.08.3",https://kde.org/announcements/applications/15.08.3/
-Tuesday, 13 October 2015,"KDE Ships KDE Applications 15.08.2",https://kde.org/announcements/applications/15.08.2/
-Saturday, 10 October 2015,"Release of KDE Frameworks 5.15.0",https://kde.org/announcements/frameworks/5/5.15.0/
-Tuesday, 6 October 2015,"KDE Plasma 5.4.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.4.2/
-Tuesday, 15 September 2015,"KDE Ships KDE Applications 15.08.1",https://kde.org/announcements/applications/15.08.1/
-Saturday, 12 September 2015,"Release of KDE Frameworks 5.14.0",https://kde.org/announcements/frameworks/5/5.14.0/
-Tuesday, 8 September 2015,"KDE Plasma 5.4.1, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.4.1/
-Tuesday, 25 August 2015,"KDE Plasma 5.4 Release",https://kde.org/announcements/plasma/5/5.4.0/
-Wednesday, 19 August 2015,"KDE Ships KDE Applications 15.08.0",https://kde.org/announcements/applications/15.08.0/
-Wednesday, 12 August 2015,"Release of KDE Frameworks 5.13.0",https://kde.org/announcements/frameworks/5/5.13.0/
-Tuesday, 11 August 2015,"KDE Plasma 5.4 Beta Release",https://kde.org/announcements/plasma/5/5.3.95/
-Thursday, 6 August 2015,"KDE Ships Release Candidate of KDE Applications 15.08",https://kde.org/announcements/applications/15.08-rc/
-Tuesday, 28 July 2015,"KDE Ships Beta of KDE Applications 15.08",https://kde.org/announcements/applications/15.08-beta/
-Friday, 10 July 2015,"Release of KDE Frameworks 5.12.0",https://kde.org/announcements/frameworks/5/5.12.0/
-Wednesday, 1 July 2015,"KDE Ships KDE Applications 15.04.3",https://kde.org/announcements/applications/15.04.3/
-Tuesday, 30 June 2015,"KDE Plasma 5.3.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.3.2/
-Friday, 12 June 2015,"Release of KDE Frameworks 5.11.0",https://kde.org/announcements/frameworks/5/5.11.0/
-Tuesday, 2 June 2015,"KDE Ships KDE Applications 15.04.2",https://kde.org/announcements/applications/15.04.2/
-Tuesday, 26 May 2015,"KDE Plasma 5.3.1, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.3.1/
-Tuesday, 12 May 2015,"KDE Ships KDE Applications 15.04.1",https://kde.org/announcements/applications/15.04.1/
-Friday, 8 May 2015,"Release of KDE Frameworks 5.10.0",https://kde.org/announcements/frameworks/5/5.10.0/
-Tuesday, 28 April 2015,"KDE Plasma 5.3 Release",https://kde.org/announcements/plasma/5/5.3.0/
-Wednesday, 15 April 2015,"KDE Ships KDE Applications 15.04.0",https://kde.org/announcements/applications/15.04.0/
-Tuesday, 14 April 2015,"KDE Plasma 5.3 Beta Release",https://kde.org/announcements/plasma/5/5.2.95/
-Friday, 10 April 2015,"Release of KDE Frameworks 5.9.0",https://kde.org/announcements/frameworks/5/5.9.0/
-Thursday, 26 March 2015,"KDE Ships Release Candidate of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-rc/
-Tuesday, 24 March 2015,"KDE Plasma 5.2.2, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.2.2/
-Thursday, 19 March 2015,"KDE Ships Third Beta of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-beta3/
-Friday, 13 March 2015,"Release of KDE Frameworks 5.8.0",https://kde.org/announcements/frameworks/5/5.8.0/
-Thursday, 12 March 2015,"KDE Ships Second Beta of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-beta2/
-Friday, 6 March 2015,"KDE Ships First Beta of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-beta1/
-Tuesday, 3 March 2015,"KDE Ships KDE Applications 14.12.3",https://kde.org/announcements/applications/14.12.3/
-Tuesday, 24 February 2015,"KDE Plasma 5.2.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.2.1/
-Saturday, 14 February 2015,"Release of KDE Frameworks 5.7.0",https://kde.org/announcements/frameworks/5/5.7.0/
-Tuesday, 3 February 2015,"KDE Ships KDE Applications 14.12.2",https://kde.org/announcements/applications/14.12.2/
-Tuesday, 27 January 2015,"KDE Plasma 5.2 Release",https://kde.org/announcements/plasma/5/5.2.0/
-Tuesday, 13 January 2015,"KDE Plasma 5.2 Beta Release",https://kde.org/announcements/plasma/5/5.1.95/
-Thursday, 8 January 2015,"Release of KDE Frameworks 5.6.0",https://kde.org/announcements/frameworks/5/5.6.0/
-Thursday, 8 January 2015,"KDE Ships KDE Applications 14.12.1",https://kde.org/announcements/applications/14.12.1/
-Wednesday, 17 December 2014,"KDE Ships KDE Applications 14.12",https://kde.org/announcements/applications/14.12.0/
-Tuesday, 16 December 2014,"KDE Plasma 5.1.2, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.1.2/
-Thursday, 11 December 2014,"Release of KDE Frameworks 5.5.0",https://kde.org/announcements/frameworks/5/5.5.0/
-Thursday, 27 November 2014,"KDE Ships Release Candidate of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-rc/
-Thursday, 20 November 2014,"KDE Ships Third Beta of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-beta3/
-Thursday, 13 November 2014,"KDE Ships Second Beta of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-beta2/
-Tuesday, 11 November 2014,"KDE Plasma 5.1.1, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.1.1/
-Tuesday, 11 November 2014,"KDE Ships Applications and Platform 4.14.3",https://kde.org/announcements/4/4.14.3/
-Thursday, 6 November 2014,"Release of KDE Frameworks 5.4.0",https://kde.org/announcements/frameworks/5/5.4.0/
-Thursday, 6 November 2014,"KDE Ships First Beta of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-beta1/
-Wednesday, 15 October 2014,"Plasma 5.1 Brings Back Many Popular Features",https://kde.org/announcements/plasma/5/5.1.0/
-Tuesday, 14 October 2014,"KDE Ships Applications and Platform 4.14.2",https://kde.org/announcements/4/4.14.2/
-Tuesday, 7 October 2014,"Release of KDE Frameworks 5.3.0",https://kde.org/announcements/frameworks/5/5.3.0/
-Tuesday, 30 September 2014,"KDE Ships Beta for Plasma 5's Second Release",https://kde.org/announcements/plasma/5/5.0.95/
-Wednesday, 17 September 2014,"KDE Ships Second Bugfix Release of Plasma 5",https://kde.org/announcements/plasma/5/5.0.2/
-Tuesday, 16 September 2014,"KDE Ships Applications and Platform 4.14.1",https://kde.org/announcements/4/4.14.1/
-Friday, 12 September 2014,"Release of KDE Frameworks 5.2.0",https://kde.org/announcements/frameworks/5/5.2.0/
-Wednesday, 20 August 2014,"KDE Software Compilation 4.14",https://kde.org/announcements/4/4.14.0/
-Tuesday, 12 August 2014,"KDE Ships First Bugfix Release of Plasma 5",https://kde.org/announcements/plasma/5/5.0.1/
-Friday, 8 August 2014,"Second release of KDE Frameworks 5",https://kde.org/announcements/frameworks/5/5.1.0/
-Thursday, 31 July 2014,"KDE Ships Release Candidate of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-rc/
-Thursday, 24 July 2014,"KDE Ships Third Beta of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-beta3/
-Thursday, 17 July 2014,"KDE Ships Second Beta of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-beta2/
-Tuesday, 15 July 2014,"KDE Ships July Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.13.3/
-Tuesday, 15 July 2014,"New Plasma brings a cleaner interface on top of a new graphics stack",https://kde.org/announcements/plasma/5/5.0/
-Thursday, 10 July 2014,"KDE Ships First Beta of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-beta1/
-Tuesday, 8 July 2014,"KDE Ships Release Candidate of Plasma 5",https://kde.org/announcements/plasma/5/5.0-rc/
-Monday, 7 July 2014,"First release of KDE Frameworks 5",https://kde.org/announcements/frameworks/5/5.0.0/
-Tuesday, 10 June 2014,"KDE Ships June Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.13.2/
-Tuesday, 10 June 2014,"KDE Ships Second Beta of Next Generation Plasma Workspace",https://kde.org/announcements/plasma/5/5.0-beta2/
-Thursday, 5 June 2014,"KDE Ships Third Beta of Frameworks 5",https://kde.org/announcements/frameworks/5-beta3/
-Wednesday, 14 May 2014,"KDE Ships First Beta of Next Generation Plasma Workspace",https://kde.org/announcements/plasma/next-beta1/
-Tuesday, 13 May 2014,"KDE Ships May Updates to Applications and Platform",https://kde.org/announcements/4/4.13.1/
-Tuesday, 29 April 2014,"KDE Ships April Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.5/
-Wednesday, 16 April 2014,"KDE Software Compilation 4.13",https://kde.org/announcements/4/4.13.0/
-Wednesday, 2 April 2014,"KDE Ships First Alpha of Next Generation Plasma Workspace",https://kde.org/announcements/plasma/2014.6-alpha1/
-Tuesday, 1 April 2014,"KDE Ships April Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.4/
-Tuesday, 1 April 2014,"KDE Ships First Beta of Frameworks 5",https://kde.org/announcements/frameworks/5-beta1/
-Thursday, 27 March 2014,"KDE Ships Release Candidate of Applications and Platform 4.13",https://kde.org/announcements/4/4.13-rc/
-Thursday, 20 March 2014,"KDE Ships February Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.13-beta3/
-Thursday, 13 March 2014,"KDE Ships Second Beta of Applications and Platform 4.13",https://kde.org/announcements/4/4.13-beta2/
-Thursday, 6 March 2014,"KDE Ships First Beta of Applications and Platform 4.13",https://kde.org/announcements/4/4.13-beta1/
-Tuesday, 4 March 2014,"KDE Ships February Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.3/
-Monday, 3 March 2014,"KDE Ships Second Alpha of Frameworks 5",https://kde.org/announcements/frameworks/5-alpha2/
-Friday, 14 February 2014,"KDE Ships First Alpha of Frameworks 5",https://kde.org/announcements/frameworks/5-alpha/
-Tuesday, 4 February 2014,"KDE Ships February Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.2/
-Tuesday, 14 January 2014,"KDE Ships January Updates to Applications and Platform",https://kde.org/announcements/4/4.12.1/
-Tuesday, 7 January 2014,"Frameworks 5 Technology Preview",https://kde.org/announcements/frameworks/5-tp/
-Tuesday, 7 January 2014,"KDE Announces 4.11.5",https://kde.org/announcements/4/4.11.5/
-Friday, 20 December 2013,"Plasma 2 Technology Preview and Plasma Media Center 1.2.0",https://kde.org/announcements/plasma/2-tp/
-Wednesday, 18 December 2013,"KDE Software Compilation 4.12",https://kde.org/announcements/4/4.12.0/
-Tuesday, 3 December 2013,"KDE Ships December Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.4/
-Thursday, 28 November 2013,"KDE Ships Release Candidate of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-rc/
-Thursday, 21 November 2013,"KDE Ships Third Beta of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-beta3/
-Thursday, 14 November 2013,"KDE Ships Second Beta of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-beta2/
-Thursday, 7 November 2013,"KDE Ships First Beta of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-beta1/
-Tuesday, 5 November 2013,"KDE Ships November Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.3/
-Tuesday, 1 October 2013,"KDE Ships October Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.2/
-Tuesday, 3 September 2013,"KDE Ships September Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.1/
-Wednesday, 14 August 2013,"KDE Software Compilation 4.11",https://kde.org/announcements/4/4.11.0/
-Thursday, 25 July 2013,"KDE Ships Second Release Candidate of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-rc2/
-Tuesday, 16 July 2013,"KDE Ships First Release Candidate of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-rc1/
-Tuesday, 2 July 2013,"KDE Ships July Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.10.5/
-Thursday, 27 June 2013,"KDE Ships Second Beta of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-beta2/
-Thursday, 13 June 2013,"KDE Ships First Beta of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-beta1/
-Tuesday, 4 June 2013,"KDE Ships June Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.10.4/
-Tuesday, 7 May 2013,"KDE Ships May Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.10.3/
-Tuesday, 2 April 2013,"KDE Ships April Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.10.2/
-Tuesday, 5 March 2013,"KDE Ships March Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.10.1/
-Wednesday, 6 February 2013,"KDE Software Compilation 4.10",https://kde.org/announcements/4/4.10.0/
-Friday, 18 January 2013,"KDE Ships Third Release Candidate of Applications, Platform and Plasma Workspaces 4.10",https://kde.org/announcements/4/4.10-rc3/
-Friday, 4 January 2013,"KDE Ships Second Release Candidate of Applications, Platform and Plasma Workspaces 4.10",https://kde.org/announcements/4/4.10-rc2/
-Wednesday, 2 January 2013,"KDE Ships January Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.5/
-Wednesday, 19 December 2012,"KDE Ships First Release Candidate of Plasma Workspaces, Applications and Platform 4.10",https://kde.org/announcements/4/4.10-rc1/
-Wednesday, 5 December 2012,"KDE Release 4.9 – in memory of Claire Lotion",https://kde.org/announcements/4/4.9.0/
-Wednesday, 5 December 2012,"KDE Ships December Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.4/
-Tuesday, 4 December 2012,"KDE Ships Second Beta of Plasma Workspaces, Applications and Platform 4.10",https://kde.org/announcements/4/4.10-beta2/
-Wednesday, 21 November 2012,"KDE Ships First Beta of Plasma Workspaces, Applications and Platform 4.10",https://kde.org/announcements/4/4.10-beta1/
-Tuesday, 6 November 2012,"KDE Ships November Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.3/
-Monday, 15 October 2012,"Plasma Active 3 Improves Performance, Brings New Apps",https://kde.org/announcements/plasma-mobile/plasma-active-three/
-Tuesday, 2 October 2012,"KDE Ships October Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.2/
-Tuesday, 4 September 2012,"KDE Ships September Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.1/
-Monday, 6 August 2012,"KDE Ships August Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.5/
-Wednesday, 11 July 2012,"KDE Announces 4.9 RC2",https://kde.org/announcements/4/4.9-rc2/
-Wednesday, 27 June 2012,"KDE Announces 4.9 RC1",https://kde.org/announcements/4/4.9-rc1/
-Wednesday, 13 June 2012,"KDE Announces 4.9 Beta2",https://kde.org/announcements/4/4.9-beta2/
-Friday, 8 June 2012,"KDE Ships June Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.4/
-Monday, 4 June 2012,"KDE Announces 4.9 Beta1 and Testing Initiative",https://kde.org/announcements/4/4.9-beta1/
-Friday, 4 May 2012,"KDE Ships May Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.3/
-Wednesday, 4 April 2012,"KDE Ships April Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.2/
-Wednesday, 7 March 2012,"KDE Ships March Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.1/
-Wednesday, 25 January 2012,"KDE Plasma Workspaces, Applications and Platform 4.8 Improve User Experience",https://kde.org/announcements/4/4.8.0/
-Wednesday, 4 January 2012,"KDE Makes Second 4.8 Release Candidate Available",https://kde.org/announcements/4/4.8-rc2/
-Thursday, 22 December 2011,"KDE Makes First 4.8 Release Candidate Available, Adds Secret Service",https://kde.org/announcements/4/4.8-rc1/
-Wednesday, 14 December 2011,"Plasma Active Two Boosts Performance, New Features",https://kde.org/announcements/plasma-mobile/plasma-active-two/
-Wednesday, 7 December 2011,"KDE Makes 4.8 Beta2 Available for Testing",https://kde.org/announcements/4/4.8-beta2/
-Wednesday, 7 December 2011,"KDE's December Updates Conclude 4.7 Series",https://kde.org/announcements/4/4.7.4/
-Wednesday, 2 November 2011,"KDE Makes 4.8 Beta1 Available for Testing",https://kde.org/announcements/4/4.8-beta1/
-Wednesday, 2 November 2011,"KDE's November Updates Improve Nepomuk Stability",https://kde.org/announcements/4/4.7.3/
-Sunday, 9 October 2011,"Plasma Active One Arrives!",https://kde.org/announcements/plasma-mobile/plasma-active-one/
-Wednesday, 5 October 2011,"KDE's October Updates Improve Kontact Performance",https://kde.org/announcements/4/4.7.2/
-Wednesday, 7 September 2011,"KDE Ships September Updates",https://kde.org/announcements/4/4.7.1/
-Wednesday, 27 July 2011,"New KDE Applications, Workspaces and Development Platform Releases Bring New Features, Improve Stability",https://kde.org/announcements/4/4.7.0/
-Monday, 11 July 2011,"KDE Shows Second Release Candidate of Summer Release",https://kde.org/announcements/4/4.7-rc2/
-Thursday, 7 July 2011,"KDE Ships July Updates",https://kde.org/announcements/4/4.6.5/
-Saturday, 25 June 2011,"KDE Shows Release Candidate of Summer Release",https://kde.org/announcements/4/4.7-rc1/
-Friday, 10 June 2011,"New Kontact Suite Brings Next-Gen Groupware to Desktop and Mobile",https://kde.org/announcements/4/4.6.4/
-Wednesday, 25 May 2011,"KDE Shows Beta of Summer Release",https://kde.org/announcements/4/4.7-beta1/
-Friday, 6 May 2011,"KDE Ships May Updates",https://kde.org/announcements/4/4.6.3/
-Wednesday, 6 April 2011,"KDE Ships April Updates, Codename: Congrats",https://kde.org/announcements/4/4.6.2/
-Friday, 4 March 2011,"KDE Ships March Updates",https://kde.org/announcements/4/4.6.1/
-Wednesday, 26 January 2011,"KDE Puts You In Control with New Workspaces, Applications and Platform",https://kde.org/announcements/4/4.6.0/
-Friday, 7 January 2011,"KDE Ships January Updates",https://kde.org/announcements/4/4.5.5/
-Wednesday, 5 January 2011,"KDE Plasma, Applications and Development Platform 4.6 RC2 Available",https://kde.org/announcements/4/4.6-rc2/
-Thursday, 23 December 2010,"KDE Software Compilation 4.6 RC1 Release Announcement",https://kde.org/announcements/4/4.6-rc1/
-Wednesday, 8 December 2010,"KDE Software Compilation 4.6 Beta2 Release Announcement",https://kde.org/announcements/4/4.6-beta2/
-Thursday, 2 December 2010,"December Updates Stabilize KDE 4.5 Further",https://kde.org/announcements/4/4.5.4/
-Thursday, 25 November 2010,"4.6 Beta1 Brings Improved Search, Activities and Mobile Device Support",https://kde.org/announcements/4/4.6-beta1/
-Wednesday, 3 November 2010,"KDE Ships November Updates",https://kde.org/announcements/4/4.5.3/
-Tuesday, 5 October 2010,"KDE Software Compilation 4.5.2 Release Announcement",https://kde.org/announcements/4/4.5.2/
-Tuesday, 31 August 2010,"KDE Software Compilation 4.5.1 Release Announcement",https://kde.org/announcements/4/4.5.1/
-Tuesday, 10 August 2010,"KDE Releases Development Platform, Applications and Plasma Workspaces 4.5.0",https://kde.org/announcements/4/4.5.0/
-Monday, 26 July 2010,"KDE Software Compilation 4.5 RC3 Release Announcement",https://kde.org/announcements/4/4.5-rc3/
-Thursday, 8 July 2010,"KDE Software Compilation 4.5 RC2 Release Announcement",https://kde.org/announcements/4/4.5-rc2/
-Wednesday, 30 June 2010,"KDE Software Compilation 4.4.5 Release Announcement",https://kde.org/announcements/4/4.4.5/
-Sunday, 27 June 2010,"KDE Software Compilation 4.5 RC1 Release Announcement",https://kde.org/announcements/4/4.5-rc1/
-Wednesday, 9 June 2010,"KDE Software Compilation 4.5 beta 2",https://kde.org/announcements/4/4.5-beta2/
-Tuesday, 1 June 2010,"KDE Software Compilation 4.4.4 Release Announcement",https://kde.org/announcements/4/4.4.4/
-Wednesday, 26 May 2010,"KDE Software Compilation 4.5 beta 1",https://kde.org/announcements/4/4.5-beta1/
-Wednesday, 5 May 2010,"KDE Software Compilation 4.4.3 Release Announcement",https://kde.org/announcements/4/4.4.3/
-Tuesday, 30 March 2010,"KDE Software Compilation 4.4.2 Release Announcement",https://kde.org/announcements/4/4.4.2/
-Tuesday, 2 March 2010,"KDE Software Compilation 4.4.1 Release Announcement",https://kde.org/announcements/4/4.4.1/
-Tuesday, 9 February 2010,"KDE SC 4.4.0 Caikaku Release Announcement",https://kde.org/announcements/4/4.4.0/
-Monday, 1 February 2010,"Software Compilation 4.4 RC3 Release Announcement",https://kde.org/announcements/4/4.4-rc3/
-Tuesday, 26 January 2010,"KDE Software Compilation 4.3.5 Release Announcement",https://kde.org/announcements/4/4.3.5/
-Monday, 25 January 2010,"Software Compilation 4.4 RC2 Release Announcement",https://kde.org/announcements/4/4.4-rc2/
-Friday, 8 January 2010,"Software Compilation 4.4 RC1 Release Announcement",https://kde.org/announcements/4/4.4-rc1/
-Monday, 21 December 2009,"Software Compilation 4.4 Beta 2 Release Announcement",https://kde.org/announcements/4/4.4-beta2/
-Friday, 4 December 2009,"Software Compilation 4.4 Beta1 Release Announcement",https://kde.org/announcements/4/4.4-beta1/
-Tuesday, 1 December 2009,"KDE Software Compilation 4.3.4 Release Announcement",https://kde.org/announcements/4/4.3.4/
-Tuesday, 3 November 2009,"KDE 4.3.3 Release Announcement",https://kde.org/announcements/4/4.3.3/
-Tuesday, 6 October 2009,"KDE 4.3.2 Release Announcement",https://kde.org/announcements/4/4.3.2/
-Tuesday, 1 September 2009,"KDE 4.3.1 Release Announcement",https://kde.org/announcements/4/4.3.1/
-Tuesday, 4 August 2009,"Anonçaedje del rexhowe di KDE 4.3.0",https://kde.org/announcements/4/4.3.0.wa/
-Tuesday, 4 August 2009,"KDE 4.3.0 Caizen Release Announcement",https://kde.org/announcements/4/4.3.0/
-Wednesday, 22 July 2009,"KDE 4.3 RC3 Release Announcement",https://kde.org/announcements/4/4.3-rc3/
-Thursday, 9 July 2009,"KDE 4.3 RC2 Release Announcement",https://kde.org/announcements/4/4.3-rc2/
-Wednesday, 1 July 2009,"KDE 4.3 RC1 Release Announcement",https://kde.org/announcements/4/4.3-rc1/
-Wednesday, 10 June 2009,"KDE 4.3 Beta 2 Release Announcement",https://kde.org/announcements/4/4.3-beta2/
-Wednesday, 3 June 2009,"KDE 4.2.4 Release Announcement",https://kde.org/announcements/4/4.2.4/
-Wednesday, 13 May 2009,"KDE 4.3 Beta 1 Release Announcement",https://kde.org/announcements/4/4.3-beta1/
-Wednesday, 6 May 2009,"KDE 4.2.3 Release Announcement",https://kde.org/announcements/4/4.2.3/
-Thursday, 2 April 2009,"KDE 4.2.2 Release Announcement",https://kde.org/announcements/4/4.2.2/
-Wednesday, 4 March 2009,"KDE 4.2.1 Release Announcement",https://kde.org/announcements/4/4.2.1/
-Tuesday, 27 January 2009,"KDE 4.2.0 Release Announcement",https://kde.org/announcements/4/4.2.0.he/
-Tuesday, 27 January 2009,"KDE 4.2.0 Release Announcement",https://kde.org/announcements/4/4.2.0/
-Tuesday, 27 January 2009,"KDE ૪.૨.૦ પ્રકાશન જાહેરાત",https://kde.org/announcements/4/4.2.0.gu/
-Tuesday, 27 January 2009,"കെഡിഇ 4.2.0 പ്രകാശനക്കുറിപ്പു്",https://kde.org/announcements/4/4.2.0.ml/
-Tuesday, 13 January 2009,"KDE 4.1.4 Release Announcementt",https://kde.org/announcements/4/4.1.4/
-Tuesday, 13 January 2009,"KDE 4.2 RC Release Announcement",https://kde.org/announcements/4/4.2-rc/
-Tuesday, 16 December 2008,"KDE 4.2 Beta 2 Release Announcement",https://kde.org/announcements/4/4.2-beta2/
-Wednesday, 26 November 2008,"KDE 4.2 Beta 1 Release Announcement",https://kde.org/announcements/4/4.2-beta1/
-Wednesday, 5 November 2008,"KDE 4.1.3 Release Announcement",https://kde.org/announcements/4/4.1.3/
-Sunday, 12 October 2008,"KDE Launches User Forum",https://kde.org/announcements/forum/
-Friday, 3 October 2008,"KDE 4.1.2 Release Announcement",https://kde.org/announcements/4/4.1.2/
-Wednesday, 3 September 2008,"KDE 4.1.1 Release Announcement",https://kde.org/announcements/4/4.1.1/
-Tuesday, 26 August 2008,"KDE 3.5.10 Release Announcement",https://kde.org/announcements/1-2-3/3.5.10/
-Tuesday, 29 July 2008,"KDE 4.1 Release Announcement",https://kde.org/announcements/4/4.1.0/
-Tuesday, 29 July 2008,"കെഡിഇ 4.1 പതിപ്പു് പുറത്തിറങ്ങുന്നു",https://kde.org/announcements/4/4.1.0.ml/
-Tuesday, 15 July 2008,"KDE 4.1 RC1 Release Announcement",https://kde.org/announcements/4/4.1-rc1/
-Tuesday, 24 June 2008,"KDE 4.1 Beta 2 Release Announcement",https://kde.org/announcements/4/4.1-beta2/
-Wednesday, 4 June 2008,"KDE 4.0.5 Release Announcement",https://kde.org/announcements/4/4.0.5/
-Tuesday, 27 May 2008,"KDE 4.1 Beta1 Release Announcement",https://kde.org/announcements/4/4.1-beta1/
-Wednesday, 7 May 2008,"KDE 4.0.4 Release Announcement",https://kde.org/announcements/4/4.0.4/
-Tuesday, 29 April 2008,"KDE 4.1 Alpha1 Release Announcement",https://kde.org/announcements/4/4.1-alpha1/
-Friday, 4 April 2008,"KDE and Wikimedia Start Collaboration",https://kde.org/announcements/kde-and-wikimedia-collaborate/
-Wednesday, 2 April 2008,"KDE 4.0.3 Release Announcement",https://kde.org/announcements/4/4.0.3/
-Wednesday, 5 March 2008,"KDE 4.0.2 Release Announcement",https://kde.org/announcements/4/4.0.2/
-Wednesday, 5 March 2008,"KDE 4.0.2 Release Announcement",https://kde.org/announcements/4/4.0.2.ro/
-Tuesday, 19 February 2008,"KDE 3.5.9 Release Announcement",https://kde.org/announcements/1-2-3/3.5.9/
-Tuesday, 5 February 2008,"Anunţul de lansare KDE 4.0.1",https://kde.org/announcements/4/4.0.1.ro/
-Tuesday, 5 February 2008,"KDE 4.0.1 Release Announcement",https://kde.org/announcements/4/4.0.1/
-Friday, 11 January 2008,"KDE 4.0 izlaists",https://kde.org/announcements/4/4.0.lv/
-Friday, 11 January 2008,"KDE 4.0 Lansat",https://kde.org/announcements/4/4.0.ro/
-Friday, 11 January 2008,"KDE 4.0 Released",https://kde.org/announcements/4/4.0.hi/
-Friday, 11 January 2008,"KDE 4.0 Released",https://kde.org/announcements/4/4.0/
-Friday, 11 January 2008,"KDE 4.0 שוחררה",https://kde.org/announcements/4/4.0.he/
-Friday, 11 January 2008,"KDE 4.0 প্রকাশিত হয়েছে",https://kde.org/announcements/4/4.0.bn/
-Friday, 11 January 2008,"KDE 4.0 ਰੀਲਿਜ਼ ਹੋਇਆ",https://kde.org/announcements/4/4.0.pa/
-Friday, 11 January 2008,"KDE ૪.૦ રજૂ થયેલ છે",https://kde.org/announcements/4/4.0.gu/
-Friday, 11 January 2008,"Vydáno KDE 4.0",https://kde.org/announcements/4/4.0.cz/
-Friday, 11 January 2008,"கேடியீ நான்கு வெளிடப் பட்டது",https://kde.org/announcements/4/4.0.ta/
-Friday, 11 January 2008,"കെഡിഇ 4.0 പുറത്തിറങ്ങി",https://kde.org/announcements/4/4.0.ml/
-Tuesday, 11 December 2007,"KDE 4.0 Release Candidate 2",https://kde.org/announcements/4/4.0-rc2/
-Tuesday, 20 November 2007,"KDE 4.0 Release Candidate 1",https://kde.org/announcements/4/4.0-rc1/
-Tuesday, 30 October 2007,"KDE 4.0 Beta 4",https://kde.org/announcements/4/4.0-beta4/
-Tuesday, 30 October 2007,"KDE 4.0 Platform Release Candidate 1",https://kde.org/announcements/4/4.0-platform-rc1/
-Wednesday, 17 October 2007,"KDE 4.0 Beta 3 Release Announcement",https://kde.org/announcements/4/4.0-beta3/
-Tuesday, 16 October 2007,"KDE 3.5.8 Release Announcement",https://kde.org/announcements/1-2-3/3.5.8/
-Thursday, 6 September 2007,"KDE 4.0 Beta 2 Release Announcement",https://kde.org/announcements/4/4.0-beta2/
-Wednesday, 4 July 2007,"KDE 4.0-alpha2 Release Announcement",https://kde.org/announcements/4/4.0-alpha2/
-Tuesday, 22 May 2007,"KDE 3.5.7 Release Announcement",https://kde.org/announcements/1-2-3/3.5.7/
-Tuesday, 22 May 2007,"KDE 4.0 Beta 1 Release Announcement",https://kde.org/announcements/4/4.0-beta1/
-Friday, 11 May 2007,"KDE 4.0-alpha1 Release Announcement",https://kde.org/announcements/4/4.0-alpha1/
-Thursday, 25 January 2007,"KDE 3.5.6 Release Announcement",https://kde.org/announcements/1-2-3/3.5.6/
-Saturday, 14 October 2006,"KDE Project Announced",https://kde.org/announcements/announcement/
-Wednesday, 11 October 2006,"KDE 3.5.5 Release Announcement",https://kde.org/announcements/1-2-3/3.5.5/
-Saturday, 23 September 2006,"aKademy 2006 kicked off",https://kde.org/announcements/akademy2006-kicked-off/
-Monday, 18 September 2006,"aKademy 2006 Schedule Finalized",https://kde.org/announcements/akademy2006-schedule-finalized/
-Wednesday, 2 August 2006,"KDE 3.5.4 Release Announcement",https://kde.org/announcements/1-2-3/3.5.4/
-Wednesday, 31 May 2006,"KDE 3.5.3 Release Announcement",https://kde.org/announcements/1-2-3/3.5.3/
-Tuesday, 9 May 2006,"KDE e.V. Becomes Associate Member of FSFE",https://kde.org/announcements/fsfe-associate-member/
-Tuesday, 28 March 2006,"KDE 3.5.2 Release Announcement",https://kde.org/announcements/1-2-3/3.5.2/
-Tuesday, 31 January 2006,"KDE 3.5.1 Release Announcement",https://kde.org/announcements/1-2-3/3.5.1/
-Tuesday, 29 November 2005,"K Desktop Environment 3.5 Released",https://kde.org/announcements/1-2-3/3.5/
-Tuesday, 18 October 2005,"Announcing KDE 3.5 Beta 2 (\"Koalition\")",https://kde.org/announcements/1-2-3/3.5-beta2/
-Thursday, 13 October 2005,"KDE 3.4.3 Release Announcement",https://kde.org/announcements/1-2-3/3.4.3/
-Wednesday, 21 September 2005,"Announcing KDE 3.5 Beta 1 (\"Kanzler\")",https://kde.org/announcements/1-2-3/3.5-beta1/
-Thursday, 28 July 2005,"KDE 3.4.2 Release Announcement",https://kde.org/announcements/1-2-3/3.4.2/
-Tuesday, 31 May 2005,"KDE 3.4.1 Release Announcement",https://kde.org/announcements/1-2-3/3.4.1/
-Wednesday, 16 March 2005,"Announcing KDE 3.4",https://kde.org/announcements/1-2-3/3.4/
-Wednesday, 9 February 2005,"Announcing KDE 3.4 Beta 2 (\"Keinstein\")",https://kde.org/announcements/1-2-3/3.4-beta2/
-Thursday, 13 January 2005,"Announcing KDE 3.4 Beta 1 (\"Krokodile\")",https://kde.org/announcements/1-2-3/3.4-beta1/
-Wednesday, 8 December 2004,"KDE 3.3.2 Release Announcement",https://kde.org/announcements/1-2-3/3.3.2/
-Tuesday, 12 October 2004,"KDE 3.3.1 Release Announcement",https://kde.org/announcements/1-2-3/3.3.1/
-Thursday, 19 August 2004,"Announcing KDE 3.3",https://kde.org/announcements/1-2-3/3.3/
-Thursday, 22 July 2004,"Announcing KDE 3.3 Beta 2 (\"Kollege\")",https://kde.org/announcements/1-2-3/3.3-beta2/
-Wednesday, 7 July 2004,"Announcing KDE 3.3 Beta 1 ("Klassroom")",https://kde.org/announcements/1-2-3/3.3-beta1/
-Wednesday, 9 June 2004,"KDE 3.2.3 Release Announcement",https://kde.org/announcements/1-2-3/3.2.3/
-Monday, 19 April 2004,"KDE 3.2.2 Release Announcement",https://kde.org/announcements/1-2-3/3.2.2/
-Tuesday, 9 March 2004,"KDE 3.2.1 Release Announcement",https://kde.org/announcements/1-2-3/3.2.1/
-Tuesday, 3 February 2004,"Announcing KDE 3.2",https://kde.org/announcements/1-2-3/3.2/
-Wednesday, 14 January 2004,"KDE 3.1.5 Release Announcement",https://kde.org/announcements/1-2-3/3.1.5/
-Monday, 3 November 2003,"KDE 3.2 Beta 1: Say Hello To Rudi",https://kde.org/announcements/1-2-3/3.2-beta1/
-Tuesday, 16 September 2003,"KDE 3.1.4 Release Announcement",https://kde.org/announcements/1-2-3/3.1.4/
-Tuesday, 29 July 2003,"KDE 3.1.3 Release Announcement",https://kde.org/announcements/1-2-3/3.1.3/
-Monday, 19 May 2003,"KDE 3.1.2 Release Announcement",https://kde.org/announcements/1-2-3/3.1.2/
-Thursday, 20 March 2003,"KDE 3.1.1 Release Announcement",https://kde.org/announcements/1-2-3/3.1.1/
-Tuesday, 11 March 2003,"KDE@CeBIT 2003",https://kde.org/announcements/cebit2003/
-Tuesday, 28 January 2003,"KDE 3.1 Release Announcement",https://kde.org/announcements/1-2-3/3.1/
-Saturday, 21 December 2002,"KDE 3.0.5a Release Announcement",https://kde.org/announcements/1-2-3/3.0.5a/
-Monday, 18 November 2002,"KDE 3.0.5 Release Announcement",https://kde.org/announcements/1-2-3/3.0.5/
-Wednesday, 9 October 2002,"KDE 3.0.4 Release Announcement",https://kde.org/announcements/1-2-3/3.0.4/
-Wednesday, 2 October 2002,"KDE 3.1 Second Beta Testing Release",https://kde.org/announcements/1-2-3/3.1-beta2/
-Thursday, 22 August 2002,"KDE 3.1 Beta Testing Release",https://kde.org/announcements/1-2-3/3.1-beta1/
-Monday, 19 August 2002,"KDE 3.0.3 Release Announcement",https://kde.org/announcements/1-2-3/3.0.3/
-Thursday, 11 July 2002,"KDE Project Ships Development Release",https://kde.org/announcements/1-2-3/3.1-alpha1/
-Tuesday, 2 July 2002,"KDE 3.0.2 Release Announcement",https://kde.org/announcements/1-2-3/3.0.2/
-Wednesday, 22 May 2002,"KDE 3.0.1 Release Announcement",https://kde.org/announcements/1-2-3/3.0.1/
-Thursday, 25 April 2002,"Improved Layout, Scriptability and Filters Highlight KOffice Beta Release for GNU/Linux and Other UNIXes",https://kde.org/announcements/koffice-1.2-beta1/
-Wednesday, 3 April 2002,"KDE 3.0 Released to public",https://kde.org/announcements/1-2-3/3.0/
-Wednesday, 13 February 2002,"KDE 3.0-beta2 Release Announcement",https://kde.org/announcements/1-2-3/3.0-beta2/
-Wednesday, 19 December 2001,"KDE 3.0-beta1 Release Announcement",https://kde.org/announcements/1-2-3/3.0-beta1/
-Monday, 17 December 2001,"KOffice 1.1.1 Release Announcement",https://kde.org/announcements/koffice-1.1.1/
-Wednesday, 21 November 2001,"KDE 2.2.2 Release Announcement",https://kde.org/announcements/1-2-3/2.2.2/
-Friday, 5 October 2001,"KDE 3.0-alpha1 Release Announcement",https://kde.org/announcements/1-2-3/3.0-alpha1/
-Wednesday, 19 September 2001,"KDE 2.2.1 Release Announcement",https://kde.org/announcements/1-2-3/2.2.1/
-Tuesday, 28 August 2001,"KOffice 1.1 Release Announcement",https://kde.org/announcements/koffice-1.1/
-Wednesday, 15 August 2001,"KDE 2.2 Released",https://kde.org/announcements/1-2-3/2.2/
-Wednesday, 4 July 2001,"KDE 2.2-beta1 Release Announcement",https://kde.org/announcements/1-2-3/2.2-beta1/
-Monday, 30 April 2001,"KDE 2.1.2 Release Announcement",https://kde.org/announcements/1-2-3/2.1.2/
-Tuesday, 27 March 2001,"KDE 2.1.1 Release Announcement",https://kde.org/announcements/1-2-3/2.1.1/
-Monday, 26 February 2001,"KDE 2.1 Release Announcement",https://kde.org/announcements/1-2-3/2.1/
-Wednesday, 31 January 2001,"KDE 2.1-beta2 Release Announcement",https://kde.org/announcements/1-2-3/2.1-beta2/
-Saturday, 16 December 2000,"KDE 2.1-beta1 Release Announcement",https://kde.org/announcements/1-2-3/2.1-beta1/
-Tuesday, 5 December 2000,"KDE 2.0.1 Release Announcement",https://kde.org/announcements/1-2-3/2.0.1/
-Monday, 23 October 2000,"KDE 2.0 Release Announcement",https://kde.org/announcements/1-2-3/2.0/
-Tuesday, 10 October 2000,"KDE 2.0 Release Announcement",https://kde.org/announcements/1-2-3/2.0-rc2/
-Monday, 2 October 2000,"Linux Congress Documentation and Localization Workshop",https://kde.org/announcements/doc-loc-meeting/
-Friday, 15 September 2000,"KDE 1.94 Release Announcement",https://kde.org/announcements/1-2-3/1.94/
-Tuesday, 5 September 2000,"KDE Official Response to Stallman Editorial",https://kde.org/announcements/rmsresponse/
-Thursday, 31 August 2000,"KDE Official Response to GNOME Foundation",https://kde.org/announcements/gfresponse/
-Wednesday, 23 August 2000,"KDE 1.93 Release Announcement",https://kde.org/announcements/1-2-3/1.93/
-Tuesday, 22 August 2000,"KDE Desktop Is Show Favorite at LinuxWorld Expo",https://kde.org/announcements/lwe_08_2000.bw.press-release/
-Saturday, 29 July 2000,"KDE 2 Launch Pad",https://kde.org/announcements/k2launchpad/
-Tuesday, 25 July 2000,"KDE 1.92 Release Announcement",https://kde.org/announcements/1-2-3/1.92/
-Wednesday, 14 June 2000,"KDE 1.91 Release Announcement",https://kde.org/announcements/1-2-3/1.91/
-Friday, 12 May 2000,"KDE 1.90 Release Announcement",https://kde.org/announcements/1-2-3/1.90/
-Thursday, 10 February 2000,"SourceForge hosts KDE CVS",https://kde.org/announcements/sfcvs/
-Wednesday, 15 December 1999,"KDE 1.89 Release Announcement",https://kde.org/announcements/1-2-3/1.89/
-Tuesday, 14 September 1999,"Meet the KDE Team at CeBIT 2000 Show",https://kde.org/announcements/cebit2000/
-Monday, 13 September 1999,"KDE 1.1.2 Release Announcement",https://kde.org/announcements/1-2-3/1.1.2/
-Monday, 3 May 1999,"KDE 1.1.1 Release Announcement",https://kde.org/announcements/1-2-3/1.1.1/
-Friday, 19 March 1999,"ZD Innovation of the Year 1998/1999",https://kde.org/announcements/zd-innov-cebit99/
-Wednesday, 25 November 1998,"Corel Computer and KDE Announce Technology Relationship",https://kde.org/announcements/kde-corel/
-Friday, 4 September 1998,"KDE Included in Delix",https://kde.org/announcements/dldannounc/
-Wednesday, 29 July 1998,"KDE included in SuSE Linux Announcements",https://kde.org/announcements/kde-suse/
-Thursday, 16 July 1998,"KDE Announces Support Of KDE Technology",https://kde.org/announcements/kde-caldera/
-Sunday, 12 July 1998,"KDE 1.0 Release Announcement",https://kde.org/announcements/1-2-3/1.0/
-Sunday, 19 April 1998,"KDE 1.0-beta4 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta4/
-Sunday, 1 February 1998,"KDE 1.0-beta3 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta3/
-Sunday, 23 November 1997,"KDE 1.0-beta2 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta2/
-Monday, 20 October 1997,"KDE 1.0-beta1 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta1/
+Date,Title,Link
+gear,23.08.5,2024-02-15,"KDE Gear 23.08.5",https://kde.org/announcements/gear/23.08.5/
+frameworks,5.115.0,2024-02-10,"KDE Ships Frameworks 5.115.0",https://kde.org/announcements/frameworks/5/5.115.0/
+pre,None,2024-01-31,"KDE's Megarelease 6 - Release Candidate 2",https://kde.org/announcements/megarelease/6/rc2/
+frameworks,5.114.0,2024-01-13,"KDE Ships Frameworks 5.114.0",https://kde.org/announcements/frameworks/5/5.114.0/
+pre,None,2024-01-10,"KDE's Megarelease 6 - Release Candidate 1",https://kde.org/announcements/megarelease/6/rc1/
+pre,None,2023-12-20,"KDE's 6th Megarelease - Beta 2",https://kde.org/announcements/megarelease/6/beta2/
+norelease,None,2023-12-18,"conf.kde.in 2024 in Pune, Maharashtra",https://kde.org/announcements/conf-kde-in-2024/
+frameworks,5.113.0,2023-12-14,"KDE Ships Frameworks 5.113.0",https://kde.org/announcements/frameworks/5/5.113.0/
+gear,23.08.4,2023-12-07,"KDE Gear 23.08.4",https://kde.org/announcements/gear/23.08.4/
+plasma,5.27.10, Bugfix Release for December,2023-12-05,"KDE Plasma 5.27.10, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.27.10/
+pre,None,2023-11-29,"KDE's 6th Megarelease - Beta 1",https://kde.org/announcements/megarelease/6/beta1/
+norelease,None,2023-11-14,"KDE and Google Summer of Code 2023",https://kde.org/announcements/2023-gsoc-end/
+frameworks,5.112.0,2023-11-12,"KDE Ships Frameworks 5.112.0",https://kde.org/announcements/frameworks/5/5.112.0/
+gear,23.08.3,2023-11-09,"KDE Gear 23.08.3",https://kde.org/announcements/gear/23.08.3/
+pre,None,2023-11-08,"KDE's 6th Megarelease - Alpha",https://kde.org/announcements/megarelease/6/alpha/
+plasma,5.27.9, Bugfix Release for October,2023-10-24,"KDE Plasma 5.27.9, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.27.9/
+frameworks,5.111.0,2023-10-18,"KDE Ships Frameworks 5.111.0",https://kde.org/announcements/frameworks/5/5.111.0/
+gear,23.08.2,2023-10-12,"KDE Gear 23.08.2",https://kde.org/announcements/gear/23.08.2/
+gear,23.08.1,2023-09-14,"KDE Gear 23.08.1",https://kde.org/announcements/gear/23.08.1/
+plasma,5.27.8, Bugfix Release for September,2023-09-12,"KDE Plasma 5.27.8, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.27.8/
+frameworks,5.110.0,2023-09-09,"KDE Ships Frameworks 5.110.0",https://kde.org/announcements/frameworks/5/5.110.0/
+gear,23.08,2023-08-24,"KDE Gear ☀️ 23.08",https://kde.org/announcements/gear/23.08.0/
+frameworks,5.109.0,2023-08-17,"KDE Ships Frameworks 5.109.0",https://kde.org/announcements/frameworks/5/5.109.0/
+plasma,5.27.7, Bugfix Release for August,2023-08-01,"KDE Plasma 5.27.7, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.27.7/
+frameworks,5.108.0,2023-07-08,"KDE Ships Frameworks 5.108.0",https://kde.org/announcements/frameworks/5/5.108.0/
+gear,23.04.3,2023-07-06,"KDE Gear 23.04.3",https://kde.org/announcements/gear/23.04.3/
+plasma,5.27.6, Bugfix Release for June,2023-06-20,"KDE Plasma 5.27.6, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.27.6/
+frameworks,5.107.0,2023-06-10,"KDE Ships Frameworks 5.107.0",https://kde.org/announcements/frameworks/5/5.107.0/
+gear,23.04.2,2023-06-08,"KDE Gear 23.04.2",https://kde.org/announcements/gear/23.04.2/
+frameworks,5.106.0,2023-05-13,"KDE Ships Frameworks 5.106.0",https://kde.org/announcements/frameworks/5/5.106.0/
+gear,23.04.1,2023-05-11,"KDE Gear 23.04.1",https://kde.org/announcements/gear/23.04.1/
+plasma,5.27.5, Bugfix Release for May,2023-05-09,"KDE Plasma 5.27.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.27.5/
+gear,23.04,2023-04-20,"KDE Gear 23.04",https://kde.org/announcements/gear/23.04.0/
+frameworks,5.105.0,2023-04-08,"KDE Ships Frameworks 5.105.0",https://kde.org/announcements/frameworks/5/5.105.0/
+plasma,5.27.4, Bugfix Release for April,2023-04-04,"KDE Plasma 5.27.4, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.27.4/
+plasma,5.27.3, Bugfix Release for March,2023-03-14,"KDE Plasma 5.27.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.27.3/
+frameworks,5.104.0,2023-03-11,"KDE Ships Frameworks 5.104.0",https://kde.org/announcements/frameworks/5/5.104.0/
+gear,22.12.3,2023-03-02,"KDE Gear 22.12.3",https://kde.org/announcements/gear/22.12.3/
+plasma,5.27.2, Bugfix Release for February,2023-02-28,"KDE Plasma 5.27.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.27.2/
+plasma,5.27.1, Bugfix Release for February,2023-02-21,"KDE Plasma 5.27.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.27.1/
+plasma,5.27,2023-02-14,"Plasma 5.27",https://kde.org/announcements/plasma/5/5.27.0/
+frameworks,5.103.0,2023-02-12,"KDE Ships Frameworks 5.103.0",https://kde.org/announcements/frameworks/5/5.103.0/
+gear,22.12.2,2023-02-02,"KDE Gear 22.12.2",https://kde.org/announcements/gear/22.12.2/
+pre,None,2023-01-19,"Plasma 5.27 Beta",https://kde.org/announcements/plasma/5/5.26.90/
+frameworks,5.102.0,2023-01-14,"KDE Ships Frameworks 5.102.0",https://kde.org/announcements/frameworks/5/5.102.0/
+gear,22.12.1,2023-01-05,"KDE Gear 22.12.1",https://kde.org/announcements/gear/22.12.1/
+plasma,5.26.5, Bugfix Release for January,2023-01-03,"KDE Plasma 5.26.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.26.5/
+frameworks,5.101.0,2022-12-10,"KDE Ships Frameworks 5.101.0",https://kde.org/announcements/frameworks/5/5.101.0/
+gear,22.12,2022-12-08,"KDE Gear 22.12 is Here!",https://kde.org/announcements/gear/22.12.0/
+plasma,5.26.4, Bugfix Release for November,2022-11-29,"KDE Plasma 5.26.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.26.4/
+frameworks,5.100.0,2022-11-14,"KDE Ships Frameworks 5.100.0",https://kde.org/announcements/frameworks/5/5.100.0/
+plasma,5.26.3, Bugfix Release for November,2022-11-08,"KDE Plasma 5.26.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.26.3/
+gear,22.08.3,2022-11-03,"KDE Gear 22.08.3",https://kde.org/announcements/gear/22.08.3/
+plasma,5.26.2, Bugfix Release for October,2022-10-25,"KDE Plasma 5.26.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.26.2/
+plasma,5.26.1, Bugfix Release for October,2022-10-18,"KDE Plasma 5.26.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.26.1/
+plasma,5.24.7, Bugfix Release for October,2022-10-14,"KDE Plasma 5.24.7, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.24.7/
+gear,22.08.2,2022-10-13,"KDE Gear 22.08.2",https://kde.org/announcements/gear/22.08.2/
+plasma,5.26,2022-10-11,"Plasma 5.26",https://kde.org/announcements/plasma/5/5.26.0/
+frameworks,5.99.0,2022-10-09,"KDE Ships Frameworks 5.99.0",https://kde.org/announcements/frameworks/5/5.99.0/
+pre,None,2022-09-14,"Plasma 5.26 Beta",https://kde.org/announcements/plasma/5/5.25.90/
+frameworks,5.98.0,2022-09-12,"KDE Ships Frameworks 5.98.0",https://kde.org/announcements/frameworks/5/5.98.0/
+gear,22.08.1,2022-09-08,"KDE Gear 22.08.1",https://kde.org/announcements/gear/22.08.1/
+plasma,5.25.5, Bugfix Release for September,2022-09-06,"KDE Plasma 5.25.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.25.5/
+gear,22.08,2022-08-18,"KDE Gear 22.08",https://kde.org/announcements/gear/22.08.0/
+frameworks,5.97.0,2022-08-14,"KDE Ships Frameworks 5.97.0",https://kde.org/announcements/frameworks/5/5.97.0/
+plasma,5.25.4, Bugfix Release for August,2022-08-02,"KDE Plasma 5.25.4, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.25.4/
+plasma,5.25.3, Bugfix Release for July,2022-07-12,"KDE Plasma 5.25.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.25.3/
+plasma,5.24.6, Bugfix Release for July,2022-07-11,"KDE Plasma 5.24.6, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.24.6/
+frameworks,5.96.0,2022-07-09,"KDE Ships Frameworks 5.96.0",https://kde.org/announcements/frameworks/5/5.96.0/
+gear,22.04.3,2022-07-07,"KDE Gear 22.04.3",https://kde.org/announcements/gear/22.04.3/
+plasma,5.25.2, Bugfix Release for June,2022-06-28,"KDE Plasma 5.25.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.25.2/
+plasma,5.25.1, Bugfix Release for June,2022-06-21,"KDE Plasma 5.25.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.25.1/
+plasma,5.25,2022-06-14,"Plasma 5.25",https://kde.org/announcements/plasma/5/5.25.0/
+frameworks,5.95.0,2022-06-12,"KDE Ships Frameworks 5.95.0",https://kde.org/announcements/frameworks/5/5.95.0/
+gear,22.04.2,2022-06-09,"KDE Gear 22.04.2",https://kde.org/announcements/gear/22.04.2/
+pre,None,2022-05-19,"Plasma 5.25 Beta",https://kde.org/announcements/plasma/5/5.24.90/
+frameworks,5.94.0,2022-05-14,"KDE Ships Frameworks 5.94.0",https://kde.org/announcements/frameworks/5/5.94.0/
+gear,22.04.1,2022-05-12,"KDE Gear 22.04.1",https://kde.org/announcements/gear/22.04.1/
+plasma,5.24.5, Bugfix Release for May,2022-05-03,"KDE Plasma 5.24.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.24.5/
+gear,22.04,2022-04-21,"KDE Gear 22.04",https://kde.org/announcements/gear/22.04.0/
+frameworks,5.93.0,2022-04-09,"KDE Ships Frameworks 5.93.0",https://kde.org/announcements/frameworks/5/5.93.0/
+plasma,5.24.4, Bugfix Release for March,2022-03-29,"KDE Plasma 5.24.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.24.4/
+norelease,None,2022-03-16,"First Ever Eco-Certified Computer Program: KDE's Popular PDF Reader Okular",https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/
+frameworks,5.92.0,2022-03-12,"KDE Ships Frameworks 5.92.0",https://kde.org/announcements/frameworks/5/5.92.0/
+plasma,5.24.3, Bugfix Release for March,2022-03-08,"KDE Plasma 5.24.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.24.3/
+gear,21.12.3,2022-03-03,"KDE Gear 21.12.3",https://kde.org/announcements/gear/21.12.3/
+plasma,5.24.2, Bugfix Release for February,2022-02-22,"KDE Plasma 5.24.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.24.2/
+plasma,5.24.1, Bugfix Release for February,2022-02-15,"KDE Plasma 5.24.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.24.1/
+frameworks,5.91.0,2022-02-13,"KDE Ships Frameworks 5.91.0",https://kde.org/announcements/frameworks/5/5.91.0/
+plasma,5.24,2022-02-08,"Plasma 5.24",https://kde.org/announcements/plasma/5/5.24.0/
+gear,21.12.2,2022-02-03,"KDE Gear 21.12.2",https://kde.org/announcements/gear/21.12.2/
+pre,None,2022-01-13,"Plasma 5.24 Beta",https://kde.org/announcements/plasma/5/5.23.90/
+frameworks,5.90.0,2022-01-08,"KDE Ships Frameworks 5.90.0",https://kde.org/announcements/frameworks/5/5.90.0/
+gear,21.12.1,2022-01-06,"KDE Gear 21.12.1",https://kde.org/announcements/gear/21.12.1/
+plasma,5.23.5, Bugfix Release for January,2022-01-04,"KDE Plasma 5.23.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.23.5/
+frameworks,5.89.0,2021-12-11,"KDE Ships Frameworks 5.89.0",https://kde.org/announcements/frameworks/5/5.89.0/
+gear,21.12,2021-12-09,"KDE Gear 21.12",https://kde.org/announcements/gear/21.12.0/
+plasma,5.23.4, Bugfix Release for November,2021-11-30,"KDE Plasma 5.23.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.23.4/
+frameworks,5.88.0,2021-11-13,"KDE Ships Frameworks 5.88.0",https://kde.org/announcements/frameworks/5/5.88.0/
+plasma,5.23.3, Bugfix Release for November,2021-11-09,"KDE Plasma 5.23.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.23.3/
+gear,21.08.3,2021-11-04,"KDE Gear 21.08.3",https://kde.org/announcements/gear/21.08.3/
+plasma,5.23.2, Bugfix Release for October,2021-10-26,"KDE Plasma 5.23.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.23.2/
+plasma,5.18.8, Bugfix Release for October,2021-10-19,"KDE Plasma 5.18.8, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.18.8/
+plasma,5.23.1, Bugfix Release for October,2021-10-19,"KDE Plasma 5.23.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.23.1/
+plasma,- 25th Anniversary Edition,2021-10-14,"Plasma - 25th Anniversary Edition",https://kde.org/announcements/plasma/5/5.23.0/
+frameworks,5.87.0,2021-10-09,"KDE Ships Frameworks 5.87.0",https://kde.org/announcements/frameworks/5/5.87.0/
+gear,21.08.2,2021-10-07,"KDE Gear 21.08.2",https://kde.org/announcements/gear/21.08.2/
+pre,None,2021-09-16,"Plasma 25th Anniversary Edition Beta",https://kde.org/announcements/plasma/5/5.22.90/
+frameworks,5.86.0,2021-09-11,"KDE Ships Frameworks 5.86.0",https://kde.org/announcements/frameworks/5/5.86.0/
+gear,21.08.1,2021-09-02,"KDE Gear 21.08.1",https://kde.org/announcements/gear/21.08.1/
+plasma,5.22.5, Bugfix Release for August,2021-08-31,"KDE Plasma 5.22.5, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.22.5/
+frameworks,5.85.0,2021-08-13,"KDE Ships Frameworks 5.85.0",https://kde.org/announcements/frameworks/5/5.85.0/
+gear,21.08,2021-08-12,"KDE Gear 21.08",https://kde.org/announcements/gear/21.08.0/
+plasma,5.22.4, Bugfix Release for July,2021-07-27,"KDE Plasma 5.22.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.22.4/
+frameworks,5.84.0,2021-07-10,"KDE Ships Frameworks 5.84.0",https://kde.org/announcements/frameworks/5/5.84.0/
+gear,21.04.3,2021-07-08,"KDE Gear 21.04.3",https://kde.org/announcements/gear/21.04.3/
+plasma,5.22.3, Bugfix Release for July,2021-07-06,"KDE Plasma 5.22.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.22.3/
+plasma,5.22.2, Bugfix Release for June,2021-06-22,"KDE Plasma 5.22.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.22.2/
+plasma,5.22.1, Bugfix Release for June,2021-06-15,"KDE Plasma 5.22.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.22.1/
+frameworks,5.83.0,2021-06-12,"KDE Ships Frameworks 5.83.0",https://kde.org/announcements/frameworks/5/5.83.0/
+gear,21.04.2,2021-06-10,"KDE Gear 21.04.2",https://kde.org/announcements/gear/21.04.2/
+plasma,5.22,2021-06-08,"Plasma 5.22",https://kde.org/announcements/plasma/5/5.22.0/
+gear,21.04.1,2021-05-13,"KDE Gear 21.04.1",https://kde.org/announcements/gear/21.04.1/
+pre,None,2021-05-13,"Plasma 5.22 Beta: The Quest for Stability and Usability",https://kde.org/announcements/plasma/5/5.21.90/
+frameworks,5.82.0,2021-05-08,"KDE Ships Frameworks 5.82.0",https://kde.org/announcements/frameworks/5/5.82.0/
+plasma,5.21.5, Bugfix Release for May,2021-05-04,"KDE Plasma 5.21.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.21.5/
+gear,21.04,2021-04-22,"KDE Gear 21.04",https://kde.org/announcements/gear/21.04/
+frameworks,5.81.0,2021-04-10,"KDE Ships Frameworks 5.81.0",https://kde.org/announcements/frameworks/5/5.81.0/
+plasma,5.21.4, Bugfix Release for April,2021-04-06,"KDE Plasma 5.21.4, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.21.4/
+plasma,5.18.7, Bugfix Release for March,2021-03-30,"KDE Plasma 5.18.7, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.18.7/
+plasma,5.21.3, Bugfix Release for March,2021-03-16,"KDE Plasma 5.21.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.21.3/
+frameworks,5.80.0,2021-03-13,"KDE Ships Frameworks 5.80.0",https://kde.org/announcements/frameworks/5/5.80.0/
+releases,20.12.3,2021-03-04,"20.12.3 Releases",https://kde.org/announcements/releases/20.12.3/
+plasma,5.21.2, Bugfix Release for March,2021-03-02,"KDE Plasma 5.21.2, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.21.2/
+plasma,5.21.1, Bugfix Release for February,2021-02-23,"KDE Plasma 5.21.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.21.1/
+plasma,5.21,2021-02-16,"Plasma 5.21",https://kde.org/announcements/plasma/5/5.21.0/
+frameworks,5.79.0,2021-02-13,"KDE Ships Frameworks 5.79.0",https://kde.org/announcements/frameworks/5/5.79.0/
+apps-update,February 2021,2021-02-04,"KDE's February 2021 Apps Update",https://kde.org/announcements/releases/2021-02-apps-update/
+pre,None,2021-01-21,"Plasma 5.21 Beta",https://kde.org/announcements/plasma/5/5.20.90/
+frameworks,5.78.0,2021-01-09,"KDE Ships Frameworks 5.78.0",https://kde.org/announcements/frameworks/5/5.78.0/
+apps-update,January 2021,2021-01-07,"KDE's January 2021 Apps Update",https://kde.org/announcements/releases/2021-01-apps-update/
+plasma,5.20.5, Bugfix Release for January,2021-01-05,"KDE Plasma 5.20.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.20.5/
+frameworks,5.77.0,2020-12-12,"KDE Ships Frameworks 5.77.0",https://kde.org/announcements/frameworks/5/5.77.0/
+apps-update,December 2020,2020-12-10,"KDE's December 2020 Apps Update",https://kde.org/announcements/releases/2020-12-apps-update/
+plasma,5.20.4, Bugfix Release for December,2020-12-01,"KDE Plasma 5.20.4, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.20.4/
+norelease,None,2020-11-15,"Introducing the PinePhone - KDE Community edition",https://kde.org/announcements/plasma-mobile/pinephone-plasma-mobile-edition/
+plasma,5.20.3, Bugfix Release for November,2020-11-10,"KDE Plasma 5.20.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.20.3/
+frameworks,5.76.0,2020-11-07,"KDE Ships Frameworks 5.76.0",https://kde.org/announcements/frameworks/5/5.76.0/
+apps-update,November 2020,2020-11-05,"KDE's November 2020 Apps Update",https://kde.org/announcements/releases/2020-11-apps-update/
+plasma,5.20.2, Bugfix Release for October,2020-10-27,"KDE Plasma 5.20.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.20.2/
+plasma,5.20.1, Bugfix Release for October,2020-10-20,"KDE Plasma 5.20.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.20.1/
+plasma,5.20: One absolutely massive release,2020-10-13,"Plasma 5.20: One absolutely massive release",https://kde.org/announcements/plasma/5/5.20.0/
+frameworks,5.75.0,2020-10-10,"Release of KDE Frameworks 5.75.0",https://kde.org/announcements/frameworks/5/5.75.0/
+apps-update,October 2020,2020-10-09,"KDE's October 2020 Apps Update",https://kde.org/announcements/releases/2020-10-apps-update/
+plasma,5.18.6, Bugfix Release for September,2020-09-29,"KDE Plasma 5.18.6, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.18.6/
+pre,None,2020-09-16,"Plasma 5.20 Beta: one absolutely massive release",https://kde.org/announcements/plasma/5/5.19.90/
+frameworks,5.74.0,2020-09-06,"Release of KDE Frameworks 5.74.0",https://kde.org/announcements/frameworks/5/5.74.0/
+apps-update,September 2020,2020-09-03,"KDE's September 2020 Apps Update",https://kde.org/announcements/releases/2020-09-apps-update/
+plasma,5.19.5, Bugfix Release for September,2020-09-01,"KDE Plasma 5.19.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.19.5/
+apps-update,August 2020,2020-08-13,"KDE's August 2020 Apps Update",https://kde.org/announcements/releases/2020-08-apps-update/
+frameworks,5.73.0,2020-08-01,"Release of KDE Frameworks 5.73.0",https://kde.org/announcements/frameworks/5/5.73.0/
+plasma,5.19.4, Bugfix Release for July,2020-07-28,"KDE Plasma 5.19.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.19.4/
+apps-update,July 2020,2020-07-09,"KDE's July 2020 Apps Update",https://kde.org/announcements/releases/2020-07-apps-update/
+plasma,5.19.3, Bugfix Release for July,2020-07-07,"KDE Plasma 5.19.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.19.3/
+frameworks,5.72.0,2020-07-04,"Release of KDE Frameworks 5.72.0",https://kde.org/announcements/frameworks/5/5.72.0/
+plasma,5.19.2, Bugfix Release for June,2020-06-23,"KDE Plasma 5.19.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.19.2/
+plasma,5.19.1, Bugfix Release for June,2020-06-16,"KDE Plasma 5.19.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.19.1/
+apps-update,June 2020,2020-06-11,"KDE's June 2020 Apps Update",https://kde.org/announcements/releases/2020-06-apps-update/
+plasma,5.19: A more Polished Plasma,2020-06-09,"Plasma 5.19: A more Polished Plasma",https://kde.org/announcements/plasma/5/5.19.0/
+frameworks,5.71.0,2020-06-06,"Release of KDE Frameworks 5.71.0",https://kde.org/announcements/frameworks/5/5.71.0/
+apps-update,May 2020,2020-05-15,"KDE's May 2020 Apps Update",https://kde.org/announcements/releases/2020-05-apps-update/
+pre,None,2020-05-14,"Plasma 5.19 Beta: Consistency, Control and Usability",https://kde.org/announcements/plasma/5/5.18.90/
+plasma,5.18.5, Bugfix Release for May,2020-05-05,"KDE Plasma 5.18.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.18.5/
+frameworks,5.70.0,2020-05-02,"Release of KDE Frameworks 5.70.0",https://kde.org/announcements/frameworks/5/5.70.0/
+apps-update,April 2020,2020-04-23,"KDE's April 2020 Apps Update",https://kde.org/announcements/releases/2020-04-apps-update/
+frameworks,5.69.0,2020-04-05,"Release of KDE Frameworks 5.69.0",https://kde.org/announcements/frameworks/5/5.69.0/
+plasma,5.18.4, Bugfix Release for March,2020-03-31,"KDE Plasma 5.18.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.18.4/
+plasma,5.18.3, Bugfix Release for March,2020-03-10,"KDE Plasma 5.18.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.18.3/
+frameworks,5.68.0,2020-03-07,"Release of KDE Frameworks 5.68.0",https://kde.org/announcements/frameworks/5/5.68.0/
+apps-update,March 2020,2020-03-05,"KDE's March 2020 Apps Update",https://kde.org/announcements/releases/2020-03-apps-update/
+plasma,5.18.2, Bugfix Release for February,2020-02-25,"KDE Plasma 5.18.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.18.2/
+plasma,5.18.1, Bugfix Release for February,2020-02-18,"KDE Plasma 5.18.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.18.1/
+plasma,5.18: More Convenient and with Long Term Stability,2020-02-11,"KDE Plasma 5.18: More Convenient and with Long Term Stability",https://kde.org/announcements/plasma/5/5.18.0/
+apps-update,February 2020,2020-02-06,"KDE's February 2020 Apps Update",https://kde.org/announcements/releases/2020-02-apps-update/
+frameworks,5.67.0,2020-02-02,"Release of KDE Frameworks 5.67.0",https://kde.org/announcements/frameworks/5/5.67.0/
+pre,None,2020-01-16,"Plasma 5.18 LTS Beta: More Convenient and with Long Term Stability",https://kde.org/announcements/plasma/5/5.17.90/
+frameworks,5.66.0,2020-01-11,"Release of KDE Frameworks 5.66.0",https://kde.org/announcements/frameworks/5/5.66.0/
+apps-update,January 2020,2020-01-09,"KDE's January 2020 Apps Update",https://kde.org/announcements/releases/2020-01-apps-update/
+releases,19.12.1,2020-01-09,"19.12.1 Releases",https://kde.org/announcements/releases/19.12.1/
+plasma,5.17.5, Bugfix Release for January,2020-01-07,"KDE Plasma 5.17.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.17.5/
+frameworks,5.65.0,2019-12-14,"Release of KDE Frameworks 5.65.0",https://kde.org/announcements/frameworks/5/5.65.0/
+apps-update,December 2019,2019-12-12,"KDE's December 2019 Apps Update",https://kde.org/announcements/releases/2019-12-apps-update/
+releases,19.12,2019-12-12,"19.12 Releases",https://kde.org/announcements/releases/19.12/
+plasma,5.17.4, Bugfix Release for December,2019-12-03,"KDE Plasma 5.17.4, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.17.4/
+pre,None,2019-11-29,"19.12 RC Releases",https://kde.org/announcements/releases/19.12-rc/
+plasma,5.17.3, Bugfix Release for November,2019-11-12,"KDE Plasma 5.17.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.17.3/
+frameworks,5.64.0,2019-11-10,"Release of KDE Frameworks 5.64.0",https://kde.org/announcements/frameworks/5/5.64.0/
+applications,19.08.3,2019-11-07,"KDE Ships Applications 19.08.3",https://kde.org/announcements/applications/19.08.3/
+plasma,5.17.2, Bugfix Release for October,2019-10-29,"KDE Plasma 5.17.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.17.2/
+plasma,5.17.1, Bugfix Release for October,2019-10-22,"KDE Plasma 5.17.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.17.1/
+plasma,5.17: Thunderbolt, X11 Night Color and Redesigned Settings,2019-10-15,"KDE Plasma 5.17: Thunderbolt, X11 Night Color and Redesigned Settings",https://kde.org/announcements/plasma/5/5.17.0/
+frameworks,5.63.0,2019-10-14,"Release of KDE Frameworks 5.63.0",https://kde.org/announcements/frameworks/5/5.63.0/
+applications,19.08.2,2019-10-10,"KDE Ships Applications 19.08.2",https://kde.org/announcements/applications/19.08.2/
+pre,None,2019-09-19,"KDE Plasma 5.17 Beta: Thunderbolt, X11 Night Color and Redesigned Settings",https://kde.org/announcements/plasma/5/5.16.90/
+frameworks,5.62.0,2019-09-14,"Release of KDE Frameworks 5.62.0",https://kde.org/announcements/frameworks/5/5.62.0/
+plasma,5.12.9, Bugfix Release for September,2019-09-10,"KDE Plasma 5.12.9, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.12.9/
+applications,19.08.1,2019-09-05,"KDE Ships Applications 19.08.1",https://kde.org/announcements/applications/19.08.1/
+plasma,5.16.5, Bugfix Release for September,2019-09-03,"KDE Plasma 5.16.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.16.5/
+applications,19.08.0,2019-08-15,"KDE Ships KDE Applications 19.08.0",https://kde.org/announcements/applications/19.08.0/
+frameworks,5.61.0,2019-08-10,"Release of KDE Frameworks 5.61.0",https://kde.org/announcements/frameworks/5/5.61.0/
+pre,None,2019-08-02,"KDE Ships Release Candidate of KDE Applications 19.08",https://kde.org/announcements/applications/19.08-rc/
+plasma,5.16.4, Bugfix Release for July,2019-07-30,"KDE Plasma 5.16.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.16.4/
+pre,None,2019-07-19,"KDE Ships Beta of KDE Applications 19.08",https://kde.org/announcements/applications/19.08-beta/
+frameworks,5.60.0,2019-07-13,"Release of KDE Frameworks 5.60.0",https://kde.org/announcements/frameworks/5/5.60.0/
+applications,19.04.3,2019-07-11,"KDE Ships KDE Applications 19.04.3",https://kde.org/announcements/applications/19.04.3/
+plasma,5.16.3, Bugfix Release for July,2019-07-09,"KDE Plasma 5.16.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.16.3/
+plasma,5.16.2, Bugfix Release for June,2019-06-25,"KDE Plasma 5.16.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.16.2/
+plasma,5.16.1, Bugfix Release for June,2019-06-18,"KDE Plasma 5.16.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.16.1/
+plasma,5.16: Now Smoother and More Fun,2019-06-11,"KDE Plasma 5.16: Now Smoother and More Fun",https://kde.org/announcements/plasma/5/5.16.0/
+frameworks,5.59.0,2019-06-08,"Release of KDE Frameworks 5.59.0",https://kde.org/announcements/frameworks/5/5.59.0/
+applications,19.04.2,2019-06-06,"KDE Ships KDE Applications 19.04.2",https://kde.org/announcements/applications/19.04.2/
+pre,None,2019-05-16,"KDE Plasma 5.16 Beta: Your Three Week Notification of a More Tidy and Composed Desktop",https://kde.org/announcements/plasma/5/5.15.90/
+frameworks,5.58.0,2019-05-13,"Release of KDE Frameworks 5.58.0",https://kde.org/announcements/frameworks/5/5.58.0/
+applications,19.04.1,2019-05-09,"KDE Ships KDE Applications 19.04.1",https://kde.org/announcements/applications/19.04.1/
+plasma,5.15.5, Bugfix Release for May,2019-05-07,"KDE Plasma 5.15.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.15.5/
+applications,19.04.0,2019-04-18,"KDE Ships KDE Applications 19.04.0",https://kde.org/announcements/applications/19.04.0/
+frameworks,5.57.0,2019-04-13,"Release of KDE Frameworks 5.57.0",https://kde.org/announcements/frameworks/5/5.57.0/
+pre,None,2019-04-05,"KDE Ships Release Candidate of KDE Applications 19.04",https://kde.org/announcements/applications/19.04-rc/
+plasma,5.15.4, Bugfix Release for April,2019-04-02,"KDE Plasma 5.15.4, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.15.4/
+pre,None,2019-03-22,"KDE Ships Beta of KDE Applications 19.04",https://kde.org/announcements/applications/19.04-beta/
+plasma,5.15.3, Bugfix Release for March,2019-03-12,"KDE Plasma 5.15.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.15.3/
+frameworks,5.56.0,2019-03-09,"Release of KDE Frameworks 5.56.0",https://kde.org/announcements/frameworks/5/5.56.0/
+applications,18.12.3,2019-03-07,"KDE Ships KDE Applications 18.12.3",https://kde.org/announcements/applications/18.12.3/
+plasma,5.12.8, Bugfix Release for March,2019-03-05,"KDE Plasma 5.12.8, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.12.8/
+plasma,5.15.2, Bugfix Release for February,2019-02-26,"KDE Plasma 5.15.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.15.2/
+plasma,5.15.1, Bugfix Release for February,2019-02-19,"KDE Plasma 5.15.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.15.1/
+plasma,5.15: Lightweight, Usable and Productive.,2019-02-12,"KDE Plasma 5.15: Lightweight, Usable and Productive.",https://kde.org/announcements/plasma/5/5.15.0/
+frameworks,5.55.0,2019-02-09,"Release of KDE Frameworks 5.55.0",https://kde.org/announcements/frameworks/5/5.55.0/
+applications,18.12.2,2019-02-07,"KDE Ships KDE Applications 18.12.2",https://kde.org/announcements/applications/18.12.2/
+pre,None,2019-01-17,"KDE Plasma 5.15 Beta: Lightweight, Usable and Productive.",https://kde.org/announcements/plasma/5/5.14.90/
+frameworks,5.54.0,2019-01-12,"Release of KDE Frameworks 5.54.0",https://kde.org/announcements/frameworks/5/5.54.0/
+applications,18.12.1,2019-01-10,"KDE Ships KDE Applications 18.12.1",https://kde.org/announcements/applications/18.12.1/
+plasma,5.14.5, Bugfix Release for January,2019-01-08,"KDE Plasma 5.14.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.14.5/
+applications,18.12.0,2018-12-13,"KDE Ships KDE Applications 18.12.0",https://kde.org/announcements/applications/18.12.0/
+frameworks,5.53.0,2018-12-09,"Release of KDE Frameworks 5.53.0",https://kde.org/announcements/frameworks/5/5.53.0/
+pre,None,2018-11-30,"KDE Ships Release Candidate of KDE Applications 18.12",https://kde.org/announcements/applications/18.12-rc/
+plasma,5.14.4, Bugfix Release for November,2018-11-27,"KDE Plasma 5.14.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.14.4/
+pre,None,2018-11-16,"KDE Ships Beta of KDE Applications 18.12",https://kde.org/announcements/applications/18.12-beta/
+frameworks,5.52.0,2018-11-10,"Release of KDE Frameworks 5.52.0",https://kde.org/announcements/frameworks/5/5.52.0/
+applications,18.08.3,2018-11-08,"KDE Ships KDE Applications 18.08.3",https://kde.org/announcements/applications/18.08.3/
+plasma,5.14.3, Bugfix Release for November,2018-11-06,"KDE Plasma 5.14.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.14.3/
+plasma,5.14.2, Bugfix Release for October,2018-10-23,"KDE Plasma 5.14.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.14.2/
+plasma,5.14.1, Bugfix Release for October,2018-10-16,"KDE Plasma 5.14.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.14.1/
+frameworks,5.51.0,2018-10-15,"Release of KDE Frameworks 5.51.0",https://kde.org/announcements/frameworks/5/5.51.0/
+applications,18.08.2,2018-10-11,"KDE Ships KDE Applications 18.08.2",https://kde.org/announcements/applications/18.08.2/
+plasma,5.14: Reliable, Light and Innovative.,2018-10-09,"KDE Plasma 5.14: Reliable, Light and Innovative.",https://kde.org/announcements/plasma/5/5.14.0/
+plasma,5.12.7, Bugfix Release for September,2018-09-25,"KDE Plasma 5.12.7, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.12.7/
+pre,None,2018-09-13,"KDE Plasma 5.14 Beta: Reliable, Light and Innovative.",https://kde.org/announcements/plasma/5/5.13.90/
+frameworks,5.50.0,2018-09-08,"Release of KDE Frameworks 5.50.0",https://kde.org/announcements/frameworks/5/5.50.0/
+applications,18.08.1,2018-09-06,"KDE Ships KDE Applications 18.08.1",https://kde.org/announcements/applications/18.08.1/
+plasma,5.13.5, Bugfix Release for September,2018-09-04,"KDE Plasma 5.13.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.13.5/
+applications,18.08.0,2018-08-16,"KDE Ships KDE Applications 18.08.0",https://kde.org/announcements/applications/18.08.0/
+frameworks,5.49.0,2018-08-11,"Release of KDE Frameworks 5.49.0",https://kde.org/announcements/frameworks/5/5.49.0/
+pre,None,2018-08-03,"KDE Ships Release Candidate of KDE Applications 18.08",https://kde.org/announcements/applications/18.08-rc/
+plasma,5.13.4, Bugfix Release for July,2018-07-31,"KDE Plasma 5.13.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.13.4/
+pre,None,2018-07-20,"KDE Ships Beta of KDE Applications 18.08",https://kde.org/announcements/applications/18.08-beta/
+frameworks,5.48.0,2018-07-14,"Release of KDE Frameworks 5.48.0",https://kde.org/announcements/frameworks/5/5.48.0/
+applications,18.04.3,2018-07-12,"KDE Ships KDE Applications 18.04.3",https://kde.org/announcements/applications/18.04.3/
+plasma,5.13.3, Bugfix Release for July,2018-07-10,"KDE Plasma 5.13.3, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.13.3/
+plasma,5.12.6, Bugfix Release for June,2018-06-27,"KDE Plasma 5.12.6, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.12.6/
+plasma,5.13.2, Bugfix Release for June,2018-06-26,"KDE Plasma 5.13.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.13.2/
+plasma,5.13.1, Bugfix Release for June,2018-06-19,"KDE Plasma 5.13.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.13.1/
+plasma,5.13: Fast, Lightweight and Full Featured.,2018-06-12,"KDE Plasma 5.13: Fast, Lightweight and Full Featured.",https://kde.org/announcements/plasma/5/5.13.0/
+frameworks,5.47.0,2018-06-09,"Release of KDE Frameworks 5.47.0",https://kde.org/announcements/frameworks/5/5.47.0/
+applications,18.04.2,2018-06-07,"KDE Ships KDE Applications 18.04.2",https://kde.org/announcements/applications/18.04.2/
+pre,None,2018-05-17,"KDE Plasma 5.13 Beta: Fast, Lightweight and Full Featured.",https://kde.org/announcements/plasma/5/5.12.90/
+frameworks,5.46.0,2018-05-12,"Release of KDE Frameworks 5.46.0",https://kde.org/announcements/frameworks/5/5.46.0/
+applications,18.04.1,2018-05-10,"KDE Ships KDE Applications 18.04.1",https://kde.org/announcements/applications/18.04.1/
+plasma,5.12.5, Bugfix Release for May,2018-05-01,"KDE Plasma 5.12.5, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.12.5/
+applications,18.04.0,2018-04-19,"KDE Ships KDE Applications 18.04.0",https://kde.org/announcements/applications/18.04.0/
+frameworks,5.45.0,2018-04-14,"Release of KDE Frameworks 5.45.0",https://kde.org/announcements/frameworks/5/5.45.0/
+pre,None,2018-04-06,"KDE Ships Release Candidate of KDE Applications 18.04",https://kde.org/announcements/applications/18.04-rc/
+plasma,5.12.4, Bugfix Release for March,2018-03-27,"KDE Plasma 5.12.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.12.4/
+pre,None,2018-03-23,"KDE Ships Beta of KDE Applications 18.04",https://kde.org/announcements/applications/18.04-beta/
+frameworks,5.44.0,2018-03-10,"Release of KDE Frameworks 5.44.0",https://kde.org/announcements/frameworks/5/5.44.0/
+applications,17.12.3,2018-03-08,"KDE Ships KDE Applications 17.12.3",https://kde.org/announcements/applications/17.12.3/
+plasma,5.12.3, Bugfix Release for March,2018-03-06,"KDE Plasma 5.12.3, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.12.3/
+plasma,5.12.2, Bugfix Release for February,2018-02-20,"KDE Plasma 5.12.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.12.2/
+plasma,5.12.1, Bugfix Release for February,2018-02-13,"KDE Plasma 5.12.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.12.1/
+frameworks,5.43.0,2018-02-12,"Release of KDE Frameworks 5.43.0",https://kde.org/announcements/frameworks/5/5.43.0/
+applications,17.12.2,2018-02-08,"KDE Ships KDE Applications 17.12.2",https://kde.org/announcements/applications/17.12.2/
+plasma,5.8.9, Bugfix Release for February,2018-02-07,"KDE Plasma 5.8.9, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.8.9/
+plasma,5.12.0 LTS, Speed. Stability. Simplicity.,2018-02-06,"KDE Plasma 5.12.0 LTS, Speed. Stability. Simplicity.",https://kde.org/announcements/plasma/5/5.12.0/
+pre,None,2018-01-15,"Plasma 5.12 LTS Beta Makes Your Desktop Smoother and Speedier",https://kde.org/announcements/plasma/5/5.11.95/
+frameworks,5.42.0,2018-01-13,"Release of KDE Frameworks 5.42.0",https://kde.org/announcements/frameworks/5/5.42.0/
+applications,17.12.1,2018-01-11,"KDE Ships KDE Applications 17.12.1",https://kde.org/announcements/applications/17.12.1/
+plasma,5.11.5, Bugfix Release for January,2018-01-02,"KDE Plasma 5.11.5, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.11.5/
+applications,17.12.0,2017-12-14,"KDE Ships KDE Applications 17.12.0",https://kde.org/announcements/applications/17.12.0/
+frameworks,5.41.0,2017-12-10,"Release of KDE Frameworks 5.41.0",https://kde.org/announcements/frameworks/5/5.41.0/
+pre,None,2017-12-01,"KDE Ships Release Candidate of KDE Applications 17.12",https://kde.org/announcements/applications/17.12-rc/
+plasma,5.11.4, Bugfix Release for November,2017-11-28,"KDE Plasma 5.11.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.11.4/
+pre,None,2017-11-17,"KDE Ships Beta of KDE Applications 17.12",https://kde.org/announcements/applications/17.12-beta/
+frameworks,5.40.0,2017-11-11,"Release of KDE Frameworks 5.40.0",https://kde.org/announcements/frameworks/5/5.40.0/
+applications,17.08.3,2017-11-09,"KDE Ships KDE Applications 17.08.3",https://kde.org/announcements/applications/17.08.3/
+plasma,5.11.3, Bugfix Release for November,2017-11-07,"KDE Plasma 5.11.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.11.3/
+plasma,5.8.8, Bugfix Release for October,2017-10-25,"KDE Plasma 5.8.8, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.8.8/
+plasma,5.11.2, Bugfix Release for October,2017-10-24,"KDE Plasma 5.11.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.11.2/
+plasma,5.11.1, Bugfix Release for October,2017-10-17,"KDE Plasma 5.11.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.11.1/
+frameworks,5.39.0,2017-10-14,"Release of KDE Frameworks 5.39.0",https://kde.org/announcements/frameworks/5/5.39.0/
+applications,17.08.2,2017-10-12,"KDE Ships KDE Applications 17.08.2",https://kde.org/announcements/applications/17.08.2/
+plasma,5.11 Makes the Desktop More Powerful, Elegant and Secure,2017-10-10,"Plasma 5.11 Makes the Desktop More Powerful, Elegant and Secure",https://kde.org/announcements/plasma/5/5.11.0/
+pre,None,2017-09-14,"Plasma 5.11 Beta Makes the Desktop More Powerful, Elegant and Secure",https://kde.org/announcements/plasma/5/5.10.95/
+norelease,None,2017-09-14,"Purism and KDE to Work Together on World's First Truly Free Smartphone",https://kde.org/announcements/plasma-mobile/kde-purism-librem5/
+frameworks,5.38.0,2017-09-09,"Release of KDE Frameworks 5.38.0",https://kde.org/announcements/frameworks/5/5.38.0/
+applications,17.08.1,2017-09-07,"KDE Ships KDE Applications 17.08.1",https://kde.org/announcements/applications/17.08.1/
+plasma,5.10.5, Bugfix Release for August,2017-08-22,"KDE Plasma 5.10.5, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.10.5/
+applications,17.08.0,2017-08-17,"KDE Ships KDE Applications 17.08.0",https://kde.org/announcements/applications/17.08.0/
+frameworks,5.37.0,2017-08-13,"Release of KDE Frameworks 5.37.0",https://kde.org/announcements/frameworks/5/5.37.0/
+pre,None,2017-08-04,"KDE Ships Release Candidate of KDE Applications 17.08",https://kde.org/announcements/applications/17.08-rc/
+pre,None,2017-07-21,"KDE Ships Beta of KDE Applications 17.08",https://kde.org/announcements/applications/17.08-beta/
+plasma,5.10.4, Bugfix Release for July,2017-07-18,"KDE Plasma 5.10.4, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.10.4/
+applications,17.04.3,2017-07-13,"KDE Ships KDE Applications 17.04.3",https://kde.org/announcements/applications/17.04.3/
+frameworks,5.36.0,2017-07-08,"Release of KDE Frameworks 5.36.0",https://kde.org/announcements/frameworks/5/5.36.0/
+plasma,5.10.3, Bugfix Release for June,2017-06-27,"KDE Plasma 5.10.3, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.10.3/
+plasma,5.10.2, Bugfix Release for June,2017-06-13,"KDE Plasma 5.10.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.10.2/
+frameworks,5.35.0,2017-06-10,"Release of KDE Frameworks 5.35.0",https://kde.org/announcements/frameworks/5/5.35.0/
+applications,17.04.2,2017-06-08,"KDE Ships KDE Applications 17.04.2",https://kde.org/announcements/applications/17.04.2/
+plasma,5.10.1, Bugfix Release for June,2017-06-06,"KDE Plasma 5.10.1, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.10.1/
+plasma,5.10, Simple by Default, Powerful when Needed,2017-05-30,"KDE Plasma 5.10, Simple by Default, Powerful when Needed",https://kde.org/announcements/plasma/5/5.10.0/
+plasma,5.8.7, Bugfix Release for May,2017-05-23,"KDE Plasma 5.8.7, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.8.7/
+pre,None,2017-05-15,"KDE Plasma 5.10 Beta, Simple by Default, Powerful when Needed",https://kde.org/announcements/plasma/5/5.9.95/
+frameworks,5.34.0,2017-05-13,"Release of KDE Frameworks 5.34.0",https://kde.org/announcements/frameworks/5/5.34.0/
+applications,17.04.1,2017-05-11,"KDE Ships KDE Applications 17.04.1",https://kde.org/announcements/applications/17.04.1/
+plasma,5.9.5, Bugfix Release for April,2017-04-25,"KDE Plasma 5.9.5, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.9.5/
+applications,17.04.0,2017-04-20,"KDE Ships KDE Applications 17.04.0",https://kde.org/announcements/applications/17.04.0/
+frameworks,5.33.0,2017-04-08,"Release of KDE Frameworks 5.33.0",https://kde.org/announcements/frameworks/5/5.33.0/
+pre,None,2017-04-07,"KDE Ships Release Candidate of KDE Applications 17.04",https://kde.org/announcements/applications/17.04-rc/
+pre,None,2017-03-24,"KDE Ships Beta of KDE Applications 17.04",https://kde.org/announcements/applications/17.04-beta/
+plasma,5.9.4, Bugfix Release for March,2017-03-21,"KDE Plasma 5.9.4, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.9.4/
+frameworks,5.32.0,2017-03-11,"Release of KDE Frameworks 5.32.0",https://kde.org/announcements/frameworks/5/5.32.0/
+applications,16.12.3,2017-03-09,"KDE Ships KDE Applications 16.12.3",https://kde.org/announcements/applications/16.12.3/
+plasma,5.9.3, Bugfix Release for February,2017-02-28,"KDE Plasma 5.9.3, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.9.3/
+plasma,5.8.6, Bugfix Release for February,2017-02-21,"KDE Plasma 5.8.6, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.8.6/
+plasma,5.9.2, Bugfix Release for February,2017-02-14,"KDE Plasma 5.9.2, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.9.2/
+frameworks,5.31.0,2017-02-11,"Release of KDE Frameworks 5.31.0",https://kde.org/announcements/frameworks/5/5.31.0/
+applications,16.12.2,2017-02-09,"KDE Ships KDE Applications 16.12.2",https://kde.org/announcements/applications/16.12.2/
+plasma,5.9.1, Bugfix Release for February,2017-02-07,"KDE Plasma 5.9.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.9.1/
+plasma,5.9 Kicks off 2017 in Style.,2017-01-31,"Plasma 5.9 Kicks off 2017 in Style.",https://kde.org/announcements/plasma/5/5.9.0/
+frameworks,5.30.0,2017-01-14,"Release of KDE Frameworks 5.30.0",https://kde.org/announcements/frameworks/5/5.30.0/
+applications,16.12.1,2017-01-12,"KDE Ships KDE Applications 16.12.1",https://kde.org/announcements/applications/16.12.1/
+pre,None,2017-01-12,"Plasma 5.9 Beta Kicks off 2017 in Style.",https://kde.org/announcements/plasma/5/5.8.95/
+plasma,5.8.5, Bugfix Release for December,2016-12-27,"KDE Plasma 5.8.5, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.8.5/
+applications,16.12.0,2016-12-15,"KDE Ships KDE Applications 16.12.0",https://kde.org/announcements/applications/16.12.0/
+frameworks,5.29.0,2016-12-12,"Release of KDE Frameworks 5.29.0",https://kde.org/announcements/frameworks/5/5.29.0/
+pre,None,2016-12-02,"KDE Ships Release Candidate of KDE Applications 16.12",https://kde.org/announcements/applications/16.12-rc/
+plasma,5.8.4, Bugfix Release for November,2016-11-22,"KDE Plasma 5.8.4, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.8.4/
+pre,None,2016-11-18,"KDE Ships Beta of KDE Applications 16.12",https://kde.org/announcements/applications/16.12-beta/
+frameworks,5.28.0,2016-11-15,"Release of KDE Frameworks 5.28.0",https://kde.org/announcements/frameworks/5/5.28.0/
+applications,16.08.3,2016-11-10,"KDE Ships KDE Applications 16.08.3",https://kde.org/announcements/applications/16.08.3/
+plasma,5.8.3, Bugfix Release for November,2016-11-01,"KDE Plasma 5.8.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.8.3/
+plasma,5.8.2, Bugfix Release for October,2016-10-18,"KDE Plasma 5.8.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.8.2/
+applications,16.08.2,2016-10-13,"KDE Ships KDE Applications 16.08.2",https://kde.org/announcements/applications/16.08.2/
+plasma,5.8.1, Bugfix Release for October,2016-10-11,"KDE Plasma 5.8.1, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.8.1/
+frameworks,5.27.0,2016-10-08,"Release of KDE Frameworks 5.27.0",https://kde.org/announcements/frameworks/5/5.27.0/
+plasma,5.8 LTS. Here for the Long Term.,2016-10-04,"KDE at 20: Plasma 5.8 LTS. Here for the Long Term.",https://kde.org/announcements/plasma/5/5.8.0/
+kirigami,1.1,2016-09-26,"Kirigami 1.1",https://kde.org/announcements/kirigami-1.1/
+pre,None,2016-09-15,"KDE at 20: Plasma 5.8 LTS Beta. Here for the Long Term.",https://kde.org/announcements/plasma/5/5.7.95/
+plasma,5.7.5, Bugfix Release for September,2016-09-13,"KDE Plasma 5.7.5, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.7.5/
+frameworks,5.26.0,2016-09-10,"Release of KDE Frameworks 5.26.0",https://kde.org/announcements/frameworks/5/5.26.0/
+applications,16.08.1,2016-09-08,"KDE Ships KDE Applications 16.08.1",https://kde.org/announcements/applications/16.08.1/
+plasma,5.7.4, Bugfix Release for August,2016-08-23,"KDE Plasma 5.7.4, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.7.4/
+applications,16.08.0,2016-08-18,"KDE Ships KDE Applications 16.08.0",https://kde.org/announcements/applications/16.08.0/
+frameworks,5.25.0,2016-08-13,"Release of KDE Frameworks 5.25.0",https://kde.org/announcements/frameworks/5/5.25.0/
+pre,None,2016-08-05,"KDE Ships Release Candidate of KDE Applications 16.08",https://kde.org/announcements/applications/16.08-rc/
+plasma,5.7.3, Bugfix Release for August,2016-08-02,"KDE Plasma 5.7.3, Bugfix Release for August",https://kde.org/announcements/plasma/5/5.7.3/
+pre,None,2016-07-22,"KDE Ships Beta of KDE Applications 16.08",https://kde.org/announcements/applications/16.08-beta/
+plasma,5.7.2, Bugfix Release for July,2016-07-19,"KDE Plasma 5.7.2, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.7.2/
+plasma,5.7.1, Bugfix Release for July,2016-07-12,"KDE Plasma 5.7.1, Bugfix Release for July",https://kde.org/announcements/plasma/5/5.7.1/
+applications,16.04.3,2016-07-12,"KDE Ships KDE Applications 16.04.3",https://kde.org/announcements/applications/16.04.3/
+frameworks,5.24.0,2016-07-09,"Release of KDE Frameworks 5.24.0",https://kde.org/announcements/frameworks/5/5.24.0/
+plasma,5.7 Release,2016-07-05,"KDE Plasma 5.7 Release",https://kde.org/announcements/plasma/5/5.7.0/
+pre,None,2016-06-16,"KDE Plasma 5.7 Beta Release",https://kde.org/announcements/plasma/5/5.6.95/
+plasma,5.6.5, Bugfix Release for June,2016-06-14,"KDE Plasma 5.6.5, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.6.5/
+applications,16.04.2,2016-06-14,"KDE Ships KDE Applications 16.04.2",https://kde.org/announcements/applications/16.04.2/
+frameworks,5.23.0,2016-06-13,"Release of KDE Frameworks 5.23.0",https://kde.org/announcements/frameworks/5/5.23.0/
+frameworks,5.22.0,2016-05-15,"Release of KDE Frameworks 5.22.0",https://kde.org/announcements/frameworks/5/5.22.0/
+plasma,5.6.4, Bugfix Release for May,2016-05-10,"KDE Plasma 5.6.4, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.6.4/
+applications,16.04.1,2016-05-10,"KDE Ships KDE Applications 16.04.1",https://kde.org/announcements/applications/16.04.1/
+applications,16.04.0,2016-04-20,"KDE Ships KDE Applications 16.04.0",https://kde.org/announcements/applications/16.04.0/
+plasma,5.6.3, Bugfix Release for April,2016-04-19,"KDE Plasma 5.6.3, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.6.3/
+frameworks,5.21.0,2016-04-09,"Release of KDE Frameworks 5.21.0",https://kde.org/announcements/frameworks/5/5.21.0/
+plasma,5.6.2, Bugfix Release for April,2016-04-05,"KDE Plasma 5.6.2, Bugfix Release for April",https://kde.org/announcements/plasma/5/5.6.2/
+pre,None,2016-04-05,"KDE Ships Release Candidate of KDE Applications 16.04",https://kde.org/announcements/applications/16.04-rc/
+plasma,5.6.1, Bugfix Release for March,2016-03-29,"KDE Plasma 5.6.1, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.6.1/
+pre,None,2016-03-24,"KDE Ships Beta of KDE Applications 16.04",https://kde.org/announcements/applications/16.04-beta/
+plasma,5.6 Release,2016-03-22,"KDE Plasma 5.6 Release",https://kde.org/announcements/plasma/5/5.6.0/
+applications,15.12.3,2016-03-16,"KDE Ships KDE Applications 15.12.3",https://kde.org/announcements/applications/15.12.3/
+frameworks,5.20.0,2016-03-13,"Release of KDE Frameworks 5.20.0",https://kde.org/announcements/frameworks/5/5.20.0/
+pre,None,2016-03-02,"KDE Plasma 5.6 Beta Release",https://kde.org/announcements/plasma/5/5.5.95/
+plasma,5.5.5, Bugfix Release for March,2016-03-01,"KDE Plasma 5.5.5, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.5.5/
+applications,15.12.2,2016-02-16,"KDE Ships KDE Applications 15.12.2",https://kde.org/announcements/applications/15.12.2/
+frameworks,5.19.0,2016-02-13,"Release of KDE Frameworks 5.19.0",https://kde.org/announcements/frameworks/5/5.19.0/
+plasma,5.5.4, Bugfix Release for January,2016-01-26,"KDE Plasma 5.5.4, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.5.4/
+applications,15.12.1,2016-01-12,"KDE Ships KDE Applications 15.12.1",https://kde.org/announcements/applications/15.12.1/
+frameworks,5.18.0,2016-01-09,"Release of KDE Frameworks 5.18.0",https://kde.org/announcements/frameworks/5/5.18.0/
+plasma,5.5.3, Bugfix Release for January,2016-01-06,"KDE Plasma 5.5.3, Bugfix Release for January",https://kde.org/announcements/plasma/5/5.5.3/
+plasma,5.5.2, Bugfix Release for December,2015-12-22,"KDE Plasma 5.5.2, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.5.2/
+applications,15.12.0,2015-12-16,"KDE Ships KDE Applications 15.12.0",https://kde.org/announcements/applications/15.12.0/
+plasma,5.5.1, Bugfix Release for December,2015-12-15,"KDE Plasma 5.5.1, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.5.1/
+frameworks,5.17.0,2015-12-12,"Release of KDE Frameworks 5.17.0",https://kde.org/announcements/frameworks/5/5.17.0/
+plasma,5.5 Release,2015-12-08,"KDE Plasma 5.5 Release",https://kde.org/announcements/plasma/5/5.5.0/
+pre,None,2015-12-03,"KDE Ships Release Candidate of KDE Applications 15.12",https://kde.org/announcements/applications/15.12-rc/
+pre,None,2015-11-20,"KDE Ships Beta of KDE Applications 15.12",https://kde.org/announcements/applications/15.12-beta/
+pre,None,2015-11-19,"KDE Plasma 5.5 Beta Release",https://kde.org/announcements/plasma/5/5.4.95/
+frameworks,5.16.0,2015-11-13,"Release of KDE Frameworks 5.16.0",https://kde.org/announcements/frameworks/5/5.16.0/
+plasma,5.4.3, Bugfix Release for November,2015-11-10,"KDE Plasma 5.4.3, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.4.3/
+applications,15.08.3,2015-11-10,"KDE Ships KDE Applications 15.08.3",https://kde.org/announcements/applications/15.08.3/
+applications,15.08.2,2015-10-13,"KDE Ships KDE Applications 15.08.2",https://kde.org/announcements/applications/15.08.2/
+frameworks,5.15.0,2015-10-10,"Release of KDE Frameworks 5.15.0",https://kde.org/announcements/frameworks/5/5.15.0/
+plasma,5.4.2, Bugfix Release for October,2015-10-06,"KDE Plasma 5.4.2, Bugfix Release for October",https://kde.org/announcements/plasma/5/5.4.2/
+applications,15.08.1,2015-09-15,"KDE Ships KDE Applications 15.08.1",https://kde.org/announcements/applications/15.08.1/
+frameworks,5.14.0,2015-09-12,"Release of KDE Frameworks 5.14.0",https://kde.org/announcements/frameworks/5/5.14.0/
+plasma,5.4.1, Bugfix Release for September,2015-09-08,"KDE Plasma 5.4.1, Bugfix Release for September",https://kde.org/announcements/plasma/5/5.4.1/
+plasma,5.4 Release,2015-08-25,"KDE Plasma 5.4 Release",https://kde.org/announcements/plasma/5/5.4.0/
+applications,15.08.0,2015-08-19,"KDE Ships KDE Applications 15.08.0",https://kde.org/announcements/applications/15.08.0/
+frameworks,5.13.0,2015-08-12,"Release of KDE Frameworks 5.13.0",https://kde.org/announcements/frameworks/5/5.13.0/
+pre,None,2015-08-11,"KDE Plasma 5.4 Beta Release",https://kde.org/announcements/plasma/5/5.3.95/
+pre,None,2015-08-06,"KDE Ships Release Candidate of KDE Applications 15.08",https://kde.org/announcements/applications/15.08-rc/
+pre,None,2015-07-28,"KDE Ships Beta of KDE Applications 15.08",https://kde.org/announcements/applications/15.08-beta/
+frameworks,5.12.0,2015-07-10,"Release of KDE Frameworks 5.12.0",https://kde.org/announcements/frameworks/5/5.12.0/
+applications,15.04.3,2015-07-01,"KDE Ships KDE Applications 15.04.3",https://kde.org/announcements/applications/15.04.3/
+plasma,5.3.2, Bugfix Release for June,2015-06-30,"KDE Plasma 5.3.2, Bugfix Release for June",https://kde.org/announcements/plasma/5/5.3.2/
+frameworks,5.11.0,2015-06-12,"Release of KDE Frameworks 5.11.0",https://kde.org/announcements/frameworks/5/5.11.0/
+applications,15.04.2,2015-06-02,"KDE Ships KDE Applications 15.04.2",https://kde.org/announcements/applications/15.04.2/
+plasma,5.3.1, Bugfix Release for May,2015-05-26,"KDE Plasma 5.3.1, Bugfix Release for May",https://kde.org/announcements/plasma/5/5.3.1/
+applications,15.04.1,2015-05-12,"KDE Ships KDE Applications 15.04.1",https://kde.org/announcements/applications/15.04.1/
+frameworks,5.10.0,2015-05-08,"Release of KDE Frameworks 5.10.0",https://kde.org/announcements/frameworks/5/5.10.0/
+plasma,5.3 Release,2015-04-28,"KDE Plasma 5.3 Release",https://kde.org/announcements/plasma/5/5.3.0/
+applications,15.04.0,2015-04-15,"KDE Ships KDE Applications 15.04.0",https://kde.org/announcements/applications/15.04.0/
+pre,None,2015-04-14,"KDE Plasma 5.3 Beta Release",https://kde.org/announcements/plasma/5/5.2.95/
+frameworks,5.9.0,2015-04-10,"Release of KDE Frameworks 5.9.0",https://kde.org/announcements/frameworks/5/5.9.0/
+pre,None,2015-03-26,"KDE Ships Release Candidate of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-rc/
+plasma,5.2.2, Bugfix Release for March,2015-03-24,"KDE Plasma 5.2.2, Bugfix Release for March",https://kde.org/announcements/plasma/5/5.2.2/
+pre,None,2015-03-19,"KDE Ships Third Beta of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-beta3/
+frameworks,5.8.0,2015-03-13,"Release of KDE Frameworks 5.8.0",https://kde.org/announcements/frameworks/5/5.8.0/
+pre,None,2015-03-12,"KDE Ships Second Beta of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-beta2/
+pre,None,2015-03-06,"KDE Ships First Beta of KDE Applications 15.04",https://kde.org/announcements/applications/15.04-beta1/
+applications,14.12.3,2015-03-03,"KDE Ships KDE Applications 14.12.3",https://kde.org/announcements/applications/14.12.3/
+plasma,5.2.1, Bugfix Release for February,2015-02-24,"KDE Plasma 5.2.1, Bugfix Release for February",https://kde.org/announcements/plasma/5/5.2.1/
+frameworks,5.7.0,2015-02-14,"Release of KDE Frameworks 5.7.0",https://kde.org/announcements/frameworks/5/5.7.0/
+applications,14.12.2,2015-02-03,"KDE Ships KDE Applications 14.12.2",https://kde.org/announcements/applications/14.12.2/
+plasma,5.2 Release,2015-01-27,"KDE Plasma 5.2 Release",https://kde.org/announcements/plasma/5/5.2.0/
+pre,None,2015-01-13,"KDE Plasma 5.2 Beta Release",https://kde.org/announcements/plasma/5/5.1.95/
+frameworks,5.6.0,2015-01-08,"Release of KDE Frameworks 5.6.0",https://kde.org/announcements/frameworks/5/5.6.0/
+applications,14.12.1,2015-01-08,"KDE Ships KDE Applications 14.12.1",https://kde.org/announcements/applications/14.12.1/
+applications,14.12,2014-12-17,"KDE Ships KDE Applications 14.12",https://kde.org/announcements/applications/14.12.0/
+plasma,5.1.2, Bugfix Release for December,2014-12-16,"KDE Plasma 5.1.2, Bugfix Release for December",https://kde.org/announcements/plasma/5/5.1.2/
+frameworks,5.5.0,2014-12-11,"Release of KDE Frameworks 5.5.0",https://kde.org/announcements/frameworks/5/5.5.0/
+pre,None,2014-11-27,"KDE Ships Release Candidate of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-rc/
+pre,None,2014-11-20,"KDE Ships Third Beta of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-beta3/
+pre,None,2014-11-13,"KDE Ships Second Beta of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-beta2/
+plasma,5.1.1, Bugfix Release for November,2014-11-11,"KDE Plasma 5.1.1, Bugfix Release for November",https://kde.org/announcements/plasma/5/5.1.1/
+applications-platform,4.14.3,2014-11-11,"KDE Ships Applications and Platform 4.14.3",https://kde.org/announcements/4/4.14.3/
+frameworks,5.4.0,2014-11-06,"Release of KDE Frameworks 5.4.0",https://kde.org/announcements/frameworks/5/5.4.0/
+pre,None,2014-11-06,"KDE Ships First Beta of KDE Applications 14.12",https://kde.org/announcements/applications/14.12-beta1/
+plasma,5.1 Brings Back Many Popular Features,2014-10-15,"Plasma 5.1 Brings Back Many Popular Features",https://kde.org/announcements/plasma/5/5.1.0/
+applications-platform,4.14.2,2014-10-14,"KDE Ships Applications and Platform 4.14.2",https://kde.org/announcements/4/4.14.2/
+frameworks,5.3.0,2014-10-07,"Release of KDE Frameworks 5.3.0",https://kde.org/announcements/frameworks/5/5.3.0/
+pre,None,2014-09-30,"KDE Ships Beta for Plasma 5's Second Release",https://kde.org/announcements/plasma/5/5.0.95/
+plasma,5,2014-09-17,"KDE Ships Second Bugfix Release of Plasma 5",https://kde.org/announcements/plasma/5/5.0.2/
+applications-platform,4.14.1,2014-09-16,"KDE Ships Applications and Platform 4.14.1",https://kde.org/announcements/4/4.14.1/
+frameworks,5.2.0,2014-09-12,"Release of KDE Frameworks 5.2.0",https://kde.org/announcements/frameworks/5/5.2.0/
+compilation,4.14,2014-08-20,"KDE Software Compilation 4.14",https://kde.org/announcements/4/4.14.0/
+plasma,5,2014-08-12,"KDE Ships First Bugfix Release of Plasma 5",https://kde.org/announcements/plasma/5/5.0.1/
+frameworks,5,2014-08-08,"Second release of KDE Frameworks 5",https://kde.org/announcements/frameworks/5/5.1.0/
+pre,None,2014-07-31,"KDE Ships Release Candidate of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-rc/
+pre,None,2014-07-24,"KDE Ships Third Beta of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-beta3/
+pre,None,2014-07-17,"KDE Ships Second Beta of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-beta2/
+plasma,Workspaces,2014-07-15,"KDE Ships July Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.13.3/
+plasma,brings a cleaner interface on top of a new graphics stack,2014-07-15,"New Plasma brings a cleaner interface on top of a new graphics stack",https://kde.org/announcements/plasma/5/5.0/
+pre,None,2014-07-10,"KDE Ships First Beta of Applications and Platform 4.14",https://kde.org/announcements/4/4.14-beta1/
+pre,None,2014-07-08,"KDE Ships Release Candidate of Plasma 5",https://kde.org/announcements/plasma/5/5.0-rc/
+frameworks,5,2014-07-07,"First release of KDE Frameworks 5",https://kde.org/announcements/frameworks/5/5.0.0/
+plasma,Workspaces,2014-06-10,"KDE Ships June Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.13.2/
+pre,None,2014-06-10,"KDE Ships Second Beta of Next Generation Plasma Workspace",https://kde.org/announcements/plasma/5/5.0-beta2/
+pre,None,2014-06-05,"KDE Ships Third Beta of Frameworks 5",https://kde.org/announcements/frameworks/5-beta3/
+pre,None,2014-05-14,"KDE Ships First Beta of Next Generation Plasma Workspace",https://kde.org/announcements/plasma/next-beta1/
+None,None,2014-05-13,"KDE Ships May Updates to Applications and Platform",https://kde.org/announcements/4/4.13.1/
+plasma,Workspaces,2014-04-29,"KDE Ships April Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.5/
+compilation,4.13,2014-04-16,"KDE Software Compilation 4.13",https://kde.org/announcements/4/4.13.0/
+pre,None,2014-04-02,"KDE Ships First Alpha of Next Generation Plasma Workspace",https://kde.org/announcements/plasma/2014.6-alpha1/
+plasma,Workspaces,2014-04-01,"KDE Ships April Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.4/
+pre,None,2014-04-01,"KDE Ships First Beta of Frameworks 5",https://kde.org/announcements/frameworks/5-beta1/
+pre,None,2014-03-27,"KDE Ships Release Candidate of Applications and Platform 4.13",https://kde.org/announcements/4/4.13-rc/
+plasma,Workspaces,2014-03-20,"KDE Ships February Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.13-beta3/
+pre,None,2014-03-13,"KDE Ships Second Beta of Applications and Platform 4.13",https://kde.org/announcements/4/4.13-beta2/
+pre,None,2014-03-06,"KDE Ships First Beta of Applications and Platform 4.13",https://kde.org/announcements/4/4.13-beta1/
+plasma,Workspaces,2014-03-04,"KDE Ships February Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.3/
+pre,None,2014-03-03,"KDE Ships Second Alpha of Frameworks 5",https://kde.org/announcements/frameworks/5-alpha2/
+pre,None,2014-02-14,"KDE Ships First Alpha of Frameworks 5",https://kde.org/announcements/frameworks/5-alpha/
+plasma,Workspaces,2014-02-04,"KDE Ships February Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.12.2/
+None,None,2014-01-14,"KDE Ships January Updates to Applications and Platform",https://kde.org/announcements/4/4.12.1/
+frameworks,5 Technology Preview,2014-01-07,"Frameworks 5 Technology Preview",https://kde.org/announcements/frameworks/5-tp/
+None,None,2014-01-07,"KDE Announces 4.11.5",https://kde.org/announcements/4/4.11.5/
+plasma,2 Technology Preview and Plasma Media Center 1.2.0,2013-12-20,"Plasma 2 Technology Preview and Plasma Media Center 1.2.0",https://kde.org/announcements/plasma/2-tp/
+compilation,4.12,2013-12-18,"KDE Software Compilation 4.12",https://kde.org/announcements/4/4.12.0/
+plasma,Workspaces, Applications and Platform,2013-12-03,"KDE Ships December Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.4/
+pre,None,2013-11-28,"KDE Ships Release Candidate of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-rc/
+pre,None,2013-11-21,"KDE Ships Third Beta of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-beta3/
+pre,None,2013-11-14,"KDE Ships Second Beta of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-beta2/
+pre,None,2013-11-07,"KDE Ships First Beta of Applications and Platform 4.12",https://kde.org/announcements/4/4.12-beta1/
+plasma,Workspaces, Applications and Platform,2013-11-05,"KDE Ships November Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.3/
+plasma,Workspaces, Applications and Platform,2013-10-01,"KDE Ships October Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.2/
+plasma,Workspaces, Applications and Platform,2013-09-03,"KDE Ships September Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.11.1/
+compilation,4.11,2013-08-14,"KDE Software Compilation 4.11",https://kde.org/announcements/4/4.11.0/
+pre,None,2013-07-25,"KDE Ships Second Release Candidate of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-rc2/
+pre,None,2013-07-16,"KDE Ships First Release Candidate of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-rc1/
+plasma,Workspaces,2013-07-02,"KDE Ships July Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.10.5/
+pre,None,2013-06-27,"KDE Ships Second Beta of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-beta2/
+pre,None,2013-06-13,"KDE Ships First Beta of Plasma Workspaces, Applications and Platform 4.11",https://kde.org/announcements/4/4.11-beta1/
+plasma,Workspaces,2013-06-04,"KDE Ships June Updates to Applications, Platform and Plasma Workspaces",https://kde.org/announcements/4/4.10.4/
+plasma,Workspaces, Applications and Platform,2013-05-07,"KDE Ships May Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.10.3/
+plasma,Workspaces, Applications and Platform,2013-04-02,"KDE Ships April Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.10.2/
+plasma,Workspaces, Applications and Platform,2013-03-05,"KDE Ships March Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.10.1/
+compilation,4.10,2013-02-06,"KDE Software Compilation 4.10",https://kde.org/announcements/4/4.10.0/
+pre,None,2013-01-18,"KDE Ships Third Release Candidate of Applications, Platform and Plasma Workspaces 4.10",https://kde.org/announcements/4/4.10-rc3/
+pre,None,2013-01-04,"KDE Ships Second Release Candidate of Applications, Platform and Plasma Workspaces 4.10",https://kde.org/announcements/4/4.10-rc2/
+plasma,Workspaces, Applications and Platform,2013-01-02,"KDE Ships January Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.5/
+pre,None,2012-12-19,"KDE Ships First Release Candidate of Plasma Workspaces, Applications and Platform 4.10",https://kde.org/announcements/4/4.10-rc1/
+None,None,2012-12-05,"KDE Release 4.9 – in memory of Claire Lotion",https://kde.org/announcements/4/4.9.0/
+plasma,Workspaces, Applications and Platform,2012-12-05,"KDE Ships December Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.4/
+pre,None,2012-12-04,"KDE Ships Second Beta of Plasma Workspaces, Applications and Platform 4.10",https://kde.org/announcements/4/4.10-beta2/
+pre,None,2012-11-21,"KDE Ships First Beta of Plasma Workspaces, Applications and Platform 4.10",https://kde.org/announcements/4/4.10-beta1/
+plasma,Workspaces, Applications and Platform,2012-11-06,"KDE Ships November Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.3/
+plasma,Active 3 Improves Performance, Brings New Apps,2012-10-15,"Plasma Active 3 Improves Performance, Brings New Apps",https://kde.org/announcements/plasma-mobile/plasma-active-three/
+plasma,Workspaces, Applications and Platform,2012-10-02,"KDE Ships October Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.2/
+plasma,Workspaces, Applications and Platform,2012-09-04,"KDE Ships September Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.9.1/
+plasma,Workspaces, Applications and Platform,2012-08-06,"KDE Ships August Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.5/
+pre,None,2012-07-11,"KDE Announces 4.9 RC2",https://kde.org/announcements/4/4.9-rc2/
+pre,None,2012-06-27,"KDE Announces 4.9 RC1",https://kde.org/announcements/4/4.9-rc1/
+pre,None,2012-06-13,"KDE Announces 4.9 Beta2",https://kde.org/announcements/4/4.9-beta2/
+plasma,Workspaces, Applications and Platform,2012-06-08,"KDE Ships June Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.4/
+pre,None,2012-06-04,"KDE Announces 4.9 Beta1 and Testing Initiative",https://kde.org/announcements/4/4.9-beta1/
+plasma,Workspaces, Applications and Platform,2012-05-04,"KDE Ships May Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.3/
+plasma,Workspaces, Applications and Platform,2012-04-04,"KDE Ships April Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.2/
+plasma,Workspaces, Applications and Platform,2012-03-07,"KDE Ships March Updates to Plasma Workspaces, Applications and Platform",https://kde.org/announcements/4/4.8.1/
+plasma,Workspaces, Applications and Platform 4.8 Improve User Experience,2012-01-25,"KDE Plasma Workspaces, Applications and Platform 4.8 Improve User Experience",https://kde.org/announcements/4/4.8.0/
+pre,None,2012-01-04,"KDE Makes Second 4.8 Release Candidate Available",https://kde.org/announcements/4/4.8-rc2/
+pre,None,2011-12-22,"KDE Makes First 4.8 Release Candidate Available, Adds Secret Service",https://kde.org/announcements/4/4.8-rc1/
+plasma,Active Two Boosts Performance, New Features,2011-12-14,"Plasma Active Two Boosts Performance, New Features",https://kde.org/announcements/plasma-mobile/plasma-active-two/
+pre,None,2011-12-07,"KDE Makes 4.8 Beta2 Available for Testing",https://kde.org/announcements/4/4.8-beta2/
+None,None,2011-12-07,"KDE's December Updates Conclude 4.7 Series",https://kde.org/announcements/4/4.7.4/
+pre,None,2011-11-02,"KDE Makes 4.8 Beta1 Available for Testing",https://kde.org/announcements/4/4.8-beta1/
+None,None,2011-11-02,"KDE's November Updates Improve Nepomuk Stability",https://kde.org/announcements/4/4.7.3/
+plasma,Active One Arrives!,2011-10-09,"Plasma Active One Arrives!",https://kde.org/announcements/plasma-mobile/plasma-active-one/
+None,None,2011-10-05,"KDE's October Updates Improve Kontact Performance",https://kde.org/announcements/4/4.7.2/
+None,None,2011-09-07,"KDE Ships September Updates",https://kde.org/announcements/4/4.7.1/
+kde,Applications, Workspaces and Development Platform,2011-07-27,"New KDE Applications, Workspaces and Development Platform Releases Bring New Features, Improve Stability",https://kde.org/announcements/4/4.7.0/
+pre,None,2011-07-11,"KDE Shows Second Release Candidate of Summer Release",https://kde.org/announcements/4/4.7-rc2/
+None,None,2011-07-07,"KDE Ships July Updates",https://kde.org/announcements/4/4.6.5/
+pre,None,2011-06-25,"KDE Shows Release Candidate of Summer Release",https://kde.org/announcements/4/4.7-rc1/
+None,None,2011-06-10,"New Kontact Suite Brings Next-Gen Groupware to Desktop and Mobile",https://kde.org/announcements/4/4.6.4/
+pre,None,2011-05-25,"KDE Shows Beta of Summer Release",https://kde.org/announcements/4/4.7-beta1/
+None,None,2011-05-06,"KDE Ships May Updates",https://kde.org/announcements/4/4.6.3/
+None,None,2011-04-06,"KDE Ships April Updates, Codename: Congrats",https://kde.org/announcements/4/4.6.2/
+None,None,2011-03-04,"KDE Ships March Updates",https://kde.org/announcements/4/4.6.1/
+None,None,2011-01-26,"KDE Puts You In Control with New Workspaces, Applications and Platform",https://kde.org/announcements/4/4.6.0/
+None,None,2011-01-07,"KDE Ships January Updates",https://kde.org/announcements/4/4.5.5/
+pre,None,2011-01-05,"KDE Plasma, Applications and Development Platform 4.6 RC2 Available",https://kde.org/announcements/4/4.6-rc2/
+pre,None,2010-12-23,"KDE Software Compilation 4.6 RC1 Release Announcement",https://kde.org/announcements/4/4.6-rc1/
+pre,None,2010-12-08,"KDE Software Compilation 4.6 Beta2 Release Announcement",https://kde.org/announcements/4/4.6-beta2/
+None,None,2010-12-02,"December Updates Stabilize KDE 4.5 Further",https://kde.org/announcements/4/4.5.4/
+pre,None,2010-11-25,"4.6 Beta1 Brings Improved Search, Activities and Mobile Device Support",https://kde.org/announcements/4/4.6-beta1/
+None,None,2010-11-03,"KDE Ships November Updates",https://kde.org/announcements/4/4.5.3/
+compilation,4.5.2 Release Announcement,2010-10-05,"KDE Software Compilation 4.5.2 Release Announcement",https://kde.org/announcements/4/4.5.2/
+compilation,4.5.1 Release Announcement,2010-08-31,"KDE Software Compilation 4.5.1 Release Announcement",https://kde.org/announcements/4/4.5.1/
+plasma,Workspaces 4.5.0,2010-08-10,"KDE Releases Development Platform, Applications and Plasma Workspaces 4.5.0",https://kde.org/announcements/4/4.5.0/
+pre,None,2010-07-26,"KDE Software Compilation 4.5 RC3 Release Announcement",https://kde.org/announcements/4/4.5-rc3/
+pre,None,2010-07-08,"KDE Software Compilation 4.5 RC2 Release Announcement",https://kde.org/announcements/4/4.5-rc2/
+compilation,4.4.5 Release Announcement,2010-06-30,"KDE Software Compilation 4.4.5 Release Announcement",https://kde.org/announcements/4/4.4.5/
+pre,None,2010-06-27,"KDE Software Compilation 4.5 RC1 Release Announcement",https://kde.org/announcements/4/4.5-rc1/
+pre,None,2010-06-09,"KDE Software Compilation 4.5 beta 2",https://kde.org/announcements/4/4.5-beta2/
+compilation,4.4.4 Release Announcement,2010-06-01,"KDE Software Compilation 4.4.4 Release Announcement",https://kde.org/announcements/4/4.4.4/
+pre,None,2010-05-26,"KDE Software Compilation 4.5 beta 1",https://kde.org/announcements/4/4.5-beta1/
+compilation,4.4.3 Release Announcement,2010-05-05,"KDE Software Compilation 4.4.3 Release Announcement",https://kde.org/announcements/4/4.4.3/
+compilation,4.4.2 Release Announcement,2010-03-30,"KDE Software Compilation 4.4.2 Release Announcement",https://kde.org/announcements/4/4.4.2/
+compilation,4.4.1 Release Announcement,2010-03-02,"KDE Software Compilation 4.4.1 Release Announcement",https://kde.org/announcements/4/4.4.1/
+kde,SC 4.4.0 Caikaku,2010-02-09,"KDE SC 4.4.0 Caikaku Release Announcement",https://kde.org/announcements/4/4.4.0/
+pre,None,2010-02-01,"Software Compilation 4.4 RC3 Release Announcement",https://kde.org/announcements/4/4.4-rc3/
+compilation,4.3.5 Release Announcement,2010-01-26,"KDE Software Compilation 4.3.5 Release Announcement",https://kde.org/announcements/4/4.3.5/
+pre,None,2010-01-25,"Software Compilation 4.4 RC2 Release Announcement",https://kde.org/announcements/4/4.4-rc2/
+pre,None,2010-01-08,"Software Compilation 4.4 RC1 Release Announcement",https://kde.org/announcements/4/4.4-rc1/
+pre,None,2009-12-21,"Software Compilation 4.4 Beta 2 Release Announcement",https://kde.org/announcements/4/4.4-beta2/
+pre,None,2009-12-04,"Software Compilation 4.4 Beta1 Release Announcement",https://kde.org/announcements/4/4.4-beta1/
+compilation,4.3.4 Release Announcement,2009-12-01,"KDE Software Compilation 4.3.4 Release Announcement",https://kde.org/announcements/4/4.3.4/
+kde,4.3.3,2009-11-03,"KDE 4.3.3 Release Announcement",https://kde.org/announcements/4/4.3.3/
+kde,4.3.2,2009-10-06,"KDE 4.3.2 Release Announcement",https://kde.org/announcements/4/4.3.2/
+kde,4.3.1,2009-09-01,"KDE 4.3.1 Release Announcement",https://kde.org/announcements/4/4.3.1/
+None,None,2009-08-04,"Anonçaedje del rexhowe di KDE 4.3.0",https://kde.org/announcements/4/4.3.0.wa/
+kde,4.3.0 Caizen,2009-08-04,"KDE 4.3.0 Caizen Release Announcement",https://kde.org/announcements/4/4.3.0/
+pre,None,2009-07-22,"KDE 4.3 RC3 Release Announcement",https://kde.org/announcements/4/4.3-rc3/
+pre,None,2009-07-09,"KDE 4.3 RC2 Release Announcement",https://kde.org/announcements/4/4.3-rc2/
+pre,None,2009-07-01,"KDE 4.3 RC1 Release Announcement",https://kde.org/announcements/4/4.3-rc1/
+pre,None,2009-06-10,"KDE 4.3 Beta 2 Release Announcement",https://kde.org/announcements/4/4.3-beta2/
+kde,4.2.4,2009-06-03,"KDE 4.2.4 Release Announcement",https://kde.org/announcements/4/4.2.4/
+pre,None,2009-05-13,"KDE 4.3 Beta 1 Release Announcement",https://kde.org/announcements/4/4.3-beta1/
+kde,4.2.3,2009-05-06,"KDE 4.2.3 Release Announcement",https://kde.org/announcements/4/4.2.3/
+kde,4.2.2,2009-04-02,"KDE 4.2.2 Release Announcement",https://kde.org/announcements/4/4.2.2/
+kde,4.2.1,2009-03-04,"KDE 4.2.1 Release Announcement",https://kde.org/announcements/4/4.2.1/
+kde,4.2.0,2009-01-27,"KDE 4.2.0 Release Announcement",https://kde.org/announcements/4/4.2.0.he/
+kde,4.2.0,2009-01-27,"KDE 4.2.0 Release Announcement",https://kde.org/announcements/4/4.2.0/
+None,None,2009-01-27,"KDE ૪.૨.૦ પ્રકાશન જાહેરાત",https://kde.org/announcements/4/4.2.0.gu/
+None,None,2009-01-27,"കെഡിഇ 4.2.0 പ്രകാശനക്കുറിപ്പു്",https://kde.org/announcements/4/4.2.0.ml/
+kde,4.1.4,2009-01-13,"KDE 4.1.4 Release Announcementt",https://kde.org/announcements/4/4.1.4/
+pre,None,2009-01-13,"KDE 4.2 RC Release Announcement",https://kde.org/announcements/4/4.2-rc/
+pre,None,2008-12-16,"KDE 4.2 Beta 2 Release Announcement",https://kde.org/announcements/4/4.2-beta2/
+pre,None,2008-11-26,"KDE 4.2 Beta 1 Release Announcement",https://kde.org/announcements/4/4.2-beta1/
+kde,4.1.3,2008-11-05,"KDE 4.1.3 Release Announcement",https://kde.org/announcements/4/4.1.3/
+norelease,None,2008-10-12,"KDE Launches User Forum",https://kde.org/announcements/forum/
+kde,4.1.2,2008-10-03,"KDE 4.1.2 Release Announcement",https://kde.org/announcements/4/4.1.2/
+kde,4.1.1,2008-09-03,"KDE 4.1.1 Release Announcement",https://kde.org/announcements/4/4.1.1/
+kde,3.5.10,2008-08-26,"KDE 3.5.10 Release Announcement",https://kde.org/announcements/1-2-3/3.5.10/
+kde,4.1,2008-07-29,"KDE 4.1 Release Announcement",https://kde.org/announcements/4/4.1.0/
+None,None,2008-07-29,"കെഡിഇ 4.1 പതിപ്പു് പുറത്തിറങ്ങുന്നു",https://kde.org/announcements/4/4.1.0.ml/
+pre,None,2008-07-15,"KDE 4.1 RC1 Release Announcement",https://kde.org/announcements/4/4.1-rc1/
+pre,None,2008-06-24,"KDE 4.1 Beta 2 Release Announcement",https://kde.org/announcements/4/4.1-beta2/
+kde,4.0.5,2008-06-04,"KDE 4.0.5 Release Announcement",https://kde.org/announcements/4/4.0.5/
+pre,None,2008-05-27,"KDE 4.1 Beta1 Release Announcement",https://kde.org/announcements/4/4.1-beta1/
+kde,4.0.4,2008-05-07,"KDE 4.0.4 Release Announcement",https://kde.org/announcements/4/4.0.4/
+pre,None,2008-04-29,"KDE 4.1 Alpha1 Release Announcement",https://kde.org/announcements/4/4.1-alpha1/
+norelease,None,2008-04-04,"KDE and Wikimedia Start Collaboration",https://kde.org/announcements/kde-and-wikimedia-collaborate/
+kde,4.0.3,2008-04-02,"KDE 4.0.3 Release Announcement",https://kde.org/announcements/4/4.0.3/
+kde,4.0.2,2008-03-05,"KDE 4.0.2 Release Announcement",https://kde.org/announcements/4/4.0.2/
+kde,4.0.2,2008-03-05,"KDE 4.0.2 Release Announcement",https://kde.org/announcements/4/4.0.2.ro/
+kde,3.5.9,2008-02-19,"KDE 3.5.9 Release Announcement",https://kde.org/announcements/1-2-3/3.5.9/
+None,None,2008-02-05,"Anunţul de lansare KDE 4.0.1",https://kde.org/announcements/4/4.0.1.ro/
+kde,4.0.1,2008-02-05,"KDE 4.0.1 Release Announcement",https://kde.org/announcements/4/4.0.1/
+None,None,2008-01-11,"KDE 4.0 izlaists",https://kde.org/announcements/4/4.0.lv/
+None,None,2008-01-11,"KDE 4.0 Lansat",https://kde.org/announcements/4/4.0.ro/
+kde,4.0,2008-01-11,"KDE 4.0 Released",https://kde.org/announcements/4/4.0.hi/
+kde,4.0,2008-01-11,"KDE 4.0 Released",https://kde.org/announcements/4/4.0/
+None,None,2008-01-11,"KDE 4.0 שוחררה",https://kde.org/announcements/4/4.0.he/
+None,None,2008-01-11,"KDE 4.0 প্রকাশিত হয়েছে",https://kde.org/announcements/4/4.0.bn/
+None,None,2008-01-11,"KDE 4.0 ਰੀਲਿਜ਼ ਹੋਇਆ",https://kde.org/announcements/4/4.0.pa/
+None,None,2008-01-11,"KDE ૪.૦ રજૂ થયેલ છે",https://kde.org/announcements/4/4.0.gu/
+None,None,2008-01-11,"Vydáno KDE 4.0",https://kde.org/announcements/4/4.0.cz/
+None,None,2008-01-11,"கேடியீ நான்கு வெளிடப் பட்டது",https://kde.org/announcements/4/4.0.ta/
+None,None,2008-01-11,"കെഡിഇ 4.0 പുറത്തിറങ്ങി",https://kde.org/announcements/4/4.0.ml/
+pre,None,2007-12-11,"KDE 4.0 Release Candidate 2",https://kde.org/announcements/4/4.0-rc2/
+pre,None,2007-11-20,"KDE 4.0 Release Candidate 1",https://kde.org/announcements/4/4.0-rc1/
+pre,None,2007-10-30,"KDE 4.0 Beta 4",https://kde.org/announcements/4/4.0-beta4/
+pre,None,2007-10-30,"KDE 4.0 Platform Release Candidate 1",https://kde.org/announcements/4/4.0-platform-rc1/
+pre,None,2007-10-17,"KDE 4.0 Beta 3 Release Announcement",https://kde.org/announcements/4/4.0-beta3/
+kde,3.5.8,2007-10-16,"KDE 3.5.8 Release Announcement",https://kde.org/announcements/1-2-3/3.5.8/
+pre,None,2007-09-06,"KDE 4.0 Beta 2 Release Announcement",https://kde.org/announcements/4/4.0-beta2/
+kde,4.0-alpha2,2007-07-04,"KDE 4.0-alpha2 Release Announcement",https://kde.org/announcements/4/4.0-alpha2/
+kde,3.5.7,2007-05-22,"KDE 3.5.7 Release Announcement",https://kde.org/announcements/1-2-3/3.5.7/
+pre,None,2007-05-22,"KDE 4.0 Beta 1 Release Announcement",https://kde.org/announcements/4/4.0-beta1/
+kde,4.0-alpha1,2007-05-11,"KDE 4.0-alpha1 Release Announcement",https://kde.org/announcements/4/4.0-alpha1/
+kde,3.5.6,2007-01-25,"KDE 3.5.6 Release Announcement",https://kde.org/announcements/1-2-3/3.5.6/
+norelease,None,2006-10-14,"KDE Project Announced",https://kde.org/announcements/announcement/
+kde,3.5.5,2006-10-11,"KDE 3.5.5 Release Announcement",https://kde.org/announcements/1-2-3/3.5.5/
+norelease,None,2006-09-23,"aKademy 2006 kicked off",https://kde.org/announcements/akademy2006-kicked-off/
+norelease,None,2006-09-18,"aKademy 2006 Schedule Finalized",https://kde.org/announcements/akademy2006-schedule-finalized/
+kde,3.5.4,2006-08-02,"KDE 3.5.4 Release Announcement",https://kde.org/announcements/1-2-3/3.5.4/
+kde,3.5.3,2006-05-31,"KDE 3.5.3 Release Announcement",https://kde.org/announcements/1-2-3/3.5.3/
+norelease,None,2006-05-09,"KDE e.V. Becomes Associate Member of FSFE",https://kde.org/announcements/fsfe-associate-member/
+kde,3.5.2,2006-03-28,"KDE 3.5.2 Release Announcement",https://kde.org/announcements/1-2-3/3.5.2/
+kde,3.5.1,2006-01-31,"KDE 3.5.1 Release Announcement",https://kde.org/announcements/1-2-3/3.5.1/
+None,None,2005-11-29,"K Desktop Environment 3.5 Released",https://kde.org/announcements/1-2-3/3.5/
+pre,None,2005-10-18,"Announcing KDE 3.5 Beta 2 (\"Koalition\")",https://kde.org/announcements/1-2-3/3.5-beta2/
+kde,3.4.3,2005-10-13,"KDE 3.4.3 Release Announcement",https://kde.org/announcements/1-2-3/3.4.3/
+pre,None,2005-09-21,"Announcing KDE 3.5 Beta 1 (\"Kanzler\")",https://kde.org/announcements/1-2-3/3.5-beta1/
+kde,3.4.2,2005-07-28,"KDE 3.4.2 Release Announcement",https://kde.org/announcements/1-2-3/3.4.2/
+kde,3.4.1,2005-05-31,"KDE 3.4.1 Release Announcement",https://kde.org/announcements/1-2-3/3.4.1/
+None,None,2005-03-16,"Announcing KDE 3.4",https://kde.org/announcements/1-2-3/3.4/
+pre,None,2005-02-09,"Announcing KDE 3.4 Beta 2 (\"Keinstein\")",https://kde.org/announcements/1-2-3/3.4-beta2/
+pre,None,2005-01-13,"Announcing KDE 3.4 Beta 1 (\"Krokodile\")",https://kde.org/announcements/1-2-3/3.4-beta1/
+kde,3.3.2,2004-12-08,"KDE 3.3.2 Release Announcement",https://kde.org/announcements/1-2-3/3.3.2/
+kde,3.3.1,2004-10-12,"KDE 3.3.1 Release Announcement",https://kde.org/announcements/1-2-3/3.3.1/
+None,None,2004-08-19,"Announcing KDE 3.3",https://kde.org/announcements/1-2-3/3.3/
+pre,None,2004-07-22,"Announcing KDE 3.3 Beta 2 (\"Kollege\")",https://kde.org/announcements/1-2-3/3.3-beta2/
+pre,None,2004-07-07,"Announcing KDE 3.3 Beta 1 ("Klassroom")",https://kde.org/announcements/1-2-3/3.3-beta1/
+kde,3.2.3,2004-06-09,"KDE 3.2.3 Release Announcement",https://kde.org/announcements/1-2-3/3.2.3/
+kde,3.2.2,2004-04-19,"KDE 3.2.2 Release Announcement",https://kde.org/announcements/1-2-3/3.2.2/
+kde,3.2.1,2004-03-09,"KDE 3.2.1 Release Announcement",https://kde.org/announcements/1-2-3/3.2.1/
+None,None,2004-02-03,"Announcing KDE 3.2",https://kde.org/announcements/1-2-3/3.2/
+kde,3.1.5,2004-01-14,"KDE 3.1.5 Release Announcement",https://kde.org/announcements/1-2-3/3.1.5/
+pre,None,2003-11-03,"KDE 3.2 Beta 1: Say Hello To Rudi",https://kde.org/announcements/1-2-3/3.2-beta1/
+kde,3.1.4,2003-09-16,"KDE 3.1.4 Release Announcement",https://kde.org/announcements/1-2-3/3.1.4/
+kde,3.1.3,2003-07-29,"KDE 3.1.3 Release Announcement",https://kde.org/announcements/1-2-3/3.1.3/
+kde,3.1.2,2003-05-19,"KDE 3.1.2 Release Announcement",https://kde.org/announcements/1-2-3/3.1.2/
+kde,3.1.1,2003-03-20,"KDE 3.1.1 Release Announcement",https://kde.org/announcements/1-2-3/3.1.1/
+norelease,None,2003-03-11,"KDE@CeBIT 2003",https://kde.org/announcements/cebit2003/
+kde,3.1,2003-01-28,"KDE 3.1 Release Announcement",https://kde.org/announcements/1-2-3/3.1/
+kde,3.0.5a,2002-12-21,"KDE 3.0.5a Release Announcement",https://kde.org/announcements/1-2-3/3.0.5a/
+kde,3.0.5,2002-11-18,"KDE 3.0.5 Release Announcement",https://kde.org/announcements/1-2-3/3.0.5/
+kde,3.0.4,2002-10-09,"KDE 3.0.4 Release Announcement",https://kde.org/announcements/1-2-3/3.0.4/
+pre,None,2002-10-02,"KDE 3.1 Second Beta Testing Release",https://kde.org/announcements/1-2-3/3.1-beta2/
+pre,None,2002-08-22,"KDE 3.1 Beta Testing Release",https://kde.org/announcements/1-2-3/3.1-beta1/
+kde,3.0.3,2002-08-19,"KDE 3.0.3 Release Announcement",https://kde.org/announcements/1-2-3/3.0.3/
+kde,Project Ships Development,2002-07-11,"KDE Project Ships Development Release",https://kde.org/announcements/1-2-3/3.1-alpha1/
+kde,3.0.2,2002-07-02,"KDE 3.0.2 Release Announcement",https://kde.org/announcements/1-2-3/3.0.2/
+kde,3.0.1,2002-05-22,"KDE 3.0.1 Release Announcement",https://kde.org/announcements/1-2-3/3.0.1/
+pre,None,2002-04-25,"Improved Layout, Scriptability and Filters Highlight KOffice Beta Release for GNU/Linux and Other UNIXes",https://kde.org/announcements/koffice-1.2-beta1/
+kde,3.0,2002-04-03,"KDE 3.0 Released to public",https://kde.org/announcements/1-2-3/3.0/
+pre,None,2002-02-13,"KDE 3.0-beta2 Release Announcement",https://kde.org/announcements/1-2-3/3.0-beta2/
+pre,None,2001-12-19,"KDE 3.0-beta1 Release Announcement",https://kde.org/announcements/1-2-3/3.0-beta1/
+koffice,1.1.1,2001-12-17,"KOffice 1.1.1 Release Announcement",https://kde.org/announcements/koffice-1.1.1/
+kde,2.2.2,2001-11-21,"KDE 2.2.2 Release Announcement",https://kde.org/announcements/1-2-3/2.2.2/
+kde,3.0-alpha1,2001-10-05,"KDE 3.0-alpha1 Release Announcement",https://kde.org/announcements/1-2-3/3.0-alpha1/
+kde,2.2.1,2001-09-19,"KDE 2.2.1 Release Announcement",https://kde.org/announcements/1-2-3/2.2.1/
+koffice,1.1,2001-08-28,"KOffice 1.1 Release Announcement",https://kde.org/announcements/koffice-1.1/
+kde,2.2,2001-08-15,"KDE 2.2 Released",https://kde.org/announcements/1-2-3/2.2/
+pre,None,2001-07-04,"KDE 2.2-beta1 Release Announcement",https://kde.org/announcements/1-2-3/2.2-beta1/
+kde,2.1.2,2001-04-30,"KDE 2.1.2 Release Announcement",https://kde.org/announcements/1-2-3/2.1.2/
+kde,2.1.1,2001-03-27,"KDE 2.1.1 Release Announcement",https://kde.org/announcements/1-2-3/2.1.1/
+kde,2.1,2001-02-26,"KDE 2.1 Release Announcement",https://kde.org/announcements/1-2-3/2.1/
+pre,None,2001-01-31,"KDE 2.1-beta2 Release Announcement",https://kde.org/announcements/1-2-3/2.1-beta2/
+pre,None,2000-12-16,"KDE 2.1-beta1 Release Announcement",https://kde.org/announcements/1-2-3/2.1-beta1/
+kde,2.0.1,2000-12-05,"KDE 2.0.1 Release Announcement",https://kde.org/announcements/1-2-3/2.0.1/
+kde,2.0,2000-10-23,"KDE 2.0 Release Announcement",https://kde.org/announcements/1-2-3/2.0/
+kde,2.0,2000-10-10,"KDE 2.0 Release Announcement",https://kde.org/announcements/1-2-3/2.0-rc2/
+norelease,None,2000-10-02,"Linux Congress Documentation and Localization Workshop",https://kde.org/announcements/doc-loc-meeting/
+kde,1.94,2000-09-15,"KDE 1.94 Release Announcement",https://kde.org/announcements/1-2-3/1.94/
+norelease,None,2000-09-05,"KDE Official Response to Stallman Editorial",https://kde.org/announcements/rmsresponse/
+norelease,None,2000-08-31,"KDE Official Response to GNOME Foundation",https://kde.org/announcements/gfresponse/
+kde,1.93,2000-08-23,"KDE 1.93 Release Announcement",https://kde.org/announcements/1-2-3/1.93/
+norelease,None,2000-08-22,"KDE Desktop Is Show Favorite at LinuxWorld Expo",https://kde.org/announcements/lwe_08_2000.bw.press-release/
+norelease,None,2000-07-29,"KDE 2 Launch Pad",https://kde.org/announcements/k2launchpad/
+kde,1.92,2000-07-25,"KDE 1.92 Release Announcement",https://kde.org/announcements/1-2-3/1.92/
+kde,1.91,2000-06-14,"KDE 1.91 Release Announcement",https://kde.org/announcements/1-2-3/1.91/
+kde,1.90,2000-05-12,"KDE 1.90 Release Announcement",https://kde.org/announcements/1-2-3/1.90/
+norelease,None,2000-02-10,"SourceForge hosts KDE CVS",https://kde.org/announcements/sfcvs/
+kde,1.89,1999-12-15,"KDE 1.89 Release Announcement",https://kde.org/announcements/1-2-3/1.89/
+norelease,None,1999-09-14,"Meet the KDE Team at CeBIT 2000 Show",https://kde.org/announcements/cebit2000/
+kde,1.1.2,1999-09-13,"KDE 1.1.2 Release Announcement",https://kde.org/announcements/1-2-3/1.1.2/
+kde,1.1.1,1999-05-03,"KDE 1.1.1 Release Announcement",https://kde.org/announcements/1-2-3/1.1.1/
+norelease,None,1999-03-19,"ZD Innovation of the Year 1998/1999",https://kde.org/announcements/zd-innov-cebit99/
+norelease,None,1998-11-25,"Corel Computer and KDE Announce Technology Relationship",https://kde.org/announcements/kde-corel/
+norelease,None,1998-09-04,"KDE Included in Delix",https://kde.org/announcements/dldannounc/
+norelease,None,1998-07-29,"KDE included in SuSE Linux Announcements",https://kde.org/announcements/kde-suse/
+norelease,None,1998-07-16,"KDE Announces Support Of KDE Technology",https://kde.org/announcements/kde-caldera/
+kde,1.0,1998-07-12,"KDE 1.0 Release Announcement",https://kde.org/announcements/1-2-3/1.0/
+pre,None,1998-04-19,"KDE 1.0-beta4 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta4/
+pre,None,1998-02-01,"KDE 1.0-beta3 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta3/
+pre,None,1997-11-23,"KDE 1.0-beta2 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta2/
+pre,None,1997-10-20,"KDE 1.0-beta1 Release Announcement",https://kde.org/announcements/1-2-3/1.0-beta1/
