@@ -24,7 +24,8 @@ def identify_release(url, title):
     if m:
         if m.group(1) == "2":
             return "pre", None
-        return "plasma", m.group(1)
+        if m.group(1) != "5":
+            return "plasma", m.group(1)
 
     m = re.search("kde.org/announcements/(.*)", url)
     if m:
@@ -104,7 +105,7 @@ with csv_path.open("w") as csv:
                 stream, version = identify_release(link, title)
                 if stream == None or stream == "pre" or stream == "norelease":
                     continue
-                if stream == "plasma" and version == "2":
+                if stream == "plasma" and version == "5":
                     print(title, link)
                 if stream in releases.keys():
                     releases[stream].append(version)
