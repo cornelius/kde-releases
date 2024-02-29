@@ -18,7 +18,7 @@ def identify_release(url, title):
 
     m = re.search("KDE Gear\D+([\d\.]+)", title)
     if m:
-        return "gear", m.group(1)
+        return "applications", m.group(1)
 
     m = re.search("Plasma ([\d\.]+)", title)
     if m:
@@ -55,13 +55,13 @@ def identify_release(url, title):
                 return "kde", version1
             return None, None
         if category == "gear":
-            return "gear", version1
+            return "applications", version1
         if category == "frameworks":
             if "alpha" in version1 or "tp" in version1:
                 return "pre", None
             return "frameworks", version2
         if category == "releases":
-            return "releases", version1
+            return "applications", version1
         if category == "applications":
             if version1 == "14.12.0":
                 return "applications", "14.12"
@@ -79,7 +79,7 @@ releases = {}
 
 csv_path = Path("all-kde-releases.csv")
 with csv_path.open("w") as csv:
-    csv.write("Date,Title,Link\n")
+    csv.write("Stream,Version,Date,Title,Link\n")
     for page in range(1,76):
         path = Path("announcements") / f"page-{page:02d}.html"
 
@@ -103,6 +103,27 @@ with csv_path.open("w") as csv:
                     if element["class"][0] == "post-entry":
                         link = element.find("a")["href"]
                 stream, version = identify_release(link, title)
+
+                apps_update_versions = {
+                    '2021-02-apps-update': "20.12.2",
+                    '2021-01-apps-update': "20.12.1",
+                    '2020-12-apps-update': "20.12.0",
+                    '2020-11-apps-update': "20.08.3",
+                    '2020-10-apps-update': "20.08.2",
+                    '2020-09-apps-update': "20.08.1",
+                    '2020-08-apps-update': "20.08.0",
+                    '2020-07-apps-update': "20.04.3",
+                    '2020-06-apps-update': "20.04.2",
+                    '2020-05-apps-update': "20.04.1",
+                    '2020-04-apps-update': "20.04.0",
+                    '2020-03-apps-update': "19.12.3",
+                    '2020-02-apps-update': "19.12.2",
+                    '2020-01-apps-update': "19.12.1",
+                    '2019-12-apps-update': "19.12.0"
+                }
+                if version in apps_update_versions.keys():
+                    version = apps_update_versions[version]
+
                 if stream == None or stream == "pre" or stream == "norelease":
                     continue
                 if stream == "plasma" and version == "5":
